@@ -1,0 +1,7672 @@
+%
+01	Pronoun
+02	I
+03	We
+04	Self
+05	You
+06	Other
+07	Negate
+08	Assent
+09	Article
+10	Preps
+11	Numbers
+12	Affect
+13	Positiveemotion
+14	Positivefeeling
+15	Optimism
+16	Negativeemotion
+17	Sad
+18	Cognitivemechanism
+19	Cause
+20	Insight
+21	Discrepancy
+22	Inhibition
+23	Tentative
+24	Certain
+25  Sensory
+26  See
+27  Hear
+28  Feel
+29	Social
+30	Communication
+31	Otherreference
+32	Friends
+33	Family
+34	Humans
+35	Time
+36	Past
+37	Present
+38	Future
+39	Space
+40	Up
+41	Down
+42	Incl
+43	Excl
+44	Motion
+45	Occup
+46	School
+47	Job
+48	Leisure
+49	Home
+50	Sports
+51	TV
+52	Music
+53	Money
+54	Metaph
+55	Relig
+56	Death
+57	Physical
+58	Body
+59	Sex
+60	Eat
+61	Sleep
+62	Grooming
+63	Swear
+64	Nonfluency
+65	Fillers
+66  Achievement
+67  Affiliation
+68  Threatappr
+69  Care
+70  Consumption
+71  Fear
+72  Power
+%
+ab	10	35	39
+abbrach*	36
+abbreche	37
+abbrich*	37
+abend*	35
+abendessen*	57	60
+aber	18	21	43
+abermals	35
+abfaehrst	37	44
+abfaehrt	37	44
+abfahre	37	44
+abfahren	44
+abfaehrst	37	44
+abfahrt	44
+abfaehrt	37	44
+abfertig*	45	47	53
+abfindung*	45	47	53
+abfliege	37	44
+abfliegen	44
+abfliegst	37	44
+abfliegt	37	44
+abflog	36	44
+abfolge*	45	
+abfuhr*	36	44
+abgab*	36
+abgabe*	18	22	45	46	47	53
+abgaenger*	45	46
+abgaenger*	45	46
+abgebe	37
+abgebrochen	36
+abgefahren	36	44
+abgeflogen	36	44
+abgegeben	36
+abgegrenzt*	18	22
+abgehalten*	18	22
+abgekaempft*	57	58
+abgekaempft*	57	58
+abgelaufen	36
+abgelehnt	12	16	29	30	36
+abgeliefert	36	44
+abgemueht*	12	16
+abgemueht*	12	16
+abgeneigt*	12	16	18	22
+abgenommen	36
+abgepackt	36	44
+abgereist	36	44
+abgerueckt	36	44
+abgerueckt	36	44
+abgerufen	29	30	36
+abgesagt	29	30	36
+abgeschliffen	36
+abgeschlossen	36
+abgeschlossen	54	55	36
+abgesichert*	12	13	15	18	24
+abgespannt*	12	16
+abgesperrt*	18	22
+abgespielt	12	13	36	48	50
+abgestiegen	36	44
+abgestimmt*	48	52
+abgestorben*	54	56	36
+abgestossen	36
+abgestritten*	18	22
+abgestumpft*	12	16	17
+abgetragen	36	44
+abgetrieben*	57	58	59	36
+abgewandt*	18	22
+abgewartet*	18	22
+abgewehr*	18	22
+abgewendet*	18	22
+abgib*	37
+abgrenz*	18	22
+abhaeng*	18	19
+abhaeng*	18	19
+abklaer*	18	20
+abklaer*	18	20
+ablaeuf*	37
+ablauf*	45	
+ablaeuf*	37
+ablaufe	37
+ableb*	56
+ableb*	37	54	56
+ablebe*	54	56
+ablehn*	12	16	29	30
+ablief	36
+abliefen	36
+abliefere	37	44
+abliefern	44
+ablieferst	37	44
+abliefert	37	44
+ablieferte*	36	44
+abliefst	36
+ablieft	36
+abmueh*	45	47
+abmueh*	45	47
+abnahm*	36
+abnehme	37
+abnehmer*	53
+abneig*	12	16
+abnimm*	37
+abpack*	37	44	45	46
+abpacke	37	44
+abpacken	44
+abpackst	37	44
+abpackt	37	44
+abpackte*	36	44
+abreise*	44
+abreist	37	44
+abreiste*	36	44
+abrief*	29	30	36
+abruecke	37	44
+abruecken	44
+abrueckst	37	44
+abrueckt	37	44
+abrueckte*	36	44
+abruecke	37	44
+abruecken	44
+abrueckst	37	44
+abrueckt	37	44
+abrueckte*	36	44
+abruf*	29	30
+abrupt*	35
+absag*	29	30
+absatz*	45	46	47
+absatz*	53
+absatz*	53
+absauf*	56
+abschaum*	63
+abscheu*	12	16
+abschiedsbrief	56
+abschleife	37
+abschliess*	54	55
+abschliess*	54	55
+abschliesse	37
+abschliesse	37
+abschliessen	18	20	45	
+abschliessen	18	20	45	
+abschliessen	18	20	45	
+abschliesst	37
+abschliesst	37
+abschliff*	36
+abschloss*	36
+abschloss*	36
+abschluss	54	55
+abschluss*	18	20	45	
+abschluss*	18	20	45	
+abschlussfeier*	45	46
+abschreck*	12	16	
+abschrift*	45	46
+abseit*	48	51
+abseits	10	39
+absicher*	18	24
+absicht*	18	19	45	
+absolut*	12	13	18	24
+absolvent*	45	46
+absolvier*	45	46
+abstaende	39
+abstamm*	45	
+abstand	39
+abstaende	39
+absteige	37	44
+absteigen	44
+absteigst	37	44
+absteigt	37	44
+abstieg*	36	44
+abstiess*	36
+abstiess*	36
+abstoess*	37
+abstoess*	37
+abstosse	37
+abstosse	37
+abstreit*	18	22
+abtaste*	18	20
+abteilung*	45	46	47
+abtraegst	37	44
+abtraegt	37	44
+abtrage	37	44
+abtragen	44
+abtraegst	37	44
+abtraegt	37	44
+abtreiben*	57	58	59
+abtreibung*	57	58	59
+abtrug*	36	44
+abwaerts	39	41
+abwarte*	18	22
+abwaerts	39	41
+abwehr*	18	22
+abwende*	18	22
+abzueg*	53
+abzueglich	10	43
+abzueg*	53
+abzueglich	10	43
+acht	11
+achtund*	11
+achtzehn	11
+achtzig	11
+ad	10
+ader*	57	58
+administrati*	45	46	47
+adoptivkind*	29	33	34
+aehm*	64
+aelter*	35
+aengst*	12	16	
+aerger*	12	16		29	30
+aerm*	53
+aerobic*	48	50
+aerobik*	48	50
+aersche	12	16		57	58	59	63
+aeussere	29	30	37
+aeussern	29	30
+aeusserst	12	13	15	45	
+aeusserte*	29	30	36
+aeusserung*	29	30
+affe	63
+affektiert*	12	16
+aggress*	12	16	
+aehm*	64
+aids*	57	58	59
+akadem*	45	46
+akademi*	45	46
+akademie*	45	46
+akademiker*	45	46
+aktie*	53
+aktion*	44
+aktiv*	12	13
+aktuell*	35
+akzeptanz	18	20
+akzeptier*	8	18	20
+alber*	12	13
+albtr*	57	61
+alkohol*	57	60
+allabendlich*	35
+alle*	18	24	31
+allein	12	16	17
+alleine	12	16	17
+allerfruehestens	35
+allerfruehestens	35
+allerg*	57	58
+alljaehrlich*	35
+alljaehrlich*	35
+als	10	35	43
+alsbald	35
+alt*	35
+alter*	35
+aelter*	35
+alterung	54	56
+alumn*	45	46
+amt*	45	46	47
+amues*	12	13
+amues*	12	13
+an	10	39
+analys*	45	46
+analyse*	18	20
+analysier*	18	20
+anbet*	12	13	14	54	55
+anbrachte*	36
+anbringe	37
+anbringst	37
+anbringt	37
+andacht	54	55
+andauer*	35
+andeute	29	30	37
+andeuten	29	30
+andeutest	29	30	37
+andeutete*	29	30	37
+andeutung*	29	30
+andrang*	45	46
+androh*	12	16	
+aneign*	45	47
+anekel*	12	16	
+anerkannt*	18	20	29	30	36
+anerkenne	18	20	29	30	37
+anerkennen	18	20	29	30
+anerkennst	18	20	29	30	37
+anerkennt	18	20	29	30	37
+anerkennung*	18	20	29	30
+anfaelle*	57	58
+anfaeng*	35	37
+anfaenger*	45	46
+anfall*	57	58
+anfaelle*	57	58
+anfang	35
+anfaeng*	35	37
+anfange	37
+anfaenger*	45	46
+anfangs	10	35
+anfechte	29	30	37
+anfechten	29	30
+anfechtest	29	30	37
+anfechtet	29	30	37
+anfechtung	29	30
+anfing*	35	36
+anflehe	29	30	37
+anflehen	29	30
+anflehst	29	30	37
+anfleht	29	30	37
+anflehte*	29	30	36
+anflehung*	29	30
+anfordere	29	30	37
+anfordern	29	30
+anforderst	29	30	37
+anfordert	29	30	37
+anforderte*	29	30	36
+anforderung	29	30
+anforderung*	18	22	45	46
+anfrage*	45	46	47
+angab*	36
+angebe	37
+angebetet*	12	13	14
+angeblich*	18	23
+angebracht	36
+angedauert	35	36
+angedeutet	29	30	36
+angedroht*	12	16	
+angeekelt*	12	16	
+angefangen	35	36
+angefleht	29	30	36
+angefochten	29	30	36
+angefordert	29	30	36
+angegangen	36
+angegeben	36
+angehe	37
+angehimmelt*	12	13	14
+angehoben	45	47	36
+angehoerige*	29	33
+angehoert	29	30	36
+angehoerige*	29	33
+angehoert	29	30	36
+angehst	37
+angeht	37
+angekommen	36	44
+angekotzt*	12	16	
+angelaechelt*	12	13
+angelaechelt*	12	13
+angeliefert	36	44
+angenaehert	36	44
+angenaehert	36	44
+angenehm	12	13
+angenommen	18	19	20	36
+angeraten	29	30	36
+angeregt*	12	13	18	19	20	36	45	
+angereist	36	44
+angerufen	29	30	36
+angeschlossen	36
+angeschwollen	36
+angesichts	10
+angespannt*	12	16	57	58
+angespornt	18	19	20	29	30	36
+angestellt*	45	47	53
+angesteuert	36	44
+angestrengt*	12	16
+angestrichen	36
+angetrieben	36	44
+angetroffen	29	30	36
+angewandt	36
+angewidert*	12	16
+angezogen	36
+angezweifelt*	12	16
+angib*	37
+angina*	57	58
+anging*	36
+angst*	12	16	
+aengst*	12	16	
+anhaenglich*	12	13
+anhand	10
+anhaenglich*	12	13
+anheb*	45	47
+anhimmel*	12	13	14
+anhoer*	25	27	29	30	37	48	52
+anhoere	29	30	37
+anhoeren	29	30
+anhoerst	29	30	37
+anhoert	29	30	37
+anhoerte*	29	30	36
+anhoerung*	29	30
+anhoer*	25	27	29	30	37	48	52
+anhoere	29	30	37
+anhoeren	29	30
+anhoerst	29	30	37
+anhoert	29	30	37
+anhoerte*	29	30	36
+anhoerung*	29	30
+animus	54	55
+ankam*	36	44
+ankomme	37	44
+ankommen	44
+ankommst	37	44
+ankommt	37	44
+ankotz*	12	16	
+anlaechel*	12	13
+anlaechl*	12	13
+anlaechel*	12	13
+anlaechl*	12	13
+anlaesslich	10
+anlass*	18	19	45		19
+anlaesslich	10
+anlaesslich	10
+anlege*	53
+anliefere	37	44
+anliefern	44
+anlieferst	37	44
+anliefert	37	44
+anlieferte*	36	44
+anmeld*	45	46
+annaehere	37	44
+annaehern	44
+annaeherst	37	44
+annaehert	37	44
+annaeherung*	44
+annaehere	37	44
+annaehern	44
+annaeherst	37	44
+annaehert	37	44
+annaeherung*	44
+annahm*	18	19	20	36
+annehmbar*	12	13
+annehme	18	19	20	37
+annimm*	18	19	20	37
+annonce*	48	51
+annullier*	18	21
+anorexi*	57	58	60
+anpreis*	29	30	45	
+anraet*	29	30	37
+anraet*	29	30	37
+anrate*	29	30
+anreg*	12	13	18	19	20	45	
+anreise*	44
+anreist	37	44
+anreiste*	36	44
+anrief*	29	30	36
+anriet*	29	30	36
+anruf	29	30
+anrufe	29	30	37
+anrufen	29	30
+anrufst	29	30	37
+anruft	29	30	37
+anschliesse	37
+anschliesse	37
+anschliesst	37
+anschliesst	37
+anschloss*	36
+anschloss*	36
+anschwelle	37
+anschwill*	37
+anschwoll*	36
+ansonsten	43
+anspann*	12	16
+ansporn*	18	19	20	29	30
+ansspruchsvoll*	12	13	15	45	
+anstatt	10
+ansteckung*	57	58
+ansteig*	45	46
+anstell*	45	47
+anstelle	10
+anstellung*	39	45	47
+ansteuere	37	44
+ansteuern	44
+ansteuerst	37	44
+ansteuert	37	44
+ansteuerte*	36	44
+anstoss*	18	45	
+anstoss*	18	45	
+anstreiche	37
+anstreichst	37
+anstreicht	37
+anstreng*	12	16	45	47	
+anstrengend*	18	45	
+anstrich*	36
+anstuerm*	45	46
+ansturm*	45	46
+anstuerm*	45	46
+anteil*	53
+antrag*	45	46	47
+antreib*	45	46	
+antreibe	37	44
+antreiben	44
+antreibst	37	44
+antreibt	37	44
+antret*	45	
+antrieb*	44	45	
+antwort*	18	20
+anvertrau*	29	30
+anwandte*	36
+anwend*	45	46	47	48	50
+anwende	37
+anwendest	37
+anwendet	37
+anwider*	12	16
+anwohn*	48	49
+anzeige*	48	51
+anziehe	37
+anziehst	37
+anzieht	37
+anzog*	36
+anzweifel*	12	16
+apartment*	48	49
+apoplex*	57	58
+appendi*	57	58
+appeti*	57	60
+april*	35
+arbeit*	37	45	47	
+arbeit*	45	47	
+arbeitete*	36	45	47	
+arbeits*	39	45	47
+arbeitskolleg*	29	32	45	47
+arbeitslohn*	37	45	47	53
+areal	39
+areale	39
+aerger*	12	16		29	30
+argument*	18	19	20	29	30
+argumentier*	18	19	20
+argwoehn*	12	16
+argwohn*	12	16
+argwoehn*	12	16
+arm*	53	57	58
+aerm*	53
+armgelenk*	57	58
+armleuchter*	63
+armut*	53
+arsch*	12	16		57	58	59	63
+aersche	12	16		57	58	59	63
+arthr*	57	58
+asche	56
+asche*	54	56
+ass*	36
+ass*	36
+asthma*	57	58
+atem*	57	58
+auch	42
+auditorium*	45	46
+auf	10	39	40
+aufbau*	29	45	47
+aufdeck*	18	20
+aufenthalt*	48	49
+auffaehrst	37	44
+auffaehrt	37	44
+auffahre	37	44
+auffahren	44
+auffaehrst	37	44
+auffaehrt	37	44
+aufforder*	12	13	15	45	
+auffordere	29	30	37
+auffordern	29	30
+aufforderst	29	30	37
+auffordert	29	30	37
+aufforderte*	29	30	36
+aufforderung*	29	30
+auffuehr*	12	13	37	48	52
+auffuehrung*	12	13	37	48	50	52
+auffuhr*	36	44
+auffuehrung*	12	13	37	48	50	52
+aufgab*	12	16	17	18	22
+aufgabe*	18	22	45	47
+aufgebe*	12	16	17
+aufgedeckt*	18	20
+aufgefahren	36	44
+aufgefordert	29	30	36
+aufgegeben*	12	16	17
+aufgehalten*	18	22
+aufgehoben	36
+aufgehoert*	35	36
+aufgehoert	35	36
+aufgeklaer*	18	20
+aufgeklaer*	18	20
+aufgelehnt*	12	16	
+aufgemuntert	29	30	36
+aufgenommen	29	30	36
+aufgeregt*	12	16	
+aufgerueckt	36	44
+aufgerueckt	36	44
+aufgerufen*	29	30	36
+aufgeschoben*	18	22
+aufgeschrieben	36
+aufgestiegen	36	44
+aufgesucht	29	30	36
+aufgetreten	36
+aufgewacht*	36	57	61
+aufgib*	12	16	17
+aufgrund	10
+aufhael*	18	22
+aufhael*	18	22
+aufhalt*	18	22
+aufhebe	37
+aufhebst	37
+aufhebt	37
+aufhob*	36
+aufhoere	35	37
+aufhoerst	35	37
+aufhoert	35	37
+aufhoerte*	35	36
+aufhoere	35	37
+aufhoerst	35	37
+aufhoert	35	37
+aufhoerte*	35	36
+aufklaer*	18	20
+aufklaer*	18	20
+auflehn*	12	16	
+auflist*	45	46
+aufloes*	18	20	45	
+aufloes*	18	20	45	
+aufmunter*	29	30
+aufnahm*	29	30	36	48	51	52
+aufnehm*	48	51	52
+aufnehme	29	30	37	48	51	52
+aufnehmen	29	30	48	51	52
+aufnimm*	29	30	37	48	51	52
+aufraeum*	48	49	57	62
+aufraeum*	48	49	57	62
+aufreg*	12	16	
+aufrichtig*	12	13
+aufrief*	29	30	36
+aufruecke	37	44
+aufruecken	44
+aufrueckst	37	44
+aufrueckt	37	44
+aufrueckte*	36	44
+aufruecke	37	44
+aufruecken	44
+aufrueckst	37	44
+aufrueckt	37	44
+aufrueckte*	36	44
+aufruf	29	30
+aufrufe	29	30	37
+aufrufen	29	30
+aufrufst	29	30	37
+aufruft	29	30	37
+aufruhr	12	16
+aufschieb*	18	22
+aufschreibe	37
+aufschreibst	37
+aufschreibt	37
+aufschrieb*	36
+aufschub*	18	22
+aufschuebe*	18	22
+aufschuebe*	18	22
+aufsicht*	12	13	15	18	22	45	47	
+aufspar*	53
+aufstand	12	16	
+aufsteige	37	44
+aufsteigen	44
+aufsteigst	37	44
+aufsteigt	37	44
+aufstieg*	44
+aufsuche	29	30	37
+aufsuchen	29	30
+aufsuchst	29	30	37
+aufsucht	29	30	37
+aufsuchte*	29	30	36
+auftrag*	45	46	47
+auftrags	10
+auftrat*	36
+auftrete	37
+auftritt*	37
+auftsteig*	44	45	
+aufuehr*	45	
+aufwach*	37	57	61
+aufwaerts	39	40
+aufwand	53
+aufwaerts	39	40
+aufwend*	53
+aufzeich*	48	52
+auge*	25	26	57	58
+augenblick*	35
+augenschmerz*	12	16	57	58
+august*	35
+auktion*	53
+aula*	45	46
+aus	10	39
+ausbildung*	45	46
+ausborg*	53
+ausdruck	29	30
+ausdruecke*	29	30
+ausdruckslos*	12	16
+ausdrueckst	29	30	37
+ausdrueckt	29	30	37
+ausdrueckte*	29	30	36
+ausdruecke*	29	30	37
+ausdrueckst	29	30	37
+ausdrueckt	29	30	37
+ausdrueckte*	29	30	36
+auseinandergerissen	36
+auseinandergesetzt	18	20	29	30	36
+auseinanderreisse	37
+auseinanderreisse	37
+auseinanderreisst	37
+auseinanderreisst	37
+auseinanderriss*	36
+auseinanderriss*	36
+auseinandersetze	18	20	29	30	37
+auseinandersetzen	18	20	29	30
+auseinandersetzt	18	20	29	30	37
+auseinandersetzte*	18	20	29	30	36
+ausfaell*	37
+ausfaell*	37
+ausfalle	37
+ausfallend*	12	16	
+ausfechte	29	30	37
+ausfechten	29	30
+ausfechtest	29	30	37
+ausfechtet	29	30	37
+ausfechtete*	29	30	36
+ausficht*	29	30	37
+ausfiel*	36
+ausflipp*	12	16	
+ausfocht*	29	30	36
+ausfuehr*	18	45	
+ausfuehr*	18	45	
+ausgabe*	53
+ausgang*	18	19	45	
+ausgeben	37	53
+ausgebildet*	45	47
+ausgedrueckt	29	30	36
+ausgedrueckt	29	30	36
+ausgefallen	36
+ausgefochten	29	30	36
+ausgegangen	36	44
+ausgehandelt	29	30	36
+ausgehe	37	44
+ausgehen	44
+ausgehst	37	44
+ausgeht	37	44
+ausgekundschaftet	36	44
+ausgelassen*	12	13
+ausgeliefert	36	44
+ausgeloescht	56
+ausgeloescht	56
+ausgenommen*	43
+ausgenutzt*	12	16	
+ausgepraegt*	18	24
+ausgepraegt*	18	24
+ausgeredet	29	30	36
+ausgesandt	36
+ausgesehen	36
+ausgestorb*	56
+ausgewert*	18	20
+ausgewirk*	18	19	20
+ausgezeichnet*	12	13	15	45	
+ausgezogen	36	44
+ausging*	36	44
+aushandel*	29	30	45	47
+aushandele	29	30	37
+aushandeln	29	30
+aushandelst	29	30	37
+aushandelt	29	30	37
+aushandelte*	29	30	36
+auskomm*	45	47
+auskundschafte	37	44
+auskundschaften	44
+auskundschaftest	37	44
+auskundschaftet	37	44
+auskundschaftete*	36	44
+ausleih*	53
+ausliefere	37	44
+ausliefern	44
+auslieferst	37	44
+ausliefert	37	44
+auslieferte*	36	44
+ausloesch*	56
+ausloesch*	56
+ausnutz*	12	16
+ausprobiert*	18	36	45	
+ausrechne*	18	20
+ausrede*	29	30
+aussah*	36
+aussandte*	36
+ausschlaege*	57	58
+ausschlag*	57	58
+ausschlaege*	57	58
+ausschliessend*	43
+ausschliessend*	43
+ausschliesslich	10	43
+ausschliesslich	10	43
+ausschuss*	45	47
+aussegnung*	56
+aussehe	37
+aussen	39	41
+aussen	39	41
+aussende	37
+aussendest	37
+aussendet	37
+ausser	10	39	43
+ausser	10	39	43
+ausserdem	42
+ausserdem	42
+aeussere	29	30	37
+ausserhalb	10	39	43
+ausserhalb	10	39	43
+aeussern	29	30
+aeusserst	12	13	15	45	
+aeusserte*	29	30	36
+aeusserung*	29	30
+aussichtsreich*	12	13	15
+aussiehst	37
+aussieht	37
+aussoehn*	12	13
+aussoehn*	12	13
+ausspannen*	57	58
+aussterb*	37	54	56
+ausverkauf*	36	53
+auswaerts	39	43
+auswaerts	39	43
+auswert*	18	20	45	46
+auswirk*	18	19	20
+auszeichn*	12	13	15	45	
+ausziehe	37	44
+ausziehen	44
+ausziehst	37	44
+auszieht	37	44
+auszog*	36	44
+babies*	29	34
+baby*	29	34
+backe	37
+backe*	57	58
+backst	37
+baeckst	37
+backt	37
+baeckt	37
+backte*	36
+bad*	44	48	49	50	57	62
+baden*	48	49	57	62
+baeckst	37
+baeckt	37
+baender	48	52
+baeuche*	57	58
+bald*	35	38
+band	48	52
+band*	29	36	48	52
+baender	48	52
+bang*	12	16	
+bank*	53
+bar	10	43
+bar*	53
+barg*	36
+barmherzig*	54	55
+barriere*	18	22
+barst*	36
+baseball*	45	46	48	50
+basis	18	19
+basketball*	45	46	48	50
+bastard*	12	16		63
+bat	12	13	36
+baten	12	13	36
+batest	12	13	36
+batet	12	13	36
+bauch*	57	58
+baeuche*	57	58
+bauerntoelpel*	63
+bauerntoelpel*	63
+beabsicht*	18	19	45	
+bearbeit*	37	45	47	
+beaufsicht*	45	47
+becken*	57	58
+bedank*	12	13
+bedauer*	12	16	17
+bedaure*	12	16	17
+bedeut*	18	20
+bedien*	12	13	15	18	22	45	
+bedroh*	12	16	
+bedrueckend*	12	16	17
+bedrueckend*	12	16	17
+beduerftig*	53
+beduerftigkeit	53
+beduerftig*	53
+beduerftigkeit	53
+beeifluss*	12	13	15	18	22	45	
+beeindruck*	12	13
+beeinfluss*	18	19
+beeinflusst	18	19
+beeinflusst	12	13	15	18	22	45		36
+beeintraechtig*	12	16	18	19
+beeintraechtig*	12	16	18	19
+beend*	18	20	45		54	55
+beende*	35
+beendet*	18	20	45		54	55
+beendig*	35
+beerdig*	54	56
+beerdige*	54	56
+beerdigt	54	56	36
+beerdigung*	54	56
+befahl*	36
+befehle	37
+befiehl*	37
+befoerdere	37	44
+befoerdern	44
+befoerderst	37	44
+befoerdert	44
+befoerderte*	36	44
+befohlen	36
+befoerder*	44	45	
+befoerdere	37	44
+befoerdern	44
+befoerderst	37	44
+befoerdert	44
+befoerderte*	36	44
+befrag*	29	30	45	47
+befrage	29	30	37
+befragen	29	30
+befragst	29	30	37
+befragt	29	30	37
+befragte*	29	30	36
+befragung*	29	30
+befreunden	29	30
+befrist*	12	13	15	18	45		20
+befristet*	35
+befuercht*	12	16	
+befug*	45	
+befund*	18	20
+begab*	12	13
+begann*	36
+begegne	29	30	37
+begegnen	29	30
+begegnest	29	30	37
+begegnet	29	30	37
+begegnete*	29	30	36
+begegnung*	29	30
+begeister*	12	13	15
+begfoerder*	44	45	
+beginn	35
+beginn*	18	45	
+beginne	35	37
+beginnst	35	37
+beginnt	35	37
+beglaubig*	45	47
+begleiter*	29	32
+begleitperson*	29	32
+begonn*	18	35	36	45	
+begrab*	54	56
+begrabe*	54	56
+begraben	54	56	36
+begraebnis	54	56
+begraebnis*	54	56
+begraebnis	54	56
+begraebnis*	54	56
+begreife	37
+begreifst	37
+begreift	37
+begrenzt	39
+begriff*	18	20	36
+begruend*	45	
+begruende	18	19	20	29	30	37
+begruendest	18	19	20	29	30	37
+begruendet	18	19	20	29	30	37
+begruendete*	18	19	20	29	30	36
+begruendung*	18	19	20	29	30
+begruesse	29	30	37
+begruessen	29	30
+begruesst	29	30	37
+begruesste*	29	30	36
+begruessung*	29	30
+begruend*	45	
+begruende	18	19	20	29	30	37
+begruenden	18	19	20	29	30
+begruendest	18	19	20	29	30	37
+begruendet	18	19	20	29	30	37
+begruendete*	18	19	20	29	30	36
+begruendung*	18	19	20	29	30
+begruesse	29	30	37
+begruessen	29	30
+begruesst	29	30	37
+begruesste*	29	30	36
+begruessung*	29	30
+begutacht*	45	46
+behaelst	37
+behaelt	37
+behag*	12	13
+behaelst	37
+behaelt	37
+behalte	37
+behandel*	45	46
+behaupte*	18	20	29	30	37
+behaupten	18	20	29	30
+behauptest	18	20	29	30	37
+behauptet	18	20	29	30	37
+behauptete*	18	20	29	30	36
+behauptung*	18	20	29	30
+beherrsch*	12	13
+behielt*	36
+behoerde*	45	46	47
+behoerde*	45	46	47
+bei	10	39
+beicht*	18	20	29	30	54	55
+beiderseits	10
+beigetragen	36
+beinahe	18	23
+beirat*	45	46
+beisetzen	54	56
+beisetzung*	54	56
+beisse	37
+beisse	37
+beisst	37
+beisst	37
+beitraegst	37
+beitraegt	37
+beitrage	37
+beitraegst	37
+beitraegt	37
+beitrug*	36
+bekaempf*	12	16	
+bekaempf*	12	16	
+bekannte*	29	32
+bekanntschaft*	29	32
+bekenn*	18	20	29	30	54	55
+beklag*	12	16
+beklemm*	12	16	
+beklommen*	12	16		17
+bekloppt*	63
+bekuemmer*	56
+bekuemmert*	12	16	17
+bekuemmer*	56
+bekuemmert*	12	16	17
+belaechel*	12	16
+belaechel*	12	16
+belaestig*	12	16
+belast*	12	16
+belaestig*	12	16
+beleg*	45	47
+beleidige	12	16		29	30	37
+beleidigen	12	16		29	30
+beleidigst	12	16		29	30	37
+beleidigt	12	16		29	30	37
+beleidigte*	12	16		29	30	36
+beleidigung*	12	16		29	30
+beliebt*	12	13
+belohn*	12	13	15	45	
+belohnt*	12	13	15	45		36
+belustig*	12	13
+bemerk*	18	20
+bemitleid*	12	16	17
+bemueh*	12	13
+bemueh*	12	13
+benachbart*	39
+benachrichtige	29	30	37
+benachrichtigen	29	30
+benachrichtigst	29	30	37
+benachrichtigt	29	30	37
+benachrichtigte*	29	30	36
+benachrichtigung*	29	30
+benachteilig*	12	16		17
+benannt*	36
+beneid*	12	16
+benenne	37
+benennst	37
+benennt	37
+benomme*	12	16	57	61
+benommen*	12	16	57	58
+beobacht*	45	47
+beraet*	29	30	37
+berat*	29	30	45	46
+beraet*	29	30	37
+berate	29	30	37
+beraten	29	30
+berater*	45	46
+beratschlag*	29	30
+beratung*	29	30
+berechtig*	45	47
+berede*	29	30
+beredung*	29	30
+bereich	39
+bereiche	39
+bereise	37	44
+bereisen	44
+bereist	37	44
+bereiste*	36	44
+bereit	12	13
+bereits	35
+bereu*	12	16	17
+bergreif*	18	20
+bergsteig*	44	45	
+bericht*	18	20
+berichte	29	30	37
+berichten	29	30
+berichtest	29	30	37
+berichtet	29	30
+berichtete*	29	30	36
+berichtig*	18	20
+beriet*	29	30	36
+berste	37
+beru*	45	47
+beruehmt*	29	48	51	52
+beruf*	45	47
+beruf*	45	47
+beruf*	45	47
+beruf*	45	47
+berufstaetig*	45	47
+berufstaetig*	45	47
+beruhe	18	19	37
+beruhen	18	19
+beruhig*	12	13	15
+beruhigen*	57	58
+beruehmt*	29	48	52
+beruehmt*	48	51
+beruhst	18	19	37
+beruht	18	19	37
+beruhte*	18	19	36
+besass*	36
+besass*	36
+beschaeft*	45	47
+beschaeftig*	45	47
+beschaeftigung*	45	47
+beschaem*	12	16
+beschaffung*	53
+beschaeft*	45	47
+beschaeftig*	45	47
+beschaeftigung*	45	47
+beschaem*	12	16
+bescheuert*	12	16	63
+beschimpfe	12	16		29	30	37
+beschimpfen	12	16		29	30
+beschimpfst	12	16		29	30	37
+beschimpft	12	16		29	30
+beschimpfte*	12	16		29	30	36
+beschleunig*	45	46
+beschliesse	18	20	37
+beschliesse	18	20	37
+beschliessen	18	20
+beschliessen	18	20	45	
+beschliesst	18	20	37
+beschliesst	18	20	37
+beschloss	18	20	36	45	
+beschloss*	18	20	36
+beschloss*	18	20	36
+beschluesse	18	20
+beschluss	18	20
+beschluss	18	20
+beschluesse	18	20
+beschraenk*	18	22
+beschraenk*	18	22
+beschreibe	29	30	37
+beschreiben	29	30
+beschreibst	29	30	37
+beschreibt	29	30	37
+beschrieb*	29	30	36
+beschuldige	29	30	37
+beschuldigen	29	30
+beschuldigst	29	30	37
+beschuldigt	29	30
+beschuldigung*	29	30
+beschwer*	12	16	17	54	56
+beschwerde*	12	16		29	30
+beschwere	12	16		29	30	37
+beschweren	12	16		29	30
+beschwerlich*	18	45	
+beschwerst	12	16		29	30	37
+beschwert	12	16		29	30
+beschwerte*	12	16		29	30	36
+beschwing*	12	13	15
+besess*	12	16	36
+besichtige	37	44
+besichtigen	44
+besichtigst	37	44
+besichtigt	44
+besichtigte*	36	44
+besiegt	12	16		45		36
+besitz*	45	47	53
+besitze	37
+besitzgier*	12	16		53
+besitzt	37
+besorg*	12	16	
+besorgung*	37	53
+besprach*	29	30	36
+bespreche	29	30	37
+besprechen	29	30
+besprechung*	29	30	45	47
+besprich*	29	30	37
+besprochen	29	30	36
+besser*	12	13	15	45	
+bessert*	12	13	45		36
+best*	12	13	15	45	
+bestaendig*	35
+bestaerke	29	30	37
+bestaerken	29	30
+bestaerkst	29	30	37
+bestaerkt	29	30
+bestaerkte*	29	30	36
+bestand*	36
+bestaendig*	35
+bestaerke	29	30	37
+bestaerken	29	30
+bestaerkst	29	30	37
+bestaerkt	29	30
+bestaerkte*	29	30	36
+bestatt*	56
+bestatte*	54	56
+bestattung*	54	56
+bestehe	37
+bestehst	37
+besteht	37
+besteige	37	44
+besteigen	44
+besteigst	37	44
+besteigt	37	44
+bestell*	53
+bestelle	29	30	37
+bestellen	29	30
+bestellst	29	30	37
+bestellt	29	30
+bestellte*	29	30	36
+bestellung*	29	30
+bestieg*	36	44
+bestimm*	12	13	15	18	20	45	
+bestimmung*	18	19	45	
+bestraf*	12	16	
+bestreite	29	30	37
+bestreiten	29	30
+bestreitest	29	30	37
+bestreitet	29	30	37
+bestritt*	29	30	36
+bestuerz*	12	16
+bestuerz*	12	16
+besuche	37	44
+besuchen	44
+besuchst	37	44
+besucht	44
+besuchte*	36	44
+betaeub*	12	16	57	61
+betaeubt*	12	16	57	58
+betaeub*	12	16	57	61
+betaeubt*	12	16	57	58
+bete*	54	55
+beteuer*	18	24
+betracht*	45	46
+betraf*	36
+betrat*	36
+betrauer*	12	16	17	54	56
+betreffe	37
+betreffs	10
+betreibe	37	44
+betreiben	44
+betreibst	37	44
+betreibt	37	44
+betrete	37
+betreu*	45	46
+betreuer*	45	46
+betrieb	37	53
+betrieb*	36	44	45	47	
+betriff*	37
+betritt*	37
+betroffen	36
+betrog*	36
+betrueb*	12	16	17	54	56
+betrueb*	12	16	17	54	56
+betruege	12	16	37
+betrueger*	12	16
+betruegst	12	16	37
+betruegt	12	16	37
+betrug*	12	16
+betruege	12	16	37
+betrueger*	12	16
+betruegst	12	16	37
+betruegt	12	16	37
+betrunken*	57	60
+Bett*	48	49	61
+bett*	48	49	61
+bettele	12	16	29	30	37
+betteln	12	16	29	30
+bettelst	12	16	29	30	37
+bettelt	12	16	29	30	37
+bettelte*	12	16	29	30	36
+beule*	57	58
+beunruhig*	12	16	
+beurteile	29	30	37
+beurteilen	29	30
+beurteilst	29	30	37
+beurteilt	29	30
+beurteilte*	29	30	36
+beurteilung*	45	47
+bevollmaecht*	53
+bevollmaecht*	53
+bevor	35
+bewaehrt*	18	36	45	
+bewaeltig*	45	47	
+bewaehrt*	18	36	45	
+bewaehrt*	45	
+bewaeltig*	45	47	
+beweg*	48	50
+bewege	37	44
+bewegen	44
+beweggruende	18	19	45		19
+beweggrund*	18	19	45		19
+beweggruende	18	19	45		19
+bewegst	37	44
+bewegt	44
+bewegte*	36	44
+beweise	37
+beweist	37
+bewerb*	45	46	47
+bewert*	18	20
+bewies*	36
+bewirk*	18	19
+bewog*	36
+bewohn*	45	47	48	49
+bewunder*	12	13
+bewusst*	18	20
+bewusst*	18	20
+bezahl*	37	45	47	53
+bezahlt	36	45	47	53
+bezauber*	12	13
+bezeichne	29	30	37
+bezeichnen	29	30
+bezeichnest	29	30	37
+bezeichnet	29	30
+bezeichnung*	29	30
+beziehe	37
+beziehst	37
+bezieht	37
+bezirk	39
+bezirke	39
+bezog*	36
+bezuege	12	13	45	47
+bezueglich	10
+bezuege	12	13	45	47
+bezueglich	10
+bezweck*	18	19	45	
+bezweifel*	12	16
+bibel*	54	55
+bibilothek*	45	46
+biege	37
+biegst	37
+biegt	37
+bier*	57	60
+biest*	12	16	63
+biete	37
+bietest	37
+bietet	37
+bild*	12	13	18	20	45	
+bildung*	45	46
+billig*	53
+billion*	11
+bin	37
+binde	37
+bindest	37
+bindet	37
+binnen	10	35
+bio*	45	46
+biolog*	45	46
+birg*	37
+birst*	37
+bis	10	35	39
+bisex*	57	59
+bisher*	35
+biss*	36
+biss*	36
+bist	37
+bitte	12	13	29	30	37
+bitte*	54	55
+bittest	37
+bittet	37
+blaest	37
+blase	37
+blase*	57	58
+blast	37
+blaest	37
+bleibe	37
+bleibst	37
+bleibt	37
+blieb*	36
+blies*	36
+blinddarm*	57	58
+blinddaerme*	57	58
+block	45	46
+blockade*	18	22
+blockier*	18	22
+bloed*	12	16	63
+bloed*	12	16	63
+blut*	57	58
+bluten*	57	58
+blutgefaess*	57	58
+blutgefaess*	57	58
+boerse*	45	47
+boes*	12	16	
+bog*	36
+bombastisch*	12	13
+bonus*	45	47
+borg*	53
+boerse*	45	47
+boes*	12	16	
+boss	45	47
+bot*	36
+brach	36
+brachen	36
+brachst	36
+bracht	36
+brachte*	36	44
+braet*	37
+branche*	45	47
+brannte*	36
+braet*	37
+brate	37
+breche	37
+brechreiz*	57	58
+breit	39
+breite	39
+brenn*	25	28	58
+brenne	37
+brennst	37
+brennt	37
+brich*	37
+brieffreund*	29	32
+briet*	36
+bringe	37	44
+bringen	44
+bringst	37	44
+bringt	37	44
+bronchit*	57	58
+bruder*	29	33
+brueder*	29	33
+bruederlich*	45	46
+bruderschaft*	45	46
+brueder*	29	33
+bruederlich*	45	46
+bruell*	12	16	
+brueste*	57	58	59
+bruell*	12	16	
+brunch	57	60
+brust*	57	58	59
+brueste*	57	58	59
+brustschmerz*	12	16	57	58
+brustwarz*	57	58	59
+brutal*	12	16	
+bub*	29	34
+buch*	45	46
+buche*	53
+buecher*	45	46
+bude*	48	49
+buecher*	45	46
+buero	45	47
+buero*	45	47
+bulimi*	57	58	60
+bums*	12	16		57	59	63
+bumse	12	16	37	63
+bumst	12	16	37	63
+bumste*	12	16	36	63
+buero	45	47
+buero*	45	47
+burschenschaft*	45	46
+buerste*	62
+busenfreund*	29	32
+cafe*	45	46	57	60
+cafeteria*	45	46	57	60
+campus*	45	46
+cd*	48	52
+cent*	53
+champ	45	
+champion	45	
+chaot*	63
+charm*	12	13
+chauvi*	63
+check*	45	47	53
+chef*	45	47
+cholester*	57	58
+chor*	48	52
+christ*	54	55
+christus*	54	55
+clever*	12	13
+colleg*	45	46
+comedy*	48	51
+computer*	45
+contra	10
+cool*	12	13
+cousin*	29	33
+curricul*	45	46
+da	18	19	39	43
+dachte*	36
+dadurch	18	19
+daerme*	57	58
+daher	18	19
+dahin	39	43
+dahingegen	43
+damals	35
+dame*	29	34
+danach	35
+dank	10	12	13
+dankb*	12	13
+danke*	12	13
+darauf	39	40
+daraus	18	19
+darbietung	25	26	37	48	51
+darf*	37
+dargelegt*	18	20
+dargestellt	29	30	36
+darleg*	18	20
+darlehen	53
+darm*	57	58
+daerme*	57	58
+darstelle	29	30	37
+darsteller	48	51
+darstellerin	48	51
+darstellst	29	30	37
+darstellt	29	30	37
+darstellte*	29	30	36
+darstellung*	29	30
+darum	18	19
+darunter	39	41	42
+das	9
+date*	45	46
+datier*	45	46
+dating*	45	46
+dauer	35
+dauergelaufen	36	44
+dauerlaeufst	37	44
+dauerlaeuft	37	44
+dauerlaufe	37	44
+dauerlaufen	44
+dauerlaeufst	37	44
+dauerlauft	37	44
+dauerlaeuft	37	44
+dauerlief*	36	44
+dauern	35
+dauerst	35	37
+dauert	35	37
+dauerte*	35	36
+dazwischen	39
+debatte*	29	30
+debattiere	29	30	37
+debattieren	29	30
+debattierst	29	30	37
+debattiert	29	30
+debattierte*	29	30	36
+defensiv*	18	22
+definitiv*	18	24
+dein*	1	5	29	31
+dekade*	35
+dekan*	45	46
+dem	9
+dementiere	29	30	37
+dementieren	29	30
+dementierst	29	30	37
+dementiert	29	30
+dementierte*	29	30	36
+demnaechst	35	38
+demuetig*	12	16	
+demuetig*	12	16	
+den	9
+denen	1	29	31
+denke	18	20	37
+denken*	18	20
+denkst	18	20	37
+denkt	18	20	37
+dennoch	43
+departement*	45	46	47
+depp*	63
+depression*	12	16	17
+deprimiert*	12	16	17
+der	9
+derb*	12	16
+deren	1	6	29	31
+derer	1	6	29	31
+derweil	35
+derzeit*	35
+des	9
+deshalb	18	19
+dessen	1	6	29	31
+dessert*	57	60
+deswegen	18	19
+determinant*	12	13	15	18	45		20
+deutlich*	18	20	24
+dezember*	35
+dezernat*	45	46	47
+diabet*	57	58
+diaet*	57	60
+dialog*	29	30
+diarr*	57	58
+diaet*	57	60
+dich	1	5	29	31
+dicht	39
+dick*	57	58	60
+dickdarm*	57	58
+die	9
+diele	45	46
+dienst*	45	47
+dienstag*	35
+dienstgrad*	45	46
+diesseits	10	39
+differential*	45	46
+differenzial*	45	46
+dilemma	12	16	54	55
+dinner*	57	60
+dir	1	5	29	31
+diskette*	48	52
+diskussion*	29	30
+diskutiere	29	30	37
+diskutieren	29	30
+diskutierst	29	30	37
+diskutiert	29	30
+diskutierte*	29	30	36
+distanz*	39
+dm	53
+doch	43
+does*	57	61
+doesen*	57	61
+doeskopp*	63
+dollar*	53
+donnerstag*	35
+doofmaenner*	63
+doofmann*	63
+doofmaenner*	63
+doppelt*	11
+dort	39	43
+dorthin	39	43
+does*	57	61
+doesen*	57	61
+doeskopp*	63
+dozent*	45	46
+drama*	48	51
+drang*	36
+draussen	39	41
+draussen	39	41
+drecksack*	63
+drecksau*	63
+dreckskerl*	63
+drei	11
+dreihundert*	11
+dreissig*	11
+dreissig*	11
+dreist*	12	16
+dreitaegig*	35
+dreitaegig*	35
+dreiund*	11
+dresche	37
+drin	39	42
+dringe	37
+dringst	37
+dringt	37
+drinnen	39
+drisch*	37
+dritt*	11
+droh*	12	16	
+drosch*	36
+druck	12	16
+druese*	57	58
+drummer*	48	52
+drums	48	52
+drunter	39	41
+druese*	57	58
+du	1	5	29	31
+duemm*	12	16	63
+duenn*	57	58	60
+duerfte*	18	23
+duester*	12	16
+dumm*	12	16	63
+duemm*	12	16	63
+dumpfbacke*	63
+duenn*	57	58	60
+durch	10	39
+durchblick*	18	20
+durchdacht*	18	20
+durchdenk*	18	20
+durcheinander*	12	16
+durchfall*	12	16	17	45	
+durchficke	37	63
+durchfickst	37	63
+durchfickt	37	63
+durchfickte*	36	63
+durchfuehr*	45	
+durchfuehre	37	44
+durchfuehren	44
+durchfuehrst	37	44
+durchfuehrt	37	44
+durchfuehrte*	36	44
+durchfuehr*	45	
+durchfuehre	37	44
+durchfuehren	44
+durchfuehrst	37	44
+durchfuehrt	37	44
+durchfuehrte*	36	44
+durchgeblickt*	18	20
+durchgedreht*	12	16
+durchgefallen	12	16	17	45		36
+durchgefickt*	36	63
+durchgefuehrt	36	44
+durchgefuehrt	36	44
+durchgereist	36	44
+durchgeschwommen	36	44
+durchgestrichen	36
+durchgetanzt	36	44
+durchkreuze	37	44
+durchkreuzen	44
+durchkreuzt	44
+durchkreuzte*	36	44
+durchquere	37	44
+durchqueren	44
+durchquerst	37	44
+durchquert	44
+durchquerte*	36	44
+durchreise*	44
+durchreist	37	44
+durchreiste*	36	44
+durchschau*	18	20
+durchschreite	37	44
+durchschreiten	44
+durchschritt*	36	44
+durchschwamm*	36	44
+durchschwimme	37	44
+durchschwimmen	44
+durchschwimmst	37	44
+durchschwimmt	37	44
+durchstreiche	37
+durchstreichst	37
+durchstreicht	37
+durchstrich*	36
+durchtanze	37	44
+durchtanzen	44
+durchtanzt	37	44
+durchtanzte*	36	44
+durchtrieb*	12	16	
+durfte*	36
+duerfte*	18	23
+durst*	57	58	60
+dusch*	48	49	57	62
+dusche*	48	49	57	62
+dussel*	12	16	63
+duester*	12	16
+dynamisch*	12	13
+eben	35
+ebenso	42
+echt*	12	13
+effekt*	18	19
+egoistisch*	12	16
+ehe	35
+ehefrau	29	33
+ehegatte*	29	33
+ehemaenner*	29	33
+ehemalig	35
+ehemalig*	45	46
+ehemals	35
+ehemann*	29	33
+ehemaenner*	29	33
+ehepartner*	29	33
+ehr*	12	13	45	
+ehrenmaenner*	29	34
+ehrenmann*	29	34
+ehrenmaenner*	29	34
+ehrlich*	12	13	15	24	54	55
+eifersucht*	12	16	
+eifersuecht*	12	16	
+eifersuecht*	12	16	
+eifrig*	12	13	15
+eigenart*	12	16
+eigensinn*	12	16	18	22
+eigentlich	18	23
+eigentuemlich*	12	16
+eigentuemlich*	12	16
+eil*	45	46
+ein	9
+einaesch*	54	56
+einaescher*	56
+einaesch*	54	56
+einaescher*	56
+einbegriffen*	42
+einbezieh*	42
+einbezogen*	42
+einbezug*	42
+einblick*	18	20
+eindeutig*	18	24
+eindrang*	36	44
+eindringe	37	44
+eindringen	44
+eindringst	37	44
+eindringt	37	44
+eindruck	18	20
+eindruecke	18	20
+eindruecke	18	20
+eine	9
+einem	9
+einen	9
+eineng*	18	22
+einer	9
+eines	9
+einfaelle*	12	13	15
+einfall*	12	13	15
+einfaelle*	12	13	15
+einfassen	39	42
+einfluesse	18	19
+einfluss	18	19
+einfluss	18	19
+einfluesse	18	19
+einfuehl*	12	13
+einfuehl*	12	13
+eingeaeschert*	54	56	36
+eingeaeschert*	54	56	36
+eingebildet*	12	16
+eingeblickt*	18	20
+eingedrungen	36	44
+eingeengt*	18	22
+eingefuehlt*	12	13
+eingefuehlt*	12	13
+eingeladen	29	30
+eingelassen	29	30	36
+eingenommen	36	44
+eingepackt	36	44
+eingeraeumt	29	30	36
+eingeraeumt	29	30	36
+eingeschlafen	36
+eingeschleimt*	12	16
+eingeschlossen*	42
+eingeschraenkt*	18	22
+eingeschraenkt*	18	22
+eingeschrieben*	45	46	36
+eingeschuechtert*	12	16	
+eingeschuechtert*	12	16	
+eingestaendnis*	18	20	29	30
+eingestanden	18	20	29	30	36
+eingestaendnis*	18	20	29	30
+eingesteh*	18	20	29	30	37
+eingetragen*	45	46	36
+eingetreten	36	44
+eingetrieben	36	44
+eingetroffen	36	44
+eingetrudelt	36	44
+eingewandt	29	30	36
+eingewendet	29	30	36
+eingezogen	36	44
+eingweide*	57	58
+einhundert*	11
+einig*	12	13
+einjaehrig*	35
+einjaehrig*	35
+einkaeufe	37	53
+einkaeufer*	53
+einkauf*	37	53
+einkaeufe	37	53
+einkaeufer*	53
+einlaed*	29	30	37
+einlade	29	30	37
+einladen	29	30
+einladung*	29	30
+einlaed*	29	30	37
+einlaess*	29	30	37
+einlaess*	29	30	37
+einlasse	29	30	37
+einlassen	29	30
+einliess*	29	30	36
+einliess*	29	30	36
+einlud*	29	30	36
+einmal	35
+einnahm*	36	44
+einnehme	37	44
+einnehmen	44
+einnicken*	57	61
+einnimmst	37	44
+einnimmt	37	44
+einpack*	37	44	45	46
+einpacke	37	44
+einpacken	44
+einpackst	37	44
+einpackt	37	44
+einpackte*	36	44
+einpennen*	57	61
+einraeum*	29	30
+einraeum*	29	30
+einrichtung*	29	45	47
+eins	11
+einsah*	18	20
+einsam*	12	16	17
+einsatz*	45	46	47
+einschalt*	45	
+einschlaef*	37
+einschlaf*	57	61
+einschlaef*	37
+einschlafe	37
+einschlafstoe*	57	58	61
+einschlafstoe*	57	58	61
+einschleim*	12	16
+einschlief*	36
+einschliessen	39	42
+einschliessen	39	42
+einschliesslich	10	42
+einschliesslich	10	42
+einschraenk*	18	22
+einschraenk*	18	22
+einschreib*	45	46
+einschuechter*	12	16
+einschuechter*	12	16
+einsehe*	18	20
+einsetz*	45	47
+einsicht*	18	20
+einsieh*	18	20
+einspar*	45	47	53
+einst	35
+einstell*	45	47
+einstellung*	45	47
+einstweilen	35
+eintaegig*	35
+eintaegig*	35
+eintraf*	36	44
+eintrag*	45	46
+eintrat*	36	44
+eintreffe	37	44
+eintreffen	44
+eintreibe	37	44
+eintreiben	44
+eintreibst	37	44
+eintreibt	37	44
+eintrete	37	44
+eintreten	44
+eintrieb*	36	44
+eintriff*	37	44
+eintritt*	44
+eintrittst	37	44
+eintrudele	37	44
+eintrudeln	44
+eintrudelst	37	44
+eintrudelt	37	44
+eintrudelte*	36	44
+einund*	11
+einvernehmen	18	20
+einverstanden	8
+einwaende*	29	30
+einwand*	29	30
+einwaende*	29	30
+einwandfrei*	48	49	57	62
+einwandte*	29	30	36
+einwende	29	30	37
+einwenden	29	30
+einwendest	29	30	37
+einwendet	29	30	37
+einzelkind*	29	33	34
+einziehe	37	44
+einziehen	44
+einziehst	37	44
+einzieht	37	44
+einzog*	36	44
+eishockey*	48	50
+eitel*	12	16
+ekel*	12	16
+ekstas*	12	13
+elend*	12	16	17
+elf*	11
+eltern*	29	33
+emaile	29	30	37
+e-maile	29	30	37
+emailen	29	30
+e-mailen	29	30
+emailst	29	30	37
+e-mailst	29	30	37
+emailt	29	30	37
+e-mailt	29	30	37
+emailte*	29	30	36
+e-mailte*	29	30	36
+empfahl*	36
+empfand*	12	13	36
+empfang*	25	27	29	30	37	48	52
+empfehle	37
+empfiehl*	37
+empfind*	12	13	37
+empfindsam*	12	13	57	58
+empfindung*	25	28	57	58
+empfohlen	36
+empfund*	12	13	36
+emphysem*	57	58
+empoer*	12	16	
+empoer*	12	16	
+emporgestiegen	36	44
+emporsteige	37	44
+emporsteigen	44
+emporsteigst	37	44
+emporsteigt	37	44
+emporstieg*	36	44
+end*	35
+end*	18	20	45	46	
+ende	18	20	45	
+ende*	54	55
+enden	18	20	45	
+endet*	18	20	45		36
+endgueltig*	18	24
+endgueltig*	18	24
+energie	12	13
+energie*	45	
+eng	39
+engel*	54	55
+englisch*	45	46
+enkel*	29	33
+entdeck*	18	20
+entfern*	48	51
+entfernt	39	43
+entgegen	10
+entgegengegangen	36	44
+entgegengehe	37	44
+entgegengehen	44
+entgegengehst	37	44
+entgegengeht	37	44
+entgegengekommen	36	44
+entgegengenommen	36
+entgegenging*	36	44
+entgegenkam*	36	44
+entgegenkomme	37	44
+entgegenkommen	44
+entgegenkommst	37	44
+entgegenkommt	37	44
+entgegennahm*	36
+entgegennehme	37
+entgegennimm*	37
+entgelt*	45	47
+enthael*	37
+enthael*	37
+enthalte*	37
+enthielt*	36
+enthuell*	18	20
+enthuell*	18	20
+entlaed*	37
+entlade	37
+entlaed*	37
+entlang	10	39
+entlass*	45	47
+entlud*	36
+entmutig*	12	16	17
+entruest*	12	16
+entruest*	12	16
+entscheid*	12	13	15	18	45		20
+entscheide*	18	20
+entschieden	12	13	15	18	45		20
+entschieden*	18	20
+entschliess*	18	20
+entschliess*	18	20
+entschloss*	12	13	15	18	45		20	36
+entschlossen*	12	13	15	18	20
+entschluss	18	20
+entschluss	18	20
+entschluss*	12	13	15	18	45		20
+entschluesse	18	20
+entsetz*	12	16
+entspann*	12	13
+entspannen*	57	58
+entsprach*	36
+entspreche	37
+entsprechend	10
+entsprich*	37
+entsprochen	36
+entstanden*	45		36
+entsteh*	45	
+enttaeusch*	12	16	17
+enttaeusch*	12	16	17
+entwerf*	12	13	18	20	45	
+entwerfe*	18	20
+entwickel*	18	20
+entwicklung*	18	20
+entwirf*	18	20
+entworfen*	18	20
+entwuerfe	18	20
+entwurf	18	20
+entwuerfe	18	20
+entzueck*	12	13
+entzueck*	12	13
+entzuendung*	57	58
+entzuendung*	57	58
+epoche*	35
+equipe	29	45	46	48	50
+er	1	6	29	31
+erb*	53
+erbaermlich*	12	16
+erbarm*	54	55
+erbaermlich*	12	16
+erbittert*	12	16	
+erbrech*	12	15	57	58
+erektion*	57	58	57	59
+erfaehr*	29	30	37
+erfahr*	45	47
+erfaehr*	29	30	37
+erfahre	29	30	37
+erfahren	29	30
+erfahrung*	29	30
+erfand*	36
+erfass*	18	20
+erfass*	18	20
+erfind*	12	13	18	20	45	
+erfinde	37
+erfindest	37
+erfindet	37
+erfolg	12	13
+erfolg	18	45	46	
+erfolg*	18	19	45	46	
+erfolge	12	13	15
+erfolglos	12	16	17	45	
+erfolglos*	12	16	17
+erfolgr*	12	13	15
+erfolgsv*	12	13	15
+erforsch*	18	20	45	47
+erfreu*	12	13
+erfuell*	45	
+erfuhr*	29	30	36
+erfuell*	45	
+erfunden	36
+ergab*	18	19	20	36
+ergebe	18	19	20	37
+ergeben	18	19	20
+ergebenheit	12	13
+ergebnis*	18	19	20	45	
+ergib*	18	19	20	37
+ergreif*	12	13
+ergreife	37	44
+ergreifen	44
+ergreifst	37	44
+ergreift	37	44
+ergriff*	12	13	36	44
+erhaelt*	37
+erhaelt*	37
+erhalte	37
+erhielt*	36
+erhoeh*	44	45	47	
+erhofft*	18	21	23
+erhoeh*	44	45	47	
+erkaelt*	57	58
+erkaelt*	57	58
+erkaeltung*	57	58
+erkannt*	18	20	36
+erkauft	53	36
+erkealtung*	57	58
+erkenne	18	20	37
+erkennen	18	20
+erkennst	18	20	37
+erkennt	18	20	37
+erklaere	18	20	29	30	37
+erklaeren	18	20	29	30
+erklaerst	18	20	29	30	37
+erklaert	18	20	29	30
+erklaerte*	18	20	29	30	36
+erklaere	18	20	29	30	37
+erklaeren	18	20	29	30
+erklaerst	18	20	29	30	37
+erklaert	18	20	29	30
+erklaerte*	18	20	29	30	36
+erklettere	37	44
+erklettern	44
+erkletterst	37	44
+erklettert	44
+erkletterte*	36	44
+erkrankung*	57	58
+erkundige	29	30	37
+erkundigen	29	30
+erkundigst	29	30	37
+erkundigt	29	30
+erkundigte*	29	30	36
+erlaeutere	29	30	37
+erlaeutern	29	30
+erlaeuterst	29	30	37
+erlaeutert	29	30
+erlaeuterte*	29	30	36
+erlang*	12	13	15	37	45	
+erlaube	29	30	37
+erlauben	29	30
+erlaubnis*	29	30
+erlaubst	29	30	37
+erlaubt	29	30
+erlaubte*	29	30	36
+erlaeutere	29	30	37
+erlaeutern	29	30
+erlaeuterst	29	30	37
+erlaeutert	29	30
+erlaeuterte*	29	30	36
+erledig*	18	20	45	
+erledig*	48	49	57	62
+erledigt*	18	20	36	45	
+erleichter*	12	13
+erleid*	12	16
+erleuchtung	18	20
+erlische	37
+erlischst	37
+erlischt	37
+erlitt*	12	16
+erlosch*	36
+erloesche	37
+erloschen	36
+erloescht	37
+ermaechtig*	45	
+ermaechtig*	45	
+ermorde*	56
+ermordet	54	56	36
+ermued*	12	16	17	57	58	61
+ermued*	12	16	17	57	58	61
+ermutig*	12	13	15
+ermutige	12	13	15	29	30	37
+ermutigen	12	13	15	29	30
+ermutigst	12	13	15	29	30	37
+ermutigt	12	13	15	29	30
+ermutigte*	12	13	15	29	30	36
+ermutigung*	12	13	15	29	30
+erniedrig*	12	16		
+ernst*	12	16
+eroeff*	12	13	18	20	45		36
+eroeffne	29	30	37
+eroeffnen	29	30
+eroeffnest	29	30	37
+eroeffnet	29	30
+eroeffnete*	29	30	36
+eroertere	18	19	20	29	30	37
+eroertern	18	19	20	29	30
+eroerterst	18	19	20	29	30	37
+eroertert	18	19	20	29	30
+eroerterte*	18	19	20	29	30	36
+eroerterung	18	19	20	29	30
+eroeff*	12	13	18	20	45		36
+eroeffne	29	30	37
+eroeffnen	29	30
+eroeffnest	29	30	37
+eroeffnet	29	30
+eroeffnete*	29	30	36
+eroertere	18	19	20	29	30	37
+eroertern	18	19	20	29	30
+eroerterst	18	19	20	29	30	37
+eroertert	18	19	20	29	30
+eroerterte*	18	19	20	29	30	36
+erpress*	12	16		
+erprob*	45	46
+erprobt*	18	36	45	
+erquick*	12	13
+errechne*	18	20
+erreg*	12	57	58
+erreich*	12	13	15	37	45	
+erreich*	18	44
+erreiche	37	44
+erreichen	44
+erreichst	37	44
+erreicht	44
+erreicht	18	36	45	
+erreichte*	36	44
+erroet*	57	58
+erroet*	57	58
+erscheine	18	23	37
+erscheinen	18	23
+erscheinst	18	23	37
+erscheint	18	23	37
+erschien*	18	23	36
+erschliesse	37
+erschliesse	37
+erschliesst	37
+erschliesst	37
+erschloss*	36
+erschloss*	36
+erschoepf*	12	16	17	57	58	61
+erschoepf*	12	16	17	57	58	61
+erschoepft	12	16	36	53
+erschrak*	12	16		36
+erschrecke	12	16		37
+erschrecken	12	16	
+erschrick*	12	16		37
+erschrocken	12	16		36
+erschuetter*	12	16		17
+erschuetter*	12	16		17
+erschwer*	12	16
+erspar*	53
+erst*	11	45	
+erstarrt*	57	58
+erstaun*	12	13
+erste	11
+erstell*	12	13	18	20	45		36
+erstick*	56
+erstsemester*	45	46
+ertraenk*	56
+ertraenkt	54	56	36
+ertraenk*	56
+ertraenkt	54	56	36
+ertrink*	56
+ertrinke*	54	56
+ertrunk*	56
+ertrunken	54	56	36
+eruier*	18	20
+erwach*	37	57	61
+erwachsene*	29	34
+erwarb*	36
+erwarte*	18	21
+erwerb*	45	47		53
+erwerbe	37
+erwirb*	37
+erworben	36
+erworben	36	53
+erzaehle	29	30	37
+erzaehlen	29	30
+erzaehlst	29	30	37
+erzaehlt	29	30
+erzaehlte*	29	30	36
+erzaehle	29	30	37
+erzaehlen	29	30
+erzaehlst	29	30	37
+erzaehlt	29	30
+erzaehlte*	29	30	36
+erzeug*	18	19
+erzeug*	18	19	20	45	47	
+erziehung*	45	46
+erziel*	18	45	
+erzuernt*	12	16	
+erzuernt*	12	16	
+erzwang*	36
+erzwinge	37
+erzwingst	37
+erzwingt	37
+erzwungen	36
+es	1	6	29	31
+esse	37
+essen*	25	37	57	60
+etwa*	18	23
+euch	1	5	6	29	31
+euer*	1	5	6	29	31
+eure*	1	5	6	29	31
+euro*	53
+evangelien	54	55
+evangelisch*	54	55
+evangelium	54	55
+eventuell*	18	23
+ewig*	35	54	55
+ex*	29	33
+exakt*	8
+exam*	45	46
+exfreund*	29	32
+exitus	56
+exitus*	54	56
+exklusive	10	43
+exzellent*	12	13	15	45	
+fabrik	37	53
+fach*	45	47
+fachbereich*	45	46	47
+faehig*	45	47
+faehigkeit*	45	47	
+faehrst	37	44
+faehrt	37	44
+faelle	37
+faellst	37
+faellt	37
+faeng*	37
+faeul*	12	16	54	56
+faehig*	45	47
+faehigkeit*	45	47	
+fahre	37	44
+fahren	44
+fahrig*	12	16
+fahrrad*	48	50
+faehrst	37	44
+fahrt	37	44
+faehrt	37	44
+fair*	12	13
+fakt*	18	24
+fakultaet*	45	46
+fakultaet*	45	46
+falle	37
+faelle	37
+faellst	37
+faellt	37
+falsch*	12	16
+familie*	29	33	48	49
+familien*	29	33	48	49
+fan	12	13
+fanati*	12	16
+fand*	36
+faeng*	37
+fange	37
+fantasie*	12	13
+fantastisch*	12	13	15
+fast	18	23
+fatal*	12	16	54	56
+faul*	12	16	54	56
+faeul*	12	16	54	56
+fazit	18	20	45	
+februar*	35
+fechte	37
+fechtest	37
+fechtet	37
+fehl*	12	16	17	45	
+fehler	12	16
+fehlerfrei*	12	13	48	49	57	62
+fehlerhaft*	12	16
+fehlerlos*	12	13
+fehlgeburt*	57	58	59
+fehlgeschlagen*	12	16
+fehlschlaeg*	12	16
+fehlschlag*	12	16
+fehlschlaeg*	12	16
+feier*	29	45		48	50
+feiert*	29	45		36
+feind*	12	16	
+feinfuehlig*	12	13
+feinfuehlig*	12	13
+fern	10	39
+fern*	48	51
+ferne	39
+ferner	39	42
+ferngesehen	36
+fernsah*	36
+fernseh*	48	49	51
+fernsehe	37
+fernsieh*	37
+fertig	12	13	15
+fertigkeit*	45	47
+fesselnd*	12	13	15	45	
+fest	18	24
+festgelegt*	18	20
+festgestellt*	18	20
+festleg*	18	20
+feststell*	18	20	45	
+fett*	57	58	60
+feuerbestattung*	54	56
+feundin*	29	32
+fick	12	16	
+fick*	12	16		57	59	63
+ficke	12	16		37	63
+ficken	12	16	
+fickfrosch*	12	16		63
+fickrig*	57	58	59
+fickst	12	16		37	63
+fickt	12	16		37	63
+fickte*	12	16		36	63
+fieber*	57	58
+fiel*	36
+fies*	12	16	
+film*	48	51
+filmschauspieler	48	51
+filmschauspielerin	48	51
+final*	45	46
+finanz*	45	47	53
+finde	18	20	37
+finden	18	20
+findest	18	20	37
+findet	18	20	37
+fing*	36
+Finger*	57	58
+fingerknoechel*	57	58
+fingerknoechel*	57	58
+finster*	12	16
+firm*	45	47
+firma*	45	47
+fitness*	48	50
+flaeche	39
+flaechen	39
+flachwichser*	12	16		63
+flaeche	39
+flaechen	39
+flechte	37
+flechtest	37
+flechtet	37
+fleh*	29	30
+flehe*	54	55
+fleisch*	57	58
+fleiss*	45	47	
+fliege	37	44
+fliegen	44
+fliegst	37	44
+fliegt	37	44
+fliehe	37	44
+fliehen	44
+fliehst	37	44
+flieht	37	44
+fliesse	37
+fliesse	37
+fliesst	37
+fliesst	37
+flirt*	12	13
+flocht*	36
+flog*	36	44
+floh*	36	44
+floss*	36
+floss*	36
+flur	45	46
+flure	45	46
+focht*	36
+foerder*	44	45	
+folge	18	19	37	44
+folge*	18	19	44	45		48	50
+folgen	18	19	44
+folger*	18	19	20	45	
+folgerung	18	20	45	
+folglich	18	19
+folgst	37	44
+folgt	37	44
+folgte*	36	44
+folter*	12	16	
+fond*	53
+football*	45	46	48	50
+foerder*	44	45	
+fordere	29	30	37
+fordern	29	30
+forderst	29	30	37
+fordert	29	30	37
+forderte*	29	30	36
+forsch*	45	47
+fort	39	43
+fortfaehr*	37
+fortfaehr*	37
+fortfahre	37
+fortfuhr*	36
+fortgefahren	36
+fortgegangen	36	44
+fortgehe	37	44
+fortgehen	44
+fortgehst	37	44
+fortgeht	37	44
+fortgeschafft	36	44
+fortgeschritten	36	44
+fortgeschritten*	44	45		36
+fortgesetzt*	35
+fortgezogen	36	44
+fortging*	36	44
+fortschaffe	37	44
+fortschaffen	44
+fortschaffst	37	44
+fortschafft	37	44
+fortschaffte*	36	44
+fortschreit*	44	45	
+fortschreite	37	44
+fortschreiten	44
+fortschritt	12	13	15	36	44
+fortschritt*	44	45	
+fortsetze	37	44
+fortsetzen	44
+fortsetzt	37	44
+fortsetzte*	36	44
+fortsetzung*	44
+fortwaehrend*	35
+fortwaehrend*	35
+fortziehe	37	44
+fortziehen	44
+fortziehst	37	44
+fortzieht	37	44
+fortzog*	36	44
+fotze*	12	16		57	58	59	63
+frage	18	20	29	30	37
+fragen	18	20	29	30
+fragst	18	20	29	30	37
+fragt	18	20	29	30	37
+fragte*	18	20	29	30	36
+frass*	36
+frass*	36
+fratern*	45	46
+frau*	29	33	34
+frei*	18	22	45	47
+freiberuf*	45	47
+freidhoefe	54	56
+freitag*	35
+freitod	56
+freitod*	54	56
+fremd*	12	16
+fresse	37
+fressen*	57	58	60
+freude	12	13	14
+freudig*	12	13	14
+freudlos*	12	16	17
+freue*	12	13	14
+freund*	12	13	29	32
+freunde*	12	13	29	32
+freundin*	12	13	29	32
+freundlich*	12	13
+freundschaft*	12	13
+freust	12	13	14
+freut*	12	13	14
+frevel*	12	16
+fried*	12	13
+friedhof*	54	56
+friedhoefe	54	56
+frier*	37
+friss*	37
+friss*	37
+frist*	35
+frisur*	57	58	62
+froehlich*	12	13	14
+froemm*	54	55
+froh*	12	13
+froehlich*	12	13	14
+fromm*	54	55
+froemm*	54	55
+fror*	36
+frueh*	35
+fruehest	11	45	
+fruehstueck*	57	60
+frueh*	35
+fruehest	11	45	
+fruehstueck*	57	60
+frustration*	12	16		17
+frustrier*	12	16		17
+fuchs*	45	46
+fuechs*	45	46
+fuck	12	16		63
+fuechs*	45	46
+fuegsam*	45	47
+fuehl*	18	20
+fuehr*	45	47	
+fuehre	37	44
+fuehren	44
+fuehrst	37	44
+fuehrt	37	44
+fuehrte*	36	44
+fuenf*	11
+fuenfcentstueck	53
+fuer	10
+fuerchte*	12	16	
+fuess*	57	58
+fuesse*	57	58
+fuegsam*	45	47
+fuehl*	18	20
+fuhr*	36	44
+fuehr*	12	13	15	18	22	45	
+fuehre	37	44
+fuehren	44
+fuehrst	37	44
+fuehrt	37	44
+fuehrte*	36	44
+fundamentalis*	54	55
+fuenf*	11
+fuenfcentstueck	53
+funk*	48	52
+funktionier*	37	45	47	
+funktionieren*	45	47	
+funktionierend	44	48	50
+fuer	10
+furcht	12	16	
+furchtbar*	12	16	
+fuerchte*	12	16	
+furchterregend*	12	16	
+furchtlos*	12	13	15
+furchtsam*	12	16	
+fuerhr*	45	47
+fuss*	57	58
+fussball	45	46	48	50
+fussball*	45	46	48	50
+fuesse*	57	58
+fussgelenk*	57	58
+fussknoechel*	57	58
+fussknoechel*	57	58
+fuettern*	57	60
+futur*	35
+gab*	29	30	36
+gaenzlich*	18	24
+gaere*	37
+gaers*	37
+gaeste*	29	32
+gage*	45	47	53
+galt*	36
+gang	45	46
+ganz*	18	24
+ganzjaehrig*	35
+ganzjaehrig*	35
+gaenzlich*	18	24
+garage*	48	49
+garantie*	8	18	24
+garantier*	8
+gaere*	37
+gaers*	37
+gast*	29	32
+gaeste*	29	32
+gaststaette*	48	57	60
+gaststaette*	48	57	60
+gatte*	29	33
+gauner*	12	16
+geaengstigt*	12	16	
+geaergert	12	16		29	30	36
+geaeussert	29	30	36
+gealber*	12	13
+geaengstigt*	12	16	
+geantwortet	18	20	36
+gearbeitet*	36	45	47	
+geaergert	12	16		29	30	36
+geaeussert	29	30	36
+gebacken	36
+gebaere	37
+gebaermutter*	57	58	59
+gebaerst	37
+gebaert	37
+gebangt*	12	16
+gebar*	36
+gebaere	37
+gebaermutter*	57	58	59
+gebaerst	37
+gebaert	37
+gebe	37
+gebeichtet	18	20	29	30	36
+gebeten	12	13	29	30	36
+gebettelt	12	16	29	30	36
+gebiet	39
+gebiet*	45	46	47
+gebiete	39
+gebissen	36
+geblasen	36
+geblieben	36
+gebogen	36
+geboren	36
+geborgen	36
+geborsten	36
+gebot*	54	55
+geboten	36
+gebracht	36	44
+gebrannt	36
+gebraten	36
+gebrauch*	45	47
+gebrochen	36
+gebruellt*	12	16	
+gebruellt*	12	16	
+gebt	37
+gebuehr*	53
+gebuehr*	53
+gebumst	12	16		36	63
+gebunden	36
+gedacht	18	20	36
+gedaerm*	57	58
+gedanke*	18	20
+gedankt*	12	13
+gedaerm*	57	58
+gedauert	35	36
+gedeihe	37
+gedeihst	37
+gedeiht	37
+gedieh*	36
+gediehen	36
+gedroht*	12	16	
+gedroschen	36
+gedrungen	36
+gedurft	36
+geehrt*	12	13
+geeinigt*	12	13
+geekelt*	12	16
+geemailt	29	30	36
+ge-emailt	29	30	36
+gefaehrte*	29	32
+gefaehrtin*	29	32
+gefaelligkeit*	12	13
+gefaellst	12	13	37
+gefaellt*	12	13	37
+gefahren	36	44
+gefahren*	36	44
+gefaehrte*	29	32
+gefaehrtin*	29	32
+gefalle	12	13	37
+gefallen	12	13
+gefaelligkeit*	12	13
+gefaellst	12	13	37
+gefaellt*	12	13	37
+gefangen	36
+gefeiert*	29	45		36
+gefeuert*	45	47
+gefickt	12	16		36	63
+gefiel*	12	13
+gefleht	29	30	36
+geflirtet*	12	13
+geflochten	36
+geflogen	36	44
+geflohen	36	44
+geflossen	36
+gefochten	36
+gefolgert*	18	19	20
+gefolgt	36	44
+gefoltert*	12	16	
+gefordert	29	30	36
+gefragt	18	20	29	30	36
+gefressen	36
+gefreut*	12	13	14
+gefroren	36
+gefuehl	12	13	14
+gefuehle	12	13	14
+gefuehllos*	12	16	57	58
+gefuehlsbetont*	12	13
+gefuehlsdusel*	12	16
+gefuehlskaelte*	12	16
+gefuehlskalt*	12	16
+gefuehlsmaessig*	12	13
+gefuehlvoll*	12	13	14
+gefuehrt	36	44
+gefuehrt*	45	47	36
+gefuellt*	57	58	60
+gefuerchtet	12	16	
+gefuettert*	36	57	60
+gefuehl	12	13	14
+gefuehle	12	13	14
+gefuehllos*	12	16	57	58
+gefuehlsbetont*	12	13
+gefuehlsdusel*	12	16
+gefuehlskalt*	12	16
+gefuehlskaelte*	12	16
+gefuehlsmaessig*	12	13
+gefuehlsmaessig*	12	13
+gefuehlvoll*	12	13	14
+gefuehrt	36	44	45	47
+gefuellt*	57	58	60
+gefunden	18	20	36
+gefuerchtet*	12	16	
+gefuttert*	25	36	57	60
+gefuettert*	36	57	60
+gegangen	36	44
+gegeben	36
+gegen	10
+gegenueber	10	39
+gegenueber	10	39
+gegenwaertig*	35
+gegenwaertig*	35
+gegessen*	25	36	57	60
+geglichen	36
+geglitten	36
+geglommen	36
+gegner*	12	16
+gegolten	36
+gegoren	36
+gegossen	36
+gegraben	36
+gegriffen	36
+gegrinst*	12	13
+gegruebelt*	18	20
+gegruebelt*	18	20
+gehabt	36
+gehaenselt	12	16	29	30	36
+gehaessig*	12	16	
+gehalt*	37	45	47	53
+gehalten	36
+gehaltserhoehung*	45	47
+gehaltserhoehung*	45	47
+gehaltsscheck*	45	47	53
+gehangen	36
+gehaenselt	12	16	29	30	36
+gehaessig*	12	16	
+gehasst*	12	16	
+gehasst*	12	16	
+gehauen	36
+gehe	37	44
+geheissen	36
+gehemmt*	12	16	18	22
+gehen	44
+gehindert*	12	16	18	22
+gehirn*	57	58
+gehoben	36
+gehofft*	12	13	15	18	21	23
+geholfen	36
+geholt	36
+gehst	37	44
+geht	37	44
+geil*	12	13
+geirrt*	12	16
+geist*	54	55
+geistlich*	54	55
+geiz*	53
+gejammer*	12	16
+gejoggt	36	44
+gekaempft	12	16		36
+gekaempft	12	16		36
+gekannt	18	20	36
+gekauft	36	53
+gekauft*	36	53
+gekicher*	12	13
+geklaert	29	30	36
+geklagt	12	16	29	30	36
+geklaert	29	30	36
+geklettert	36	44
+gekloent	29	30	36
+geklommen	36
+gekloent	29	30	36
+geklungen	36
+gekniffen	36
+gekommen	36
+gekonnt	36
+gekotz*	12	16
+gekraenkt*	12	16	17
+gekraenkt*	12	16	17
+gekreuzt	36	44
+gekrochen	36
+gekuendigt*	18	22
+gekuert	36
+gekuesst*	12	13
+gekuendigt*	18	22
+gekuert	36
+gekuesst*	12	13
+gelaechelt*	12	13	14
+geladen	36
+gelaechelt*	12	13	14
+gelaehmt*	12	16
+gelaehmt*	57	58
+gelaester*	12	16
+gelaehmt*	12	16	57	58
+gelang	36
+gelange	37	44
+gelangen	44
+gelangst	37	44
+gelangt	44
+gelangte*	36	44
+gelangweilt*	12	16
+gelassen	36
+gelaester*	12	16
+gelaufen	36	44
+geld*	45	47	53
+geldgier*	12	16		53
+gelebt	36	48	49
+gelebt*	37	48	49	36
+gelegen	36
+gelegentlich*	18	23	35
+gelegt	36
+gelehr*	45	46
+gelehrt*	36	45	46
+geleistet	18	45		36
+geleitet*	45	47	36
+gelenk*	57	58
+gelenkentz*	57	58
+gelenkerkr*	57	58
+gelenkkran*	57	58
+gelenkrheu*	57	58
+gelenkschmerz*	12	16	57	58
+gelenkt*	45	47	36
+gelernt*	18	20
+gelernt*	45	47
+gelesen	36
+geleugnet*	18	22
+geliebt	12	13	14
+geliebte*	12	13	14	29	32
+geliefert	36	44
+geliehen	36
+geling*	45	47	
+gelinge	37
+gelingst	37
+gelingt	37
+gelitten	12	16	36
+gelob*	45	46
+geloebnis*	45	46
+gelobt	12	13	29	30	36
+gelobt*	29	30	45		36
+geloebnis*	45	46
+geloest*	18	20
+gelogen	12	16	36
+gelohnt*	12	13	15
+geloest*	18	20
+gelte	37
+gelungen	36
+gelungen*	45		36
+gemacht	36
+gemaess	10
+gemahl	29	33
+gemahlen	36
+gemahlin	29	33
+gemailt	29	30	36
+gemaess	10
+gemein	12	16	
+gemein*	48	52
+gemeinde*	45
+gemeine*	12	16	
+gemeinheit*	12	16	
+gemeinsam*	42
+gemeinschaft*	45	47
+gemeint	18	20	29	30	36
+gemeldet	29	30	36
+gemessen	36
+gemieden	12	16	36
+gemietet	45	47
+gemocht	36
+gemolken	36
+gemorde*	56
+gemunkelt	29	30	36
+gemusst	36
+gemusst	36
+gen	10	39
+genaehert	36	44
+genaehert	36	44
+genannt	29	30	36
+genas*	36
+genau	12	13	15	24	54	55
+genau*	18	24
+geneckt	12	13	29	30	36
+generation*	35
+genese	37
+genest	37
+genick*	57	58
+geniess*	12	13	37
+geniess*	12	13	37
+genital*	57	58	59
+genommen	36	44
+genoss	12	13	36
+genoss	12	13	36
+genosse	29	32
+genossen	36
+genossin*	29	32
+genuess*	12	13
+genuss*	12	13
+genuss*	12	13
+genuess*	12	13
+geopfert*	12	16
+gepackt	36	44	45	46
+gepfiffen	36
+gepflegt*	12	13
+geplagt*	12	16
+geplapper	29	30
+geplappert	29	30	36
+geplauder	29	30
+geplaudert	29	30	36
+gepoppt	12	16	36	63
+gepredigt	54	55	36
+gepriesen	12	13	36
+gepruef*	18	20
+gepruef*	18	20
+gequaelt*	12	16
+gequaelt*	12	16
+gequollen	36
+geraecht*	12	16
+geradeaus	10	39	40	45	
+geraecht*	12	16
+gerannt	36	44
+geraten	29	30	36
+gerechtfertigt*	18	19	29	30
+geredet	29	30	36
+geregelt*	18	20
+geregelt*	12	13	15	22	36	45	
+gereinigt*	48	49	57	62
+gereist	36	44
+gereizt*	12	16	
+gereut*	12	16
+gerieben	36
+gerissen	36
+geritten	36
+gerochen	36
+geronnen	36
+gerueckt	36	44
+gerueckt	36	44
+geruegt	29	30	36
+geruehrt*	12	13
+gerufen	29	30	36
+geruegt	29	30	36
+geruehrt*	12	13
+geruht*	12	13
+gerungen	36
+gesaeubert*	48	49	57	62
+gesagt	29	30	36
+gesalzen	36
+gesamt*	18	24
+gesandt	36
+gesandte*	54	55
+gesang*	48	52
+gesaeubert*	48	49	57	62
+gesaugt	36
+geschadet*	12	16
+geschaeft*	45	47	48	51	53
+geschaeftsfreund*	29	32
+geschaemt*	12	16
+geschaetzt*	12	13
+geschaffen	36
+geschafft	36
+geschaeft*	45	47	48	51	53
+geschaeftsfreund*	29	32
+geschah*	36
+geschaemt*	12	16
+geschaetzt*	12	13
+geschehe	37
+geschenk*	29	30
+gescherzt*	12	13
+gescheut*	12	16	17
+geschicht*	35
+geschick*	45	47
+geschickt*	48	49	57	62
+geschieden	36
+geschieh*	37
+geschienen	36
+geschildert	29	30	36
+geschimpft*	12	16	
+geschissen	36	63
+geschlafen	36
+geschlagen	12	16		36	45	
+geschleisst	36
+geschleisst	36
+geschlichen	36
+geschliffen	36
+geschlissen	36
+geschlossen	18	19	20	36
+geschlossen	18	19	20	36
+geschlungen	36
+geschlussfolgert*	18	19	20
+geschlussfolgert*	18	19	20
+geschmack*	25	57	60
+geschmaeck*	25	57	60
+geschmaeck*	25	57	60
+geschmeichelt	29	30	36
+geschmerzt*	12	16
+geschmissen	36
+geschmolzen	36
+geschnitten	36
+geschoben	36
+gescholten	36
+geschoren	36
+geschossen	36
+geschrei*	12	16
+geschrieben	29	30	36
+geschrien	36
+geschritten	36
+geschuldet	36	53
+geschunden	36
+geschwaecht*	12	16
+geschwaecht*	12	16
+geschwaermt*	12	13	14
+geschwaetz	29	30
+geschwaetzt	29	30	36
+geschwaermt*	12	13	14
+geschwaetz	29	30
+geschwaetzt	29	30	36
+geschwiegen	36
+geschwister*	29	33
+geschwollen	36
+geschwollen*	57	58
+geschwommen	36	44
+geschworen	36
+geschwuer*	57	58
+geschwulst*	57	58
+geschwunden	36
+geschwungen	36
+geschwuer*	57	58
+gesegne*	12	13	54	55	36
+gesehen	18	20	36
+gesehnt*	12	16	17
+gesellig*	12	13
+gesellschaft*	29	32	45	47
+gesendet	36
+gesessen	36
+gesetzt	36
+gesichert*	18	24
+gesicht*	57	58
+gesiedet	36
+gesiegt*	12	13
+gesoffen	36
+gesogen	36
+gesollt	36
+gesonnen	36
+gesorgt*	12	13	17
+gespenst*	54	55
+gesperrt	18	22
+gesperrt*	18	22
+gespiegelt*	18	20
+gespielt	12	13	36	48	50
+gespien	36
+gesponnen	36
+gespottet*	12	16
+gespraech*	29	30	45	47
+gespraech*	29	30	45	47
+gesprochen	29	30	36
+gesprossen	36
+gesprungen	36
+gestaendnis	18	20	29	30	54	55
+gestaendnis*	18	20	29	30
+gestalt*	12	13	18	20	45	
+gestanden*	18	20	29	30
+gestaendnis	18	20	29	30	54	55
+gestartet	35	36
+gestatt*	29	30
+gesteh*	18	20	29	30
+gestellt	36
+gestern	35	36
+gestichelt	29	30	36
+gestiegen	36	44
+gestochen	36
+gestoert*	12	16	
+gestohlen	36
+gestoppt*	18	22
+gestorben	36	54	56
+gestoert*	12	16	
+gestossen	36
+gestossen	36
+gestreichelt*	12	13
+gestrichen	36
+gestrig*	35
+gestritten	12	16		29	30	36
+gestuetzt*	12	13
+gestunken	36
+gestuetzt*	12	13
+gesungen	36
+gesunken	36
+getadelt	12	16	29	30	36
+getan	36
+getanzt	36	44
+getoet*	12	16		54	56	36
+getoetet*	12	16
+getoet*	12	16		54	56	36
+getoetet*	12	16
+getraenk*	25	57	60
+getragen	36	44
+getraenk*	25	57	60
+getratscht	29	30	36
+getrauert*	12	16	17
+getraut*	12	13
+getrennt*	12	16	17
+getreten	36
+getrieben	36	44
+getroestet*	12	13
+getroffen	36
+getrogen	36
+getroestet*	12	13
+getrunken	36
+gevoegelt*	12	16	
+gevoegelt*	12	16	
+gewachsen	36
+gewahr	18	20
+gewalt	12	16	
+gewaltfrei*	12	13
+gewaltlos*	12	13
+gewalttaetig*	12	16	
+gewalttat*	12	16	
+gewalttaetig*	12	16	
+gewandert	36	44
+gewandt	36
+gewann*	12	13	15	36
+gewartet*	18	22
+gewaschen	36
+gewebt	36
+geweigert*	18	22
+geweint*	12	16	17
+gewendet	36
+gewerb*	45	47	48	51
+gewesen	36
+gewettert*	12	16	
+gewettet*	18	23
+gewichen	36
+gewicht*	57	60
+gewichte	48	50
+gewiesen	36
+gewinn	12	13	15
+gewinn*	12	13	15	37	45	
+gewinnbringend*	45	47	53
+gewinne	12	13	15	37
+gewinnen	12	13	15
+gewinner	45	
+gewinner*	12	13	15	45	
+gewinnst	12	13	15	37
+gewinnt	12	13	15	37
+gewirkt	18	19
+gewiss	18	24
+gewiss	18	24
+gewissen	12	13
+gewissenhaft*	12	13	15	24	54	55
+gewissensbiss*	12	16
+gewissensbiss*	12	16
+gewisser*	12	13
+gewisses*	12	13
+gewissheit*	12	13
+gewoben	36
+gewogen	36
+gewollt	36
+gewonnen	12	13	15	36
+geworben	36
+geworden	36
+geworfen	36
+gewuenscht*	18	21
+gewunden	36
+gewundert*	18	20
+gewuenscht*	18	21
+gewusst	18	20	36
+gewusst	18	20	36
+gezaudert*	12	16		18	21	22	23
+gezielt*	48	52
+geziert*	12	16	
+gezoegert*	12	16		18	21	22	23
+gezofft	29	30	36
+gezogen	36	44
+gezoegert*	12	16		18	21	22	23
+gezweifelt*	12	16	18	23
+gezwungen	18	22	36
+gib	37
+gibst	37
+gibt	37
+gier*	12	16		53
+giesse	37
+giesse	37
+giesst	37
+giesst	37
+gift*	12	16
+gilt*	37
+ging*	36	44
+gipfel	39	40
+gitarre*	48	52
+glaeub*	12	13	15	24	54	55
+glaeubig	54	55
+glaeubiger	53
+glatt*	48	49	57	62
+glaub*	12	13	15	24	54	55
+glaeub*	12	13	15	24	54	55
+glaube*	18	20
+glauben*	54	55
+glaeubig	54	55
+glaeubiger	53
+glaubst	18	20
+glaubt	18	20
+gleich	35
+gleiche	37
+gleichgueltig*	12	16
+gleichgueltig*	12	16	17
+gleichst	37
+gleicht	37
+gleite	37
+gleitest	37
+gleitet	37
+glich*	36
+gliederschmerz*	12	16	57	58
+gliederung*	29	45	47
+glimme	37
+glimmst	37
+glimmt	37
+glitt*	36
+glomm*	36
+glueck*	12	13	14	18	23
+gluecklich*	45	
+glueck*	12	13	14	18	23
+gluecklich*	45	
+gnade*	54	55
+goer*	29	34
+goett*	12	13	54	55
+goetter*	54	55
+goettlich*	12	13
+golf*	48	50
+gor*	36
+goer*	29	34
+gospel*	54	55
+goss*	36
+goss*	36
+gott	54	55
+goett*	12	13	54	55
+goetter*	54	55
+gottesacker	54	56
+gottesacker*	56
+gottesdienst	12	13	14	54	55
+goettl*	12	13	54	55
+goettlich*	12	13
+gottlos*	12	16
+grab	56
+grab*	12	16	17	54	56
+graeb*	37
+grabe	37	56
+graeberfeld	56
+grabeskaelte	56
+grabeskaelte	56
+grabesstille	56
+grabhuegel	56
+grabhuegel	56
+grabrede	56
+grabstelle	56
+graeb*	37
+graeberfeld	56
+graeul*	12	16	
+gram*	12	16	17	54	56
+graeuel*	12	16	
+grausam*	12	16	
+greife	37
+greifs*	37
+greift*	37
+gremium*	45	47
+grenze*	18	22
+griech*	45	46
+griff*	36
+grimmig*	12	16	
+grins*	12	13
+grippe*	57	58
+groess*	39
+groll	12	16	
+groschen	53
+gross	39
+gross	39
+groess*	39
+grossartig*	12	13	15	45	
+grossartig*	12	13	15	45	
+grossenkel*	29	33
+grossenkel*	29	33
+grossfamilie*	29	33
+grossfamilie*	29	33
+grossmuetter*	29	33
+grossmutter*	29	33
+grossmutter*	29	33
+grossmuetter*	29	33
+grossonkel*	29	33
+grossonkel*	29	33
+grosstante*	29	33
+grosstante*	29	33
+grossvaeter*	29	33
+grossvater*	29	33
+grossvater*	29	33
+grossvaeter*	29	33
+grub*	36
+gruebel*	18	20
+gruebel*	18	20
+gruend*	12	13	18	20	45	
+gruende	18	19	20
+gruendlich*	18	24
+grund	18	19	20
+gruend*	12	13	18	20	45	
+gruende	18	19	20
+grundlage*	18	19
+gruendlich*	18	24
+gruppe	29	48	52
+gruppe*	29	45	46	47	48	50
+guete*	12	13
+guetig*	12	13
+gut*	12	13
+guete*	12	13
+guetig*	12	13
+gymnast*	48	50
+gymnastik*	48	50
+haar*	57	58	62
+habe	37
+habgier*	12	16		53
+haelfte*	11
+haelse*	57	58
+haelst	37
+haelt	37
+haendler*	45	47
+haenge	37
+haengst	37
+haengt	37
+haensel*	12	16		29	30
+haess*	12	16
+halb	11
+halbbruder*	29	33
+halber	10
+halbestunde	35
+halbjaehrig*	35
+halbjaehrig*	35
+halbschwester*	29	33
+halbstuendig*	35
+halbstuendl*	35
+halbstuendig*	35
+halbstuendl*	35
+half*	36
+haelfte*	11
+halle	45	46
+hallen	45	46
+hallo	29	30
+hals*	57	58
+haelse*	57	58
+halsentzuendung*	57	58
+halsentzuendung*	57	58
+halsschmerz*	12	16	57	58
+haelst	37
+haelt	37
+halte	37
+haltet	37
+hand	57	58
+haende*	57	58
+handel*	29	30	45	47	48	51
+handele	37	44
+handeln	44
+handelst	37	44
+handelt	37	44
+handelte*	36	44
+handgelenk*	57	58
+handknoechel*	57	58
+handknoechel*	57	58
+haendler*	45	47
+handlich*	45	47
+handlung*	44
+handwerk*	45	47
+haenge	37
+hangover*	57	58
+haengst	37
+haengt	37
+haensel*	12	16		29	30
+harm*	12	16	17	54	56
+harmoni*	12	13
+hass*	12	16	
+hass*	12	16	
+haess*	12	16
+hast	37
+hast*	45	46
+hastig*	35
+hat	37
+hatte*	36
+haue	37
+haus*	48	49
+hausarbeit*	45	46	48	49
+hausaufgabe*	45	46	48	49
+hausbewohn*	45	47
+hausflur	45	46
+haust	37
+haut	37
+hautausschlaege*	57	58
+hautausschlag*	57	58
+hautausschlaege*	57	58
+haute*	36
+hebe	37
+hebst	37
+hebt	37
+heft*	45	46
+heilen*	57	58
+heilig*	54	55
+heilig*	54	55
+heilung*	57	58
+heim*	48	49
+heimweh*	12	16	17	45	46	48	49
+heisse	37
+heisse	37
+heisshunger*	57	60
+heisst	37
+heisst	37
+heiter*	12	13	14
+heldenhaft*	12	13
+helfe	37
+hemm*	12	16	18	22
+hengst*	57	59
+herab	39	41
+herabgestiegen	36	44
+herabsteige	37	44
+herabsteigen	44
+herabsteigst	37	44
+herabsteigt	37	44
+herabstieg*	36	44
+heranbrachte*	36	44
+heranbringe	37	44
+heranbringen	44
+heranbringst	37	44
+heranbringt	37	44
+herangebracht	36	44
+herangerueckt	36	44
+herangerueckt	36	44
+herangetreten	36	44
+heranruecke	37	44
+heranruecken	44
+heranrueckst	37	44
+heranrueckt	37	44
+heranrueckte*	36	44
+heranruecke	37	44
+heranruecken	44
+heranrueckst	37	44
+heranrueckt	37	44
+heranrueckte*	36	44
+herantrat*	36	44
+herantrete	37	44
+herantreten	44
+herantritt*	37	44
+herauf	39	40
+heraus	39	43
+herausfinde*	18	20
+herausforder*	12	13	15	45	
+herausgefunden*	18	20
+herausgeredet	29	30	36
+herausgetreten	36
+herausrede*	29	30
+heraustrat*	36
+heraustrete	37
+heraustritt*	37
+herbeieile	37	44
+herbeieilen	44
+herbeieilst	37	44
+herbeieilt	37	44
+herbeieilte*	36	44
+herbeigeeilt	36	44
+herbrachte*	36	44
+herbringe	37	44
+herbringen	44
+herbringst	37	44
+herbringt	37	44
+herbst*	35
+hergebracht	36	44
+herkunft*	45	
+heroisch*	12	13
+herr	29	34
+herr*	54	55
+herren	29	34
+herrgott	54	55
+herrin*	29	34
+herrlich*	12	13	15
+herrs	29	34
+herstell*	18	19	20	45	
+herueber	39
+herueber	39
+herumfaehrst	37	44
+herumfaehrt	37	44
+herumfahre	37	44
+herumfahren	44
+herumfaehrst	37	44
+herumfahrt	37	44
+herumfaehrt	37	44
+herumfrag*	29	30
+herumfuhr*	36	44
+herumgefahren	36	44
+herumgereist	36	44
+herumgerfragt*	29	30	36
+herumreise	37	44
+herumreisen	44
+herumreist	37	44
+herumreiste*	36	44
+herunter	39	41
+hervor*	12	13	15	45	
+hervorgehoben	36
+hervorgerufen	36
+hervorhebe	37
+hervorhebst	37
+hervorhebt	37
+hervorhob*	36
+hervorragend*	12	13	15	45	
+hervorrief*	36
+hervorruf*	37
+herz*	57	58
+herzerkrank*	57	58
+herzkrank*	57	58
+herzlich*	12	13
+herzschlaege*	57	58
+herzschlag*	57	58
+herzschlaege*	57	58
+hetz*	45	46
+hi	29	30
+hielt*	36
+hier	39	42
+hierfuer	18	19
+hierfuer	18	19
+hiess*	36
+hiess*	36
+hilflos*	12	16	17
+hilfst	37
+hilft	37
+himmel*	12	13	54	55
+himmelherrgott	54	55
+himmlisch	12	13	54	55
+himmlisch*	12	13
+hinab	39	41
+hinauf	39	40
+hinaufgegangen	36	44
+hinaufgehe	37	44
+hinaufgehen	44
+hinaufgehst	37	44
+hinaufgeht	37	44
+hinaufgestiegen	36	44
+hinaufging*	36	44
+hinaufsteige	37	44
+hinaufsteigen	44
+hinaufsteigst	37	44
+hinaufsteigt	37	44
+hinaufstieg*	36	44
+hinaus	39
+hinausgegangen	36	44
+hinausgehe	37	44
+hinausgehen	44
+hinausgehst	37	44
+hinausgeht	37	44
+hinausging*	36	44
+hinbrachte*	36	44
+hinbringe	37	44
+hinbringen	44
+hinbringst	37	44
+hinbringt	37	44
+hinder*	12	16	18	22
+hinein	42
+hineinschlingen*	57	58	60
+hing	36
+hingabe*	12	13	14
+hingebe	12	13	14
+hingeben	12	13	14
+hingebracht	36	44
+hingegangen	36	44
+hingegeben*	12	13	14
+hingegen	43
+hingehe	37	44
+hingehen	44
+hingehst	37	44
+hingeht	37	44
+hingewiesen	29	30	36
+hingib*	12	13	14
+hinging*	36	44
+hingst	36
+hingt	36
+hinrichtun*	56
+hinsichtlich	10
+hinter	10	39
+hintereinander	44	48	50
+hintergedanke*	18	19
+hinterher	35
+hinterhergelaufen	36	44
+hinterherlaeufst	37	44
+hinterherlaeuft	37	44
+hinterherlaufe	37	44
+hinterherlaufen	44
+hinterherlaeufst	37	44
+hinterherlauft	37	44
+hinterherlaeuft	37	44
+hinterherlief*	36	44
+hintern*	57	58	63
+hinuebergegangen	36	44
+hinuebergehe	37	44
+hinuebergehen	44
+hinuebergeht	37	44
+hinueberging*	36	44
+hinuebergegangen	36	44
+hinuebergehst	37	44
+hinuebergeht	37	44
+hinueberging	36	44
+hinunter	39	41
+hinuntergegangen	36	44
+hinuntergehe	37	44
+hinuntergehen	44
+hinuntergehst	37	44
+hinuntergeht	37	44
+hinunterging*	36	44
+hinweise	29	30
+hinweisen	29	30
+hinweist	29	30	37
+hinwies*	29	30	36
+hirn*	57	58
+histor*	35
+hiv*	57	58
+hm*	64
+hob*	36
+hoch	39	40
+hochgeklettert	36	44
+hochklettere	37	44
+hochklettern	44
+hochkletterst	37	44
+hochklettert	37	44
+hochkletterte*	36	44
+hochmuetig*	12	16
+hochmut	12	16
+hochmuetig*	12	16
+hochschul*	45	46
+hochschulabsolvent*	45	46
+hochschule*	45	46
+hoechst	40
+hockey*	48	50
+hoechst	40
+hoehe	39	40
+hoeher	39	40
+hoell*	12	16	54	55	63
+hoer*	25	27	29	30	37	48	52
+hoersaal	45	46
+hoersaal*	45	46
+hoersaele	45	46
+hoerte*	25	27	29	30	36	48	52
+hof*	48	49
+hofdame*	29	34
+hoffe	12	13	15	18	21	23
+hoffen	12	13	15	18	21	23
+hoffentlich*	12	13	15	18	21	23
+hoffnung	12	13	15	18	21	23
+hoffnungen	12	13	15	18	21	23
+hoffnungslos*	12	16	17	18	21	23
+hoffnungsvoll*	12	13	15	18	21	23
+hoffst	12	13	15	18	21	23
+hofft*	12	13	15	18	21	23
+hoehe	39	40
+hoeher	39	40
+hole	37
+hoell*	12	16	54	55	63
+holst	37
+holt	37
+holte*	36
+homosexuell*	57	59
+honorar*	12	13	45		53
+hoer*	25	27	29	30	48	52
+horror*	12	16	
+hoersaal	45	46
+hoersaal*	45	46
+hoersaele	45	46
+hoerte*	25	27	29	30	36	48	52
+huebsch*	12	13
+huebsch*	12	13
+huefte*	57	58
+huefte*	57	58
+humor*	12	13	48	51
+hundert*	11
+hundesoehne*	63
+hundesohn*	63
+hundesoehne*	63
+hunger*	57	60
+Hunger*	57	58	60
+hunger*	57	58	60
+hungr*	57	58	60
+hure*	63
+husten*	57	58
+hyperton*	57	58
+hypothek*	53
+ich	1	2	4
+ideal*	12	13	45	
+ideal*	12	13	45	
+idiot*	63
+igitt*	12	16
+ignor*	12	16
+ihm	1	6	29	31
+ihn	1	6	29	31
+ihnen	1	5	29	31
+ihr	1	5	6	29	31
+ihre	1	5	6	29	31
+ihrem	1	5	6	29	31
+ihren	1	5	6	29	31
+ihrer	1	5	6	29	31
+ihres	1	5	6	29	31
+imbiss*	57	60
+imbiss*	57	60
+immatrikulation*	45	46
+immatrikulier*	45	46
+immer	18	24	35
+implikation	18	19
+implizier*	18	19
+imponier*	12	13
+in	10	39	42
+indessen	35
+indifferen*	12	16
+individuum*	29	34
+induktion	18	19
+industr*	45	47
+induzier*	18	19
+infekt*	57	58
+infizier*	57	58
+influenzia*	57	58
+infolge	10
+infolgedessen	18	19
+information*	18	20	29	30
+informiere	18	20	29	30	37
+informieren	18	20	29	30
+informierst	18	20	29	30	37
+informiert	18	20	29	30
+informierte*	18	20	29	30	36
+inhabe*	45	47
+initiat*	18	45	
+initiier*	18	45	
+initiiert*	18	45		36
+inklusive	10	42
+inmitten	10	39	42
+innen	39	42
+innendrin	39
+innerhalb	10	39	42
+insasse*	45	47
+inserat	48	51
+insgesamt	42
+insomnia*	57	58	61
+inspira*	12	13
+inspiri*	12	13
+institut*	45	46	47
+institution*	29	45	47
+instrument*	48	52
+integra*	42
+integrier*	42
+intell*	12	13
+interagiere	29	30	37
+interagieren	29	30
+interagierst	29	30	37
+interagiert	29	30
+interagierte*	29	30	36
+interaktion*	29	30
+interess*	12	13
+intervall*	35
+interview	29	30
+interview*	29	30	45	47
+interviewe	29	30	37
+interviewen	29	30
+interviewst	29	30	37
+interviewt	29	30
+interviewte*	29	30	36
+invest*	53
+investi*	53
+inzest*	57	59
+inzwischen	35
+irgendei*	1	18	23	29	31
+irgendet*	1	18	23
+irgendj*	1	18	23	29	31
+irgendwa*	18	23
+irgendwann	35
+irgendwe*	1	18	23	29	31
+irgendwie	18	23
+irgendwo*	18	23	39
+irrational*	12	16
+irre*	12	16
+irrs*	12	16
+irrt*	12	16
+isolat*	12	16	17
+isolier*	12	16	17
+iss*	37
+iss*	37
+isst*	25	37	57	60
+ist	37
+ja	8
+jaehrlich*	35
+jaha	8
+jahr*	35
+jaehrlich*	35
+jahrzehnt*	35
+jammer*	12	16
+januar*	35
+jau	8
+jazz*	48	52
+je	10
+jede	18	24	29	31
+jedem	18	24	29	31
+jeden	18	24	29	31
+jeder	18	24	29	31
+jedermann*	1	24	29	31
+jederzeit*	18	23	35
+jedes	18	24
+jedoch	43
+jemand*	1	18	23	29	31
+jenseits	10	39
+jesus	54	55
+jetzt	35
+job*	45	47
+jog*	44	48	50
+jogge	37	44
+joggen	44
+joggst	37	44
+joggt	37	44
+joggte*	36	44
+juck*	25	28	58
+jude	54	55
+juden	54	55
+juedisch*	54	55
+juedisch*	54	55
+jueng*	35
+juenger*	45	46
+juli*	35
+jung	35
+jung*	45	46
+jueng*	35
+junge*	29	34
+juenger*	45	46
+jungfrau*	57	59
+juni*	35
+junior*	45	46
+juno*	35
+kacke*	63
+kaemme	62
+kaempf*	12	16		45	
+kaempfe	37
+kaempfst	37
+kaempft	37
+kaempfte*	36
+kaeuf*	53
+kalkul*	53
+kalkulier*	18	24
+kam	36
+kamen	36
+kamerad*	29	32
+kaemme*	62
+kampf	12	16		45		50
+kaempf*	12	16		45	
+kaempfe	37
+kaempfst	37
+kaempft	37
+kaempfte*	36
+kamst	36
+kanal*	48	51
+kann	37
+kann*	45	47
+kannst	37
+kannte*	18	20	36
+kantine*	45	46	57	60
+kapelle*	29	48	52
+kapital*	53
+kaplan*	54	55
+karriere	45	47
+karzinom*	57	58
+kasse*	53
+kassette*	48	52
+kassetten	48	52
+kater*	57	58
+katholi*	54	55
+kaue*	57	60
+kauf	53
+kauf*	53
+kaeuf*	53
+kaufe	37
+kaufe*	37	53
+kaufm*	45	47	48	51
+kaufs*	37	53
+kaufst	37
+kauft	37
+kauft*	37	53
+kaufte*	36
+kaust*	57	60
+kaut*	57	60
+kavalier	29	34
+keck	12	13
+kehle*	57	58
+kein*	7
+keineahnung	65
+kenne	18	20	37
+kennst	18	20	37
+kennt	18	20	37
+kerl*	29	34
+kicher*	12	13
+kiefer*	57	58
+kill*	12	16		54	56
+killer	12	16	
+kilometer	39
+kind	29	34
+kinder	29	34
+kindern	29	34
+kindes	29	34
+kindesabtreibung*	57	58	59
+kindisch*	12	16
+kino*	48	51
+kirch*	54	55
+klaeglich*	12	16	17
+klaere	18	20	29	30	37
+klaeren	18	20	29	30
+klaerst	18	20	29	30	37
+klaert	18	20	29	30	37
+klaerte*	18	20	29	30	36
+klag*	12	16	17	54	56
+klage	12	16	29	30
+klagen	12	16	29	30
+klaeglich*	12	16	17
+klagst	12	16	29	30	37
+klagt	12	16	29	30	37
+klagte*	29	30	36
+klang*	36
+klar*	18	20	24
+klaere	18	20	29	30	37
+klaeren	18	20	29	30
+klaro	8
+klaerst	18	20	29	30	37
+klaert	18	20	29	30	37
+klaerte*	18	20	29	30	37
+klasse	8	12	13
+klasse*	45	46
+klassenbuch*	45	46
+klassenkamerad*	45	46
+klassenraum	45	46
+klassenzimmer	45	46
+klausur*	45	46
+klein	39
+kleiner*	39
+kleinkind*	29	34
+kleinlich*	12	16
+kleinst	39
+kletter*	44	45	
+klettere	37	44
+klettern	44
+kletterst	37	44
+klettert	37	44
+kletterte*	36	44
+klimm*	37
+klinge	37
+klingst	37
+klingt	37
+kloen*	29	30
+klomm*	36
+kloen*	29	30
+klopf*	57	58
+klug*	12	13
+knabe*	29	34
+knallkoepfe*	63
+knallkopf*	63
+knallkoepfe*	63
+kneife	37
+kneifst	37
+kneift	37
+knie*	57	58
+kniegelenk*	57	58
+kniff*	36
+knoechel*	57	58
+knochen*	57	58
+knoechel*	57	58
+knuddel*	25	28	57	59
+knutsch*	12	13
+koch*	57	60
+koenn*	45	
+koennen	45	47
+koennt	37
+koennte*	18	21
+koerper*	57	58
+koerperlich*	57	58
+kolleg*	29	32	45	47
+koma*	57	58	61
+komik*	12	13	48	51
+komisch*	12	13
+komme	37
+kommentar*	29	30
+kommentiere	29	30	37
+kommentieren	29	30
+kommentierst	29	30	37
+kommentiert	29	30
+kommentierte*	29	30	36
+kommerz*	45	47	48	51
+kommissionier*	53
+kommst	37
+kommt	37
+kommunikation*	29	30
+kommunion*	54	55
+kommuniziere	29	30	37
+kommunizieren	29	30
+kommunizierst	29	30	37
+kommuniziert	29	30
+kommunizierte*	29	30	36
+komoed*	48	51
+komoed*	48	51
+kompagnon*	29	32
+kompanie*	45	47
+kompeten*	18	22	45	47
+kompeten*	45	47	
+komplett*	18	24
+komprimier*	37	44	45	46
+kondom*	57	59
+konferenz*	29	30	45	47
+konferier*	29	30
+konfirmation*	54	55
+konflikt	18	22	23
+kongestion*	57	58
+konkret*	12	13
+konkurr*	45	
+koenn*	45	
+koennen	37	45	47
+koennte*	18	21	23	36
+konsequenz*	18	19
+konstruier*	18	20
+konstruktion*	18	20
+konstruktiv*	12	13
+konsul*	29	30	45	46
+kontakt	29	30
+kontakte	29	30
+kontaktiere	29	30	37
+kontaktieren	29	30
+kontaktierst	29	30	37
+kontaktiert	29	30
+kontaktierte*	29	30	37
+kontakts	29	30
+kontra	10
+kontrol*	12	13	15	18	22	45	
+kontroll*	45	46	47	53
+kontrolle*	18	22
+kontrollier*	18	22	45	47
+konzentration*	18	20
+konzentrier*	18	20
+konzern*	45	47
+konzert*	48	52
+konzil*	45
+kopf*	57	58
+kopfhaeut*	57	58
+kopfhaut*	57	58
+kopfhaeut*	57	58
+kopfschmerz*	12	16	57	58
+kopfweh*	57	58
+kopie*	45	46
+koronar*	57	58
+koerper*	57	58
+koerperlich*	57	58
+korpulent*	57	58	60
+korrektur*	18	20
+korrespondenz*	29	30
+korrespondier*	29	30
+korridor	45	46
+korrigier*	18	20
+kost*	53
+kostbar*	12	13
+koste*	53
+kosten*	45	47	53
+kotz*	12	16	57	58	63
+kraeftig*	12	13
+kraenk*	12	16	17	57	58
+kraft	10	12	13
+kraft*	45	
+kraeftig*	12	13
+kraftlos*	12	16
+kraftvoll	12	13
+krampf*	57	58
+krank*	12	16	57	58
+kraenk*	12	16	17	57	58
+krankheit*	57	58
+kratz*	57	58
+kreation*	18	20
+kreativ*	12	13
+krebs*	57	58
+kredit*	53
+kreditinstitut*	53
+kreier*	18	20
+kremat*	54	56
+krematorium*	56
+krepier*	56
+kreuze	37	44
+kreuzen	44
+kreuzt	37	44
+kreuzte*	36	44
+kribbel*	57	58
+krieche	37
+kriechst	37
+kriecht	37
+kritik*	12	16	29	30
+kritisiere	12	16	29	30	37
+kritisieren	12	16	29	30
+kritisierst	12	16	29	30	37
+kritisiert	12	16	29	30
+kritisierte*	12	16	29	30	36
+kroch*	36
+kroete*	63
+kroete*	63
+kueche*	48	49	57	60
+kueche*	48	49	57	60
+kuehn*	12	13	15
+kuemmernis	56
+kuendigung*	18	22	45	47
+kuenftig*	35
+kuenstler*	12	13
+kuere	37
+kuerst	37
+kuert	37
+kuerte	36
+kuerz*	35
+kuess*	12	13	57	59
+kuehn*	12	13	15
+kummer	12	16	17	54	56
+kummer*	12	16	17	54	56
+kuemmernis	56
+kumpel*	29	32
+kunde*	53
+kundig	45	47
+kuendigung*	18	22	45	47
+kundtun	18	20	29	30	54	55
+kuenftig*	35
+kunst*	12	13
+kuenstler*	12	13
+kuere	37
+kurs	45	46	53
+kurs*	45	46	53
+kuerst	37
+kuert	37
+kuerte	36
+kurz	35	39
+kuerz*	35
+kurzzeitig*	35
+kusin*	29	33
+kuss*	12	13
+kuss*	12	13	57	59
+kuess*	12	13	57	59
+labil*	18	23
+labor*	45	47
+lache	12	13
+laechel*	12	13	14
+laecherlich*	12	16	
+lachhaft*	12	16
+laechle	12	13	14
+laed*	37
+lade	37
+laden*	37	53
+laedst	37
+laedt	37
+laechel*	12	13	14
+laecherlich*	12	16	
+laechle	12	13	14
+laed*	37
+laengs	10	39
+laengsseits	10	39
+laesst	37
+laest*	12	16
+laeuf*	37
+laeufst	37	44
+laeuft	37	44
+lag	36
+lage	39
+lager*	48	49	61
+lagst	36
+lagt	36
+lahm*	12	16
+landkarte	39
+langeweile*	12	16
+laengs	10	39
+laengsseits	10	39
+langweilig*	12	16
+las*	36
+laess*	37
+lasse	37
+lasst	37
+lasst	37
+laesst	37
+last	12	16
+laest*	12	16
+lattenschuss	63
+lattenschuss	63
+lauf*	44	48	50
+laeuf*	37
+laufbahn*	45	47
+laufe	37	44
+laufen	44
+laeufst	37	44
+lauft	37	44
+laeuft	37	44
+laune*	12	16
+launisch*	12	16
+lausig*	12	16
+laut	10
+leb*	37	48	49
+leben*	48	49
+lebendig*	12	13
+lebensabschnittsgefaehrt*	29	33
+lebensabschnittsgefaehrt*	29	33
+lebensalter*	35
+lebensdauer*	35
+lebenslauf*	45	46	47
+lebensmittel*	57	60
+lebenspartner*	29	33
+lebenswichtig*	12	13
+lebhaft*	12	13
+leer*	12	16
+lege	37
+legst	37
+legt	37
+legte*	36
+lehr*	45	46
+lehrer*	45	46
+lehrplan*	45	46
+lehrte*	36	45	46
+leib*	57	58
+leiblich*	57	58
+leiche*	56
+leichen*	54	56
+leichnam	56
+leichtsinn*	12	16	54	55
+leid*	12	16	17	54	56
+leide	12	16	17	37
+leiden	12	16	17
+leiden*	57	58
+leidenschaft*	12	13	14	57	59
+leider	12	16	17
+leidest	12	16	17	37
+leidet	12	16	17	37
+leidl*	12	16	17
+leih*	53
+leihe	37
+leihst	37
+leiht	37
+leistung*	12	13	45	46	47	
+leit*	12	13	15	18	22	45	
+leit*	45	47
+leitung*	45	46	47
+lenk*	45	47
+lern*	37	45	46
+lerne	18	20	37
+lernst	18	20	37
+lernt	18	20	37
+lernte*	18	20	36
+lesbisch*	57	59
+lese	37
+lesung*	45	46
+letztendlich	35
+letztens	35
+leugn*	18	22
+leuke*	57	58
+leute*	29	34
+libid*	57	59
+liebe	12	13	14
+liebe*	12	13	14	37	57	59
+liebelei*	12	13	14
+liebespaar*	29	32
+liebevoll*	12	13
+liebhaber*	57	59	29	32
+liebk*	12	13	14
+lieblich*	12	13
+liebling	29	32
+lieblos*	12	16
+liebs*	12	13	14
+liebst*	12	13	15	45	
+liebt*	12	13	14	37	57	59
+lied*	48	52
+lief	36	44
+lief*	36	44
+liefen	36	44
+liefere	37	44
+liefern	44
+lieferst	37	44
+liefert	37	44
+lieferte*	36	44
+liefst	36	44
+lieft	36	44
+liege	37
+liegst	37
+liegt	37
+lieh*	36
+lies*	37
+liess*	36
+liess*	36
+limit*	18	22
+links	10	39
+lippe*	57	58
+liste*	45	46
+literatur*	45	46
+litt*	12	16	17	36
+lob*	29	30	45	
+lobe	29	30	37
+loben	29	30
+lobpreis*	29	30	45	
+lobst	29	30	37
+lobt	29	30	37
+lobte*	29	30	36
+Locke*	62
+locker*	12	13
+loes*	18	20	45	
+loesung*	18	20	45	
+log	12	16	36
+logen	12	16	36
+logik	18	19
+logisch*	18	19
+logst	12	16	36
+lohn*	12	13
+lohn*	37	45	47	53
+lohnend*	45	47	53
+lohnerhoehung*	45	47
+lohnerhoehung*	45	47
+lohngruppe*	45	46
+lohnscheck*	45	47	53
+lokal*	48	57	60
+loes*	18	20	45	
+loser*	12	16	17	45	
+losgegangen	36	44
+losgehe	37	44
+losgehen	44
+losgehst	37	44
+losgeht	37	44
+losging*	36	44
+loesung*	18	20	45	
+loyal*	12	13
+lud	36
+luden	36
+luder*	63
+ludst	36
+luege	12	16	37
+luegst	12	16	37
+luegt	12	16	37
+lueste	12	13
+luege	12	16	37
+luegst	12	16	37
+luegt	12	16	37
+lukrativ*	45	47	53
+lunch*	57	60
+lust	12	13
+lueste	12	13
+lustig*	12	13
+lustlos*	57	58
+lustmolch*	63
+lutscher*	63
+mache	37
+mache*	12	13	18	20	45		36
+macho*	63
+machst	37
+macht	12	13	37
+macht*	45	
+maecht*	12	13
+machte*	36
+machtvoll*	12	13
+macker*	63
+maedchen*	29	34
+maecht*	12	13
+maedchen*	29	34
+maegen*	57	58
+maekel*	12	16
+maenner*	29	33	34
+maerz*	35
+mag	12	13	37
+magen*	57	58
+maegen*	57	58
+magenverstimmung*	57	58
+mager*	57	58	60
+magersucht*	57	58	60
+magersuechtig*	57	58	60
+magersuechtig*	57	58	60
+magister*	45	46
+magst	12	13	37
+mahle	37
+mahlst	37
+mahlt	37
+mahlte*	36
+mahlzeit*	57	60
+mai	35
+maile	29	30	37
+mailen	29	30
+mailst	29	30	37
+mailt	29	30	37
+mailte*	29	30	36
+makel*	12	16
+maekel*	12	16
+makeup*	62
+mama*	29	33
+mami*	29	33
+manag*	45	47
+manche*	18	23
+mandel*	57	58
+mangels	10	43
+mann*	29	33	34
+maenner*	29	33	34
+mannschaft*	29	45	46	48	50
+mark	53
+marketing*	45	46	47
+markt*	45	46	47
+maerz*	35
+mass	36
+mass	36
+masslos*	12	16
+masslos*	12	16
+masst	36
+math*	45	46
+matrikel*	45	46
+matt*	57	58
+meditat*	54	55
+meditiere*	54	55
+meeting*	29	30	45	47
+mehrjaehrig*	35
+mehrjaehrig*	35
+mehrtaegig*	35
+mehrtaegig*	35
+meide	12	16	37
+meiden	12	16
+meidest	12	16	37
+meidet	12	16	37
+meile	39
+mein	1	2	4
+meine	1	2	4	18	20	30	37
+meinem	1	2	4
+meinen	1	2	4	18	20	30
+meiner	1	2	4
+meinst	18	20	29	30	37
+meint	18	20	29	30	37
+meinte*	18	20	29	30	36
+meinung*	18	20	29	30
+meister*	45	47
+meld*	45	46
+melde	29	30	37
+melde*	45	46
+melden	29	30
+meldest	29	30	37
+meldet	29	30	37
+meldete*	29	30	36
+meldung*	29	30
+melke	37
+melkst	37
+melkt	37
+mensa*	45	46	57	60
+mensch*	29	34
+merklich*	18	24
+merkwuerdig*	12	16
+merkwuerdig*	12	16
+messe	37
+methodis*	54	55
+metier*	45	47
+mh*	64
+mhm	8
+mich	1	2	4
+mied*	12	16	36
+mies*	12	16
+miet*	45	47
+miet*	48	49	53
+migraene*	57	58
+migraene*	57	58
+milliarde*	11
+million*	11
+minderwertig*	12	16	17
+minister*	45	47
+ministerium*	45	46	47
+minus	10	43
+minute*	35
+mir	1	2	4
+miserabel*	12	16	17
+miserabl*	12	16	17
+miss*	12	16	17	45	
+miss*	12	16	17	54	56
+missbraeuch*	12	16	
+missbrauch*	12	16	
+missbrauch*	12	16	
+missbraeuch*	12	16	
+missbraeuch*	12	16	
+missetaeter*	12	16	
+missetat*	12	16	
+missetaeter*	12	16	
+missetaeter*	12	16	
+missgeschick*	12	16		17
+missgeschick*	12	16		17
+missglueck*	12	16	17
+missglueck*	12	16	17
+missglueckt	12	16	17	45	
+missglueck*	12	16	17
+missglueckt	12	16	17	45	
+missgu*	12	16	
+missgu*	12	16	
+misslang*	12	16	36
+misslang*	12	16	36
+misslinge	12	16	17	37
+misslinge	12	16	17	37
+misslingen	12	16	17
+misslingen	12	16	17
+misslingst	12	16	17	37
+misslingst	12	16	17	37
+misslingt	12	16	17	37
+misslingt	12	16	17	37
+misslungen	12	16	36
+misslungen	12	16	36
+missraten	12	16	17	45	
+misst	37
+misst	37
+misstrau*	12	16
+misstrau*	12	16
+mist*	12	16		63
+mit	10	42
+mitarbeiter*	29	32	45	47
+mitbewohner*	29	32	45	46
+mitbrachte*	36	44
+mitbringe	37	44
+mitbringen	44
+mitbringst	37	44
+mitbringt	37	44
+miteinander*	42
+mitgebracht	36	44
+mitgefuehl*	12	13
+mitgefuehl*	12	13
+mitgegangen	36	44
+mitgehe	37	44
+mitgehen	44
+mitgehst	37	44
+mitgeht	37	44
+mitgenommen	36	44
+mitgereist	36	44
+mitgeteilt	18	20	29	30	36
+mitging*	36	44
+mithilfe	10
+mitleid*	12	16	17
+mitnahm*	36	44
+mitnehme	37	44
+mitnehmen	44
+mitnimmst	37	44
+mitnimmt	37	44
+mitreise	37	44
+mitreisen	44
+mitreist	37	44
+mitreiste*	36	44
+mitsamt	10	42
+mitschnitt*	48	52
+mitschueler*	45	46
+mitschueler*	45	46
+mitspiel*	12	13	37	48	50
+mittag*	35
+mittagessen*	57	60
+mittagspause*	57	61
+mitte	39
+mitteile	18	20	29	30	37
+mitteilen	18	20	29	30
+mitteilst	18	20	29	30	37
+mitteilt	18	20	29	30	37
+mitteilte*	18	20	29	30	36
+mittellos*	53
+mittels	10
+mittleid*	54	55
+mittlere	39
+mittlerem	39
+mittleren	39
+mittleres	39
+mittlerweile	35
+mittwoch*	35
+mobbing*	12	16	
+mochte*	36
+moegen	12	13
+moeglich*	18	23
+moepse*	57	58	59	63
+moerd*	12	16		54	56
+moerder*	12	16		56
+moese*	57	58	59	63
+moegen	12	13
+moeglich*	18	23
+molk*	36
+mollig*	57	58	60
+moment*	35
+monat*	35
+mono	57	58
+montag*	35
+moepse*	57	58	59	63
+moral*	54	55
+moralpredigt	54	55
+mord*	56
+mord*	12	16		54	56
+mord*	54	56
+moerd*	12	16		54	56
+moerd*	54	56
+moerder*	12	16	
+morgen	35	38
+morgig*	35
+moritat	56
+mortal*	54	56
+moese*	57	58	59	63
+motiv*	18	19	45		19
+motivation*	18	19	20
+motivier*	18	19	20	45	
+motiviert	18	19	20	45		36
+mtv	48	51	52
+muede*	12	16
+muede*	12	16	17	57	58	61
+muede*	12	16	17	57	58	61
+mueh*	45	47
+muehe	12	16
+muehen	12	16
+muehsam*	45	47
+mueht*	12	16
+muender*	57	58
+muenz*	53
+muess*	18	21
+muetter*	29	33
+mueh*	45	47
+muehe	12	16
+muehen	12	16
+muehsam*	45	47
+mueht*	12	16
+mund*	57	58
+muender*	57	58
+munkel*	29	30
+munter*	12	13
+muenz*	53
+muschi*	57	58	59	63
+musi*	48	52
+muskel*	57	58
+muss	37
+muss	37
+muess*	18	21
+muess*	18	21
+musst	37
+musst	37
+musste*	36
+musste*	36
+mut	12	13	15
+mutes	12	13	15
+mutgemasst*	18	23
+mutgemasst*	18	23
+mutig*	12	13	15
+mutlos*	12	16	
+mutmass*	18	23
+mutmass*	18	23
+mutter*	29	33
+muetter*	29	33
+mutterleib*	57	58	59
+muttersoehnchen	63
+muttersoehnchen	63
+mutti*	29	33
+nach	10	39
+nachbar*	29	32
+nachdachte*	18	20	36
+nachdem	35
+nachdenk*	54	55
+nachdenke	18	20	37
+nachdenken	18	20
+nachdenklich*	12	13
+nachdenkst	18	20	37
+nachdenkt	18	20	37
+nacheinander	44	48	50
+nachfolge*	44
+nachfolgst	37	44
+nachfolgt	37	44
+nachfolgte*	36	44
+nachfrage*	18	20	29	30	45	46	47
+nachfragst	18	20	29	30	37
+nachfragt	18	20	29	30	37
+nachfragte*	18	20	29	30	36
+nachgedacht	18	20	36
+nachgefolgt	36	44
+nachgefragt	18	20	29	30	36
+nachgegangen	36	44
+nachgehe	37	44
+nachgehen	44
+nachgehst	37	44
+nachgeht	37	44
+nachgelaufen	36	44
+nachgeschlagen	36
+nachgewiesen	36
+nachging*	36	44
+nachher	35
+nachhilfe*	45	46
+nachlaeufst	37	44
+nachlaeuft	37	44
+nachlass*	53
+nachlaufe	37	44
+nachlaufen	44
+nachlaeufst	37	44
+nachlauft	37	44
+nachlaeuft	37	44
+nachlief*	36	44
+nachpruef*	18	20	45	47	53
+nachpruef*	18	20	45	47	53
+nachricht*	29	30
+nachsaison*	35
+nachschlaeg*	37
+nachschlaeg*	37
+nachschlage	37
+nachschlug*	36
+nachsichtig*	12	13
+nacht	35
+naecht*	35
+nachteil*	12	16
+nachtisch*	57	60
+nachts	35
+nachweise	37
+nachweist	37
+nachwies*	36
+nacken*	57	58
+nackt*	57	58	59
+naecht*	35
+naehere	37	44
+naehern	44
+naeherst	37	44
+naehert	37	44
+naeherte*	36	44
+naeherung*	44
+nagler*	57	59
+nah	39
+nahe	10	39
+naehere	37	44
+naehern	44
+naeherst	37	44
+naehert	37	44
+naeherte*	36	44
+naeherung*	44
+nahezu	18	23
+nahm	36	44
+nahm*	36
+naja	65
+namens	10
+nannte*	29	30	36
+nasal*	57	58
+nase*	57	58
+nausea*	57	58
+ne	7
+neben	10	39
+nebensaison*	35
+nebst	10	39
+necke*	29	30
+neffe*	29	33
+nehme	37
+neid*	12	16	
+nein	7
+nenne	29	30	37
+nennen	29	30
+nennst	29	30	37
+nennt	29	30	37
+nennung*	29	30
+nerv*	12	16	54	55	57	58
+nervoes*	12	16	
+nervoes*	12	16	
+nett	12	13
+neu	35
+neue	35
+neuem	35
+neuen	35
+neuer	35
+neuerdings*	35
+neues	35
+neulich*	35
+neuling*	45	46
+neun*	11
+nicht	7
+nichte	29	33
+nichtig	7
+nichts	1	7
+nichtsnutz*	63
+nickerch*	57	61
+nickerchen*	57	61
+nie	7	18	24	35
+nieder	39	41
+niedergeschlagen*	12	16	17
+niederlage*	12	16
+niedertraechtig*	12	16	
+niedertraechtig*	12	16	
+niedlich*	12	13
+niedrig	39	41
+niemals	18	24	35
+niemand*	1
+niere*	57	58
+nimm	37
+nimmer	7
+nimmermehr	7	35
+nimmst	37
+nimmt	37
+nippel*	57	58	59	63
+nir*	7
+nirgends	39
+nirgendwo*	39
+nix*	7
+nochmal*	35
+noerdlich*	10	39
+noergel*	12	16
+noergl*	12	16
+noete*	12	16	
+nord*	39
+noerdlich*	10	39
+noergel*	12	16
+noergl*	12	16
+not	12	16	
+not*	53
+note*	45	46
+noete*	12	16	
+noten*	45	46
+notendurchschnitt	45	46
+november*	35
+nuetzlich*	12	13
+null	7	11
+nun	35
+nutte*	63
+nutzer*	45	47
+nuetzlich*	12	13
+nutzlos*	12	16	17
+ob	10
+oben	39	40
+obenauf	39	40
+oberarsch*	63
+obere*	39	40
+oberhalb	10	39	40
+oberklasse*	45	46
+oberschenkel*	57	58
+oberschicht*	45	46
+obgleich	43
+obig	39	40
+obschon	43
+obwohl	43
+obzwar	43
+oder	18	23	43
+odersoaehnlich	65
+odersoaehnlich	65
+oekonom*	45	46	47	53
+oestlich*	10	39
+offenbar*	18	20	29	30	54	55
+offenbare	29	30	37
+offenbaren	29	30
+offenbarst	29	30	37
+offenbart	29	30
+offenbarte*	29	30	37
+offenbarung*	29	30
+ohne	10	43
+ohr*	25	27	57	58
+ok	8
+okay	8
+oekonom*	45	46	47	53
+oktober*	35
+olymp*	54	55
+onkel*	29	33
+opa*	29	33
+opfer*	12	16	
+opi*	29	33
+optimal*	12	13	15
+optimis*	12	13	15
+orchest*	48	52
+orchester*	29	48	52
+orden*	45	46
+ordinaer*	12	16
+ordinaer*	12	16
+organisat*	29	45	47
+organisation*	29	45	47
+orgasm*	57	58	59
+orientier*	45	46
+origin*	12	13	15	45	
+original*	12	13
+originell*	12	13
+ort	39
+orte	39
+osten	39
+oster*	54	55
+oestlich*	10	39
+ovar*	57	58	59
+paar*	29	32
+pacht*	48	49	53
+pack*	37	44	45	46
+paeck*	37	44	45	46
+packe	37	44
+packen	44
+packen*	44	45	46
+packend	44	45	46
+packst	37	44
+packt	37	44
+packte*	36	44
+packung*	44	45	46
+paedagog*	45	46
+paeck*	37	44	45	46
+paedagog*	45	46
+paepst*	54	55
+panik*	12	16	
+panisch*	12	16	
+papa*	29	33
+papi*	29	33
+papst*	54	55
+paepst*	54	55
+paradies*	12	13
+paranoi*	12	16	
+Parfuem	62
+Parfuem*	62
+partizipier*	29	30
+partner*	29	32	33	34
+party*	12	13
+partzipation*	29	30
+passion*	12	13	14
+pastor*	54	55
+pech*	12	16
+pein*	12	16	17
+penis*	57	58	59
+penn*	57	61
+penny	53
+per	10
+perfekt	8	12	13
+perfekt*	12	13	45	
+perfektion*	12	13	45	
+periode*	35
+person*	29	34
+personal*	45	47
+pervers*	12	16	57	59
+pessimis*	12	16	17
+pfaend*	45	46	53
+pfand*	45	46	53
+pfaend*	45	46	53
+pfarr*	54	55
+pfeife	37
+pfeifst	37
+pfeift	37
+pfennig*	53
+pfiff*	36
+pflege*	12	13
+pflicht*	18	22	45	47
+pfui	12	16
+phantasie*	12	13
+philosphie	45	46
+phrase*	45	46
+pimmel*	63
+pisse	63
+plaetze	39
+plage*	12	16	
+plagst	12	16	
+plagt*	12	16	
+plapper*	29	30
+platte*	48	52
+platz	39
+platz*	48	49
+plaetze	39
+plauder*	29	30
+plicht*	18	22	45	47
+ploetzlich*	35
+ploetzlich*	35
+plus	10	42
+poch*	57	58
+pool*	48	50
+popo*	57	58	59
+poppe	37	63
+poppst	37	63
+poppt	37	63
+poppte*	36	63
+populaer*	12	13
+populaer*	12	13
+popularitaet*	12	13
+popularitaet*	12	13
+porn*	57	59
+position	39
+positiv*	12	13
+power*	45	
+pracht*	12	13
+praechtig*	12	13
+praechtig*	12	13
+praemie*	45	47
+praesident*	45	46	47
+praemie*	45	47
+praesident*	45	46	47
+praxis*	48	50
+predige*	54	55
+prediger*	54	55
+preis	12	13
+preis*	12	13	15	29	30	45	
+preis*	53
+preise	12	13
+preisen	12	13
+preist	12	13	37
+presbyterian*	54	55
+prickel*	57	58
+pries*	12	13	36
+priest*	54	55
+prima	8	12	13
+prinzipiell*	18	24
+pro	10
+prob*	18	37	45	
+probe*	45	46
+probier*	18	23
+problem*	12	16
+produkt*	18	19	45	47	
+produktiv*	18	19	45	
+produzier*	18	19	45	
+prof*	45	46
+profession*	45	47
+professor*	45	46
+profit*	12	13	15
+programm*	48	51
+prohib*	18	22
+prolet*	63
+proll*	63
+promi*	48	51
+promotion*	45	46
+prostat*	57	58	59
+prostitu*	57	59
+protest*	12	16
+protestant*	54	55
+protokoll*	45	46
+provision	53
+provisorisch*	18	23
+pruef*	18	20	45	46
+pruefung*	45	46	47	53
+pruef*	18	20	45	46
+pruefung*	45	46	47	53
+psych*	45	46
+psychol*	45	46
+puls*	57	58
+pult*	45	46	47
+pussie*	63
+pussy*	63
+putz*	48	49	57	62
+putze*	62
+quael*	12	16		
+qual*	12	16		
+quael*	12	16		
+qualifi*	45	47
+quer	10
+querschnittsge*	57	58
+quill*	37
+quiz*	45	46
+quoll*	36
+raech*	12	16	
+rache	12	16	
+rachsuechtig*	12	16	
+rachsuechtig*	12	16	
+rad*	48	50
+radfahr*	48	50
+radio*	48	52
+raech*	12	16	
+raet	29	30	37
+raetsel*	45	46
+raetst	29	30	37
+raeume	39
+rang*	36
+rann*	36
+rannte*	36	44
+rap*	48	52
+ras*	45	46
+rasier*	62
+rastlos*	12	16	
+raet	29	30	37
+rat*	29	30	45	46	47
+rate	29	30	37
+rate*	45	46
+raten	29	30
+ratgeb*	45	46
+rational*	18	19	20
+rationell*	45	47	53
+raetsel*	45	46
+raetst	29	30	37
+raum	39
+raum*	48	49
+raeume	39
+rausge*	45	47
+reagier*	18	19
+reaktion*	18	19
+realisier*	18	20
+realitaet*	18	20
+realitaet*	18	20
+rebell*	12	16	
+rechen*	45	46
+recherch*	45	47
+rechner*	45
+rechnung*	45	47	53
+recht*	45	
+rechtfertige	18	19	29	30	37
+rechtfertigen	18	19	29	30
+rechtfertigst	18	19	29	30	37
+rechtfertigt	18	19	29	30	37
+rechtfertigte*	18	19	29	30	36
+rechtfertigung*	18	19
+rechts	10	39
+rechtzeitig*	35
+red*	45	46
+rede	29	30
+reden	29	30
+redest	29	30	37
+redet	29	30	37
+redete*	29	30	36
+referat*	45	46
+reflektier*	18	20
+reflektion*	18	20
+regel*	18	20	22	45	47	
+register*	45	46
+registr*	45	46
+registrier*	45	46
+regulation*	18	20
+regulier*	12	13	15	18	20	22	45	
+reibe*	37
+reibst	37
+reibt	37
+reich*	12	13	53
+rein*	48	49	57	62
+reinig*	48	49	57	62
+reinstopf*	57	60
+reise*	44
+reisebekanntschaft*	29	32
+reisse	37
+reisse	37
+reisst	37
+reisst	37
+reist	37	44
+reiste*	36	44
+reite	37
+reizbar*	12	16	
+reizend*	12	13
+reizvoll*	12	13
+reklame	48	51
+reklame*	45	47	48	51
+rekonstruier*	18	20
+rekonstruktion*	18	20
+rekorder	48	51
+rektor*	45	47
+relation*	18	20
+religio*	54	55
+religioes	54	55
+religioes	54	55
+renne	37	44
+rennen	44
+rennst	37	44
+rennt	37	44
+rentabel*	45	47	53
+residen*	48	49
+resign*	12	16	17
+restau*	48	57	60
+restrikt*	18	22
+result*	18	19	45	
+resultat*	18	19
+resultier*	18	19
+retina*	57	58
+reue*	12	16
+revanche*	12	16	
+revangier*	12	16	
+rhetor*	45	46
+richtig	8
+rieb*	36
+rieche	37
+riechst	37
+riecht	37
+rief*	29	30	36
+riegel*	57	60
+riet*	29	30	36
+ringe	37
+ringsherum	39
+ringst	37
+ringt	37
+rinn*	37
+rippe*	57	58
+riss*	36
+riss*	36
+ritt*	36
+roch*	36
+roehre	48	51
+roehre*	48	51
+romanti*	12	13
+romanze*	12	13	14
+rueckenschmerz*	12	16	57	58
+rueckgaengig*	18	21
+rueckgrat*	57	58
+rueckruf*	29	30
+ruecksicht	12	13
+ruecksichtnahme	12	13
+ruecksichtslos*	12	16	
+ruecksichtsvoll*	12	13
+rueckenschmerz*	12	16	57	58
+rueckgaengig*	18	21
+rueckgrat*	57	58
+rueckruf*	29	30
+ruecksicht	12	13
+ruecksichtnahme	12	13
+ruecksichtslos*	12	16	
+ruecksichtsvoll*	12	13
+ruege	12	16		29	30	37
+ruegen	12	16		29	30
+ruegst	12	16		29	30	37
+ruegt	12	16		29	30	37
+ruegte*	12	16		29	30	36
+ruehrend*	12	13
+ruehrig*	12	13
+ruehrselig*	12	16	17
+ruehrung*	12	13	14
+rufe	29	30	37
+rufen	29	30
+rufst	29	30	37
+ruft	29	30	37
+rugby*	48	50
+ruege	12	16		29	30
+ruegen	12	16	29	30
+ruegst	12	16	29	30	37
+ruegt	12	16	29	30	37
+ruegte*	12	16	29	30	36
+ruhe	12	13
+ruhelos*	12	16	
+ruhen	12	13
+ruhig*	12	13
+ruehrend*	12	13
+ruehrig*	12	13
+ruehrselig*	12	16	17
+ruehrung*	12	13	14
+ruhst	12	13
+ruht	12	13
+ruin*	12	16	53	54	56
+rundfunk*	48	52
+rundherum	39
+saal	45	46
+sackgesicht*	63
+sackratte*	63
+saemtlich*	18	24
+saenger*	48	52
+saeuber*	48	49	57	62
+saeufst	37
+saeuft	37
+saeugling*	29	34
+saftsack*	63
+sage	29	30	37
+sagen	29	30
+sagst	29	30	37
+sagt	29	30	37
+sagte*	29	30	36
+sah*	18	20	36
+saison*	35
+saele	45	46
+salze	37
+salzt	37
+salzte*	36
+sammlung*	45	46
+samstag*	35
+samt	10	42
+saemtlich*	18	24
+sandte*	36
+sanft*	12	13
+sang*	36
+saenger*	48	52
+sank*	36
+sann*	36
+sarg*	54	56
+sarkas*	12	16	
+sass*	36
+sass*	36
+satan*	54	55
+satansbraten*	63
+sau	63
+sauber*	48	49	57	62
+saeuber*	48	49	57	62
+saufe	37
+saeufst	37
+saeuft	37
+sauge	37
+saeugling*	29	34
+saugst	37
+saugt	37
+saugte*	36
+schade	12	16	17
+schaedel*	57	58
+schaden*	12	16	
+schadest	12	16	
+schadet*	12	16	
+schaedig*	12	16	
+schaedel*	57	58
+schaedig*	12	16	
+schaem*	12	16
+schaetz*	12	13	18	23
+schaff*	12	13	18	20	45	47	
+schaffe	37
+schaffen*	12	13	18	20	45		36
+schaffst	37
+schafft	37
+schaffte*	36
+schalt*	36
+schalter*	45	46	47
+schaem	12	16
+scham*	12	16
+schande*	12	16	
+schatz	12	13	29	32
+schaetz*	12	13	18	23
+schau	25	26	37	48	51
+schauspiel*	48	51
+schauspieler	48	51
+schauspielerin	48	51
+scheck*	45	47	53
+scheibe*	48	52
+scheide	37
+scheidest	37
+scheidet	37
+scheine	37
+scheinst	37
+scheint	18	23	37
+scheintst	18	23	37
+scheiss*	12	16		63
+scheiss*	12	16		63
+scheiter*	12	16	17	45	
+scheitert*	12	16	17	45		36
+schelte	37
+schenkel*	57	58
+schere	37
+scherst	37
+schert	37
+scherz*	12	13
+scheu	12	16	
+scheue	12	16	
+scheuen	12	16	
+scheuer	12	16	
+scheues	12	16	
+scheusslich*	12	16
+scheusslich*	12	16
+scheust	12	16	
+scheut*	12	16	
+schi*	48	50
+schicksal*	12	16
+schiebe	37
+schiebst	37
+schiebt	37
+schied*	36
+schien*	18	23	36
+schiesse	37
+schiesse	37
+schiesst	37
+schiesst	37
+schifahren	48	50
+schikan*	12	16	
+schikanier*	12	16	54	55
+schilaufen	48	50
+schilddruese*	57	58
+schilddruese*	57	58
+schildere	29	30	37
+schildern	29	30
+schilderst	29	30	37
+schildert	29	30	37
+schilderte*	29	30	36
+schilt*	37
+schimpf*	12	16		37
+schinde	12	16		37
+schindest	12	16		37
+schindet	12	16		37
+schindete*	12	16		36
+schiss*	36	63
+schiss*	36	63
+schlaef*	37	57	61
+schlaefrig*	57	58	61
+schlaeg	12	16	
+schlaegst	12	16		37
+schlaegt	12	16		37
+schlaf*	57	61
+schlaf*	45	46	48	49
+schlaef*	37	57	61
+schlafe	37
+schlaefrig*	57	58	61
+schlafstoe*	57	58	61
+schlafstoe*	57	58	61
+schlag	12	16	
+schlaganf*	57	58
+schlagartig*	35
+schlage	12	16		37
+schlaege	12	16	
+schlaegst	12	16		37
+schlagt	12	16		37
+schlaegt	12	16		37
+schlagzeug*	48	52
+schlagzeuger*	48	52
+schlampe*	12	16		63
+schlang	36
+schlangst	36
+schlau*	12	13
+schlecht*	12	16
+schleiche	37
+schleichst	37
+schleicht	37
+schleife	37
+schleifst	37
+schleift	37
+schleisse	37
+schleisse	37
+schleisst	37
+schleisste*	36
+schleisste*	36
+schlich*	36
+schlief*	36
+schliesse	18	19	20	37
+schliesse	18	19	20	37
+schliessen	18	19	20
+schliessen	18	19	20
+schliesst	18	19	20	37
+schliesst	18	19	20	37
+schliff*	36
+schlimm*	12	16
+schling*	57	60
+schlinge	37
+schlingst	37
+schlingt	37
+schliss*	36
+schliss*	36
+schloss*	18	19	20	36
+schloss*	18	19	20	36
+schlott*	12	16		57	58
+schluck*	57	60
+schluesse	18	19	20
+schlug*	12	16		36
+schlummer*	57	61
+schluss*	18	20	35	45		54	55
+schluss*	18	20	35	45		54	55
+schluesse	18	19	20
+schlussfolger*	18	19	20
+schlussfolger*	18	19	20
+schmackhaft*	25	57	60
+schmeichele	12	13	29	30	37
+schmeicheln	12	13	29	30
+schmeichelst	12	13	29	30	37
+schmeichelt	12	13	29	30	37
+schmeichelte*	12	13	29	30	36
+schmeisse	37
+schmeisse	37
+schmeisst	37
+schmeisst	37
+schmelze	37
+schmerz	12	16
+schmerz*	12	16	57	58
+schmerz*	12	16	25	28	57	58
+schmerzen	12	16
+schmerzfrei*	12	13
+schmerzhaft*	12	16	57	58
+schmilz*	37
+schmink*	62
+schmiss*	36
+schmiss*	36
+schmolz*	36
+schneide	37
+schneidest	37
+schneidet	37
+schniedel*	57	58	59	63
+schnitt*	36
+schob*	36
+schock*	12	16	
+schoen*	12	13
+schoepf*	12	13	18	20	45	
+schoer*	45	46
+schon	35
+schoen*	12	13
+schoepf*	12	13	18	20	45	
+schor*	36
+schoss*	36
+schoss*	36
+schranke*	18	22
+schreck*	12	16	
+schreibe	29	30	37
+schreiben	29	30
+schreibst	29	30	37
+schreibt	29	30	37
+schreibtisch*	45	46	47
+schreie	37
+schrein*	54	56
+schreist	37
+schreit	37
+schreite	37
+schreitest	37
+schreitet	37
+schrie	36
+schrieb*	29	30	36
+schriest	36
+schritt*	36
+schuechtern*	12	16	
+schuechtern*	12	16	
+schuel*	45	46
+schueler*	45	46
+schuessel*	57	60
+schuf*	36
+schuft	63
+schufte*	45	47
+schuel*	45	46
+schulabgaenger*	45	46
+schulabgaenger*	45	46
+schulabschluss*	45	46
+schularbeit*	45	46	48	49
+schulaufgabe*	45	46	48	49
+schuld	12	16	37	53
+schuldig*	12	16
+schuldlos*	12	13
+schule	45	46
+schueler*	45	46
+schulfest*	45	46
+schulnote*	45	46
+schulteam*	45	46
+schulter	57	58
+schulter*	57	58
+schund*	36
+schuessel*	57	60
+schutz	12	13
+schutzbeduerftig*	12	16	
+schutzbeduerftig*	12	16	
+schutzlos*	12	16	
+schwach*	12	16	57	58
+schwaech*	12	16
+schwaechlich*	12	16	57	58
+schwaech*	12	16
+schwaechlich*	12	16	57	58
+schwaegerin*	29	33
+schwaenze	63
+schwaerm*	12	13	14
+schwaetz*	29	30
+schwager*	29	33
+schwaegerin*	29	33
+schwamm*	36	44
+schwand*	36
+schwang*	36
+schwanger*	57	58	59
+schwangerschaftsab*	57	58	59
+schwangerschaftsunterbrechung*	57	58	59
+schwanz*	57	58	59	63
+schwaenze	63	58	59	63
+schwarm	12	13	14
+schwaerm*	12	13	14
+schwatz*	29	30
+schwaetz*	29	30
+schweige	37
+schweigst	37
+schweigt	37
+schweinepriester*	63
+schweiss*	57	58
+schwelle	37
+schwer	12	16
+schwer*	45	47
+schwere	12	16
+schwerfaellig*	12	16
+schwerfaellig*	12	16
+schwermuetig*	12	16	17
+schwermut*	12	16	17
+schwermuetig*	12	16	17
+schwester*	29	33
+schwesternschaft	45	46
+schwieg	36
+schwiegen	36
+schwieger*	29	33
+schwiegst	36
+schwiegt	36
+schwierig*	12	16	18	45	
+schwill*	37
+schwimm*	44	48	50
+schwimme	37	44
+schwimmen	44
+schwimmst	37	44
+schwimmt	37	44
+schwinde	37
+schwindel*	12	16
+schwindelig*	57	58
+schwindest	37
+schwindet	37
+schwindl*	12	16
+schwinge	37
+schwingst	37
+schwingt	37
+schwippschwaegerin*	29	33
+schwippschwager*	29	33
+schwippschwaegerin*	29	33
+schwoll*	36
+schwor*	36
+schwoer*	45	46
+schwoere	37
+schwoerst	37
+schwoert	37
+schwuchtel*	57	59	63
+schwul*	57	59	63
+sechs*	11
+seele*	54	55
+seelen*	54	55
+seelenfrieden	12	13
+seelsorger*	54	55
+segen*	54	55
+segne*	12	13	54	55
+segnet*	12	13	54	55	36
+sehe	18	20	37
+sehen	18	20
+sehne	12	16	17
+sehne*	57	58
+sehnen	12	16	17
+sehnst	12	16	17
+sehnsucht*	12	16	17
+sehnsuechte*	12	16	17
+sehnsuechtig*	12	16	17
+sehnsuechte*	12	16	17
+sehnsuechtig*	12	16	17
+sehnt*	12	16	17
+sehr*	18	24
+seid	37
+seif*	62
+seifenoper*	48	51
+sein*	1	6	29	31
+seit	10	35
+seitdem	18	19	35
+seite	39
+seitens	10
+seither	18	19	35
+seitlich*	10	39
+sekretaer*	45	47
+sekretar*	45	47
+sekretaer*	45	47
+selbstgefaellig*	12	16
+selbstgefaellig*	12	16
+selbstmoerd*	54	56
+selbstmoerder	54	56
+selbstmord*	54	56
+selbstmoerd*	54	56
+selbstmoerder	54	56
+selbstoet*	54	56
+selbstsicher*	12	13	15
+selbstsuechtig*	12	16
+selbstsuechtig*	12	16
+selbsttoet*	54	56
+selbsttoet*	54	56
+seltsam*	12	16
+semester*	35	45	46
+sende	37
+sendest	37
+sendet	37
+sendete*	36
+sensibel*	12	16
+sentimental*	12	13	14
+september*	35
+servus	29	30
+setze	37
+setzt	37
+setzte*	36
+sex*	57	59
+sexprotz*	57	59
+shampoo*	62
+shop	37	53
+shop*	37	53
+show*	25	26	37	48	51
+sicher*	12	13	15	18	24
+sie	1	6	29	31
+sieben*	11
+siede	37
+siedest	37
+siedet	37
+siedete*	36
+sieg	12	13	15	45	
+sieg*	12	13	15	37	45	
+siege	12	13
+sieger	45	
+sieger*	12	13	15	45	
+siegessicher*	12	13	15
+sieglos*	12	16	17
+siegreich*	12	13
+siegst	12	13	15
+siegt*	12	13	15
+sieh*	18	20	37
+siesta*	57	61
+signal	29	30
+signalisiere	29	30	37
+signalisieren	29	30
+signalisierst	29	30	37
+signalisiert	29	30	37
+signalisierte*	29	30	36
+sind	37
+sing*	48	52
+singe	37
+singen	48	52
+singst	37
+singt	37
+sinke	37
+sinkst	37
+sinkt	37
+sinn*	18	20
+sinnes*	25	28	57	58
+sippe*	29	33
+sitt*	54	55
+sittlich*	54	55
+sitze	37
+sitzt	37
+sitzung*	29	30	45	47
+skep*	12	16	
+ski*	48	50
+skifahren	48	50
+skilaufen	48	50
+skript*	45	46
+smart*	12	13
+snack*	57	60
+snob*	12	16
+soap*	48	51
+sobald	35
+soehne*	29	33
+soff	36
+sofort*	35
+sog*	36
+sogleich	35
+sohn*	29	33
+soehne*	29	33
+soll	18	21	37
+sollst	18	21	37
+sollt	18	21	37
+sollte*	18	21	36
+sommer*	35
+sonder	10
+sonderbar*	12	16
+song*	48	52
+sonnig*	12	13	15
+sorge	12	16	
+sorgen	12	16	
+sorgenfrei	12	13	15
+sorgenvoll*	12	16	
+sorglos*	12	13	15
+sorgst	12	16	
+sorgt*	12	16	
+sowohl	42
+sozusagen	18	23	65
+spacko*	63
+spaesse*	12	13
+spaeter	35
+spann	36
+spannend*	12	13
+spannte*	36
+spannung*	12	16	
+spar*	53
+sparsam*	45	47	53
+spass*	12	13
+spass*	12	13
+spaesse*	12	13
+spaesse*	12	13
+spaeter	35
+spaziere	37	44
+spazieren	44
+spazierst	37	44
+spaziert	44
+spazierte*	36	44
+speckig*	57	58	60
+speichel*	57	58
+speie	37
+speist	37
+speit	37
+spend*	37	53
+sperr*	18	22
+spesen	53
+spezial*	12	13
+speziell*	12	13
+spie	36
+spieen	36
+spiegel*	18	20
+spiel*	12	13	29	37	48	50
+spielerisch*	12	13
+spielt*	12	13	36	48	50
+spiest	36
+spiet	36
+spinne	37
+spinner*	63
+spinnst	37
+spinnt	37
+sport*	48	50
+sportlichkeit*	48	50
+spott*	12	16	
+sprach	29	30	36
+sprach*	48	52
+sprache	29	30
+sprachen	29	30
+sprachst	29	30	36
+spracht	29	30	36
+sprang*	36
+spreche	29	30	37
+sprechen	29	30
+sprich*	29	30	37
+springe	37
+springst	37
+springt	37
+spross*	36
+spross*	36
+spuck*	57	58
+stach*	36
+stadtrat*	45
+staendig*	18	24	35
+staerk*	45	
+staerke*	12	13
+stahl	36
+stahlen	36
+stahlst	36
+stahlt	36
+stamm*	45	
+stand	36
+standen	36
+standest	36
+standet	36
+standhaft*	18	24
+staendig*	18	24	35
+standort	39
+standorte	39
+standst	36
+stank*	36
+star*	48	51
+starb*	36	54	56
+stark*	12	13
+staerk*	45	
+staerke*	12	13
+starr*	12	16
+start*	35
+statt	10	43
+steche	37
+stechen	57	58
+stecher*	63
+stehe	37
+stehle	37
+stehst	37
+steht	37
+steif*	57	58
+steig*	44	45	
+steige	37	44
+steigen	44
+steiger*	45	47
+steigerung*	45	47
+steigst	37	44
+steigt	37	44
+stelle	37
+stelle*	39	45	47
+stellst	37
+stellt	37
+stellte*	36
+stellunggenommen	29	30	36
+stellungnahm	29	30	36
+stellungnahme*	29	30
+stellungnahmst	29	30	36
+stellungnahmt	29	30	36
+stellungnehme	29	30	37
+stellungnehmen	29	30
+stellungnimm*	29	30	37
+sterb*	37	54	56
+sterbe	12	16	17	37
+sterbefall	56
+sterbegeld	56
+sterbehilf*	56
+sterben	56
+sterbend	56
+sterblich*	54	56
+stereo*	48	52
+stetig*	18	24
+stets	18	24	35
+steuer*	12	13	15	18	22	45	
+steuer*	45	47	53
+steuert	12	13	15	18	22	36	45	
+stichel*	29	30
+stichst	37
+sticht	37
+stiefbruder*	29	33
+stiefbrueder*	29	33
+stiefbrueder*	29	33
+stiefmuetter*	29	33
+stiefmutter*	29	33
+stiefmuetter*	29	33
+stiefschwester*	29	33
+stiefvaeter*	29	33
+stiefvater*	29	33
+stiefvaeter*	29	33
+stieg*	36	44
+stiehl*	37
+stiess*	36
+stiess*	36
+stimm*	48	52
+stinke	37
+stinkst	37
+stinkt	37
+stipendi*	45	46	53
+stirb*	12	16	17	37	54	56
+stirn*	57	58
+stocke*	12	16
+stockt*	12	16
+stoer*	12	16	
+stoesst	37
+stolz*	12	13	15
+stop*	18	22
+stoer*	12	16	
+stosse	37
+stosse	37
+stoesst	37
+strafe*	12	16	
+strafst	12	16	
+straft	12	16	
+strapaze*	12	16
+streich	12	16
+streiche	37
+streichel*	12	13
+streichst	37
+streicht	37
+streit	12	16	
+streite	29	30	37
+streiten	29	30
+streitest	29	30	37
+streitet	29	30	37
+streits	12	16	
+streng*	12	16
+stress*	12	16	
+strich	36
+strichen	36
+stricher*	63
+strichst	36
+stricht	36
+stritt	12	16		29	30	36
+stubenkamerad*	29	32
+student*	45	46
+studentenbude*	48	49
+studentenverbindung*	45	46
+studi*	37	45	46
+studien*	45	46
+studienanfaenger*	45	46
+studienanfaenger*	45	46
+studier*	45	46
+studierte*	36	45	46
+stuemperhaft*	12	16
+stuendlich*	35
+stuetze*	12	13
+stuetzte*	12	13
+stuemperhaft*	12	16
+stunde*	35	45	46
+stuendlich*	35
+stur	12	16	
+sture	12	16	
+sturem	12	16	
+sturen	12	16	
+sturer	12	16	
+stures	12	16	
+sturheit*	12	16	
+stuetze*	12	13
+stuetzt*	12	13
+sueden	39
+suedlich*	10	39
+sueden	39
+suedlich	10	39
+suend*	12	16	54	55
+suende	12	16	54	55
+suende*	12	16
+suenden	12	16	54	55
+suendig*	12	16
+suess	12	13
+suggerier*	29	30
+suggestion*	29	30
+suizid*	17	54	56
+suend*	12	16	54	55
+suende	12	16	54	55
+suende*	12	16
+suenden	12	16	54	55
+suendig*	12	16
+super	12	13
+suess	12	13
+suess	12	13
+sympathi*	12	13
+symptom*	57	58
+tadele	12	16		29	30	37
+tadeln	12	16		29	30
+tadelst	12	16		29	30	37
+tadelt	12	16		29	30	37
+tadelte*	12	16		29	30	36
+taenz*	44	45	46	48	52
+taenze	44
+taeter*	12	16	
+taetigkeit*	45	47
+taeusch*	12	16
+tag*	35
+taeg*	35
+talent*	12	13
+tantchen*	29	33
+tante*	29	33
+tanz	44
+tanz*	44	45	46	48	52
+taenz*	44	45	46	48	52
+tanze	37	44
+taenze	44
+tanzen	44
+tanzt	37	44
+tanzte*	36	44
+tape	48	52
+tapes	48	52
+tapfer*	12	13	15
+tat	36
+taeter*	12	16	
+taetigkeit	45	47
+tatkraeftig*	12	13	15
+tatkraeftig*	12	13	15
+tatsache*	18	24
+tatsaechlich	18	24
+tatsaechlich	18	24
+taub*	12	16	57	58
+taeusch*	12	16
+tausend*	11
+team*	29	45	46	48	50
+teilgenommen	29	30	36
+teilnahm	29	30	36
+teilnahme*	29	30
+teilnahmslos*	12	16	17
+teilnahmst	29	30	36
+teilnahmt	29	30	36
+teilnehme	29	30	37
+teilnehmen	29	30
+teilnimm*	29	30	37
+telefoniere	29	30	37
+telefonieren	29	30
+telefonierst	29	30	37
+telefoniert	29	30	37
+telefonierte*	29	30	36
+television*	48	49	51
+teller*	57	60
+tempel*	54	55
+temperament*	12	13
+temporaer*	35
+temporaer*	35
+tennis*	48	50
+territor*	39
+terror*	12	16		
+test*	45	46	47	53
+testament*	54	55
+teuer*	53
+teufel*	12	16	54	55
+teuflisch*	12	16	54	55
+theater*	48	51
+theolog*	54	55
+theoretisch*	45	46
+tilgung*	45	47	53
+tinnitus*	57	58
+tisch*	45	46	47
+titte*	57	58	59	63
+tja	65
+tochter*	29	33
+toechter*	29	33
+tod*	12	16	54	56
+todes*	56
+toedlich	12	16	54	56
+toedlich*	12	16	54	56
+toechter*	29	33
+toedlich*	12	16	54	56
+toelpel*	63
+toet*	56
+toete*	12	16		56
+tolerant*	12	13
+tollpatsch*	63
+toelpel*	63
+tonbaender	48	52
+tonband	48	52
+tonbaender	48	52
+tor*	18	45	
+tot*	12	16	17	54	56
+toet*	12	16		54	56
+total*	18	24
+tote*	56
+toete*	12	16		56
+totschiessen	56
+totschiessen	56
+totschlagen	56
+traege*	12	16
+traegheit*	12	16
+traegst	37	44
+traegt	37	44
+traeum*	57	61
+traf*	36
+trage	37	44
+traege*	12	16
+tragen	44
+traegheit*	12	16
+tragik*	12	16	17
+tragisch*	12	16	17
+tragoedie*	12	16	17
+traegst	37	44
+tragt	37	44
+traegt	37	44
+trainer*	45	46
+trainier*	45	46
+training*	48	50	57	60
+trampeltier*	63
+trank*	25	36	57	60
+transfer*	45	46	47
+transkript*	45	46
+transportiere	37	44
+transportieren	44
+transportierst	37	44
+transportiert	44
+transportierte*	36	44
+trantuete*	63
+trantuete*	63
+trat	36
+traten	36
+tratet	36
+tratsch*	29	30
+tratst	36
+traue	12	13	15
+trauen	12	13	15
+trauer*	12	16	17	56
+traum*	57	61
+traeum*	57	61
+traurig	12	16	17	54	56
+traurig*	12	16	17
+traust	12	13	15
+traut*	12	13	15
+treff*	45	46
+treffe	37
+treffen*	29	30	45	47
+treibe	37	44
+treiben	44
+treibst	37	44
+treibt	37	44
+trenne	12	16	17
+trennen	12	16	17
+trennst	12	16	17
+trennt*	12	16	17
+trennung*	12	16	17
+trete	37
+treu*	12	13	15	24	54	55
+treulos*	12	16	54
+trieb*	36	44
+triffst	37
+trifft	37
+trink*	25	37	57	60
+trinke	37
+trinkst	37
+trinkt	37
+tritt	37
+trittst	37
+triumpf*	12	13	15
+triumph*	12	13	15
+troest*	12	13
+trog*	36
+trommel*	48	52
+trommler*	48	52
+trost*	12	13
+troest*	12	13
+trottel*	63
+trotz	10	12	16	19
+trueb*	12	16	17
+trueb*	12	16	17
+truege	37
+truegst	37
+truegt	37
+trug*	36	44
+truege	37
+truegst	37
+truegt	37
+tss*	64
+tu*	45	
+tuechtig*	12	13
+tue	37
+tuechtig*	12	13
+tugend*	12	13
+tumor*	57	58
+tun	37
+tunte*	63
+turn*	48	50
+turnhalle	48	50
+tust	37
+tut	37
+tutor*	45	46
+tv	48	49	51
+uebe	48	50	52
+uebel*	12	16		57	58
+uebelkeit*	57	58
+ueben	48	50	52
+ueber	10	39	40
+ueberall	39
+ueberanstreng*	12	16
+ueberbracht*	36	44
+ueberbringe	37	44
+ueberbringen	44
+ueberbringst	37	44
+ueberbringt	37	44
+uebereinander	39	40
+uebereinkomn*	12	13
+ueberfuehre	37	44
+ueberfuehren	44
+ueberfuehrst	37	44
+ueberfuehrt	44
+ueberfuehrte*	36	44
+uebergabe*	45	46	47
+uebergewicht*	57	58	60
+ueberheblich*	12	16
+ueberleb*	37	48	49
+ueberleg*	12	13	18	20
+uebermorgen	35	38
+uebermuetig*	12	13
+uebernahm*	36	44
+uebernehme	37	44
+uebernehmen	44
+uebernehmt	37	44
+uebernimm*	37	44
+uebernommen	36	44
+ueberpruef*	45	46	47	53
+ueberquere	37	44
+ueberqueren	44
+ueberquerst	37	44
+ueberquert	44
+ueberquerte*	36	44
+ueberrasch*	12	13
+ueberrede	29	30	37
+ueberreden	29	30
+ueberredest	29	30	37
+ueberredet	29	30	37
+ueberredete*	29	30	36
+uebertreff*	12	13	15	45	
+uebertroff*	12	13	15	45		36
+ueberwach*	45	47
+ueberwaeltigt*	12	16
+ueberwand*	36
+ueberweisung*	45	46	47	53
+ueberwinde	37
+ueberwindest	37
+ueberwindet	37
+ueberwunden	36
+ueberzeuge	29	30	37
+ueberzeugen	29	30
+ueberzeugst	29	30	37
+ueberzeugt	29	30	37
+ueberzeugte*	29	30	36
+ueberziehe	37
+ueberziehst	37
+ueberzieht	37
+ueberzog*	36
+ueble*	12	16
+uebst	48	50	52
+uebt	48	50	52
+uebung*	48	50
+uebe*	48	50
+uebel*	12	16
+uebel*	12	16		57	58
+uebelkeit*	57	58
+ueber	10	39
+ueberall	39
+ueberanstreng*	12	16
+ueberbracht*	36	44
+ueberbringe	37	44
+ueberbringen	44
+ueberbringst	37	44
+ueberbringt	37	44
+uebereinander	39	40
+uebereinkomm*	12	13
+ueberfuehre	37	44
+ueberfuehren	44
+ueberfuehrst	37	44
+ueberfuehrt	44
+ueberfuehrte*	36	44
+uebergabe*	45	46	47
+uebergewicht*	57	58	60
+ueberheblich*	12	16
+ueberleb*	37	48	49
+ueberleg*	12	13	18	20
+uebermorgen	35	38
+uebermuetig*	12	13
+uebernahm*	36	44
+uebernehme	37
+uebernehme	37	44
+uebernehmen	44
+uebernehmt	37	44
+uebernimm*	37	44
+uebernommen	36	44
+ueberpruef*	45	46	47	53
+ueberquere	37	44
+ueberqueren	44
+ueberquerst	37	44
+ueberquert	44
+ueberquerte*	36	44
+ueberrasch*	12	16
+ueberrede	29	30	37
+ueberreden	29	30
+ueberredest	29	30	37
+ueberredet	29	30	37
+ueberredete*	29	30	36
+uebertreff*	12	13	15	45	
+uebertroff*	12	13	15	45		36
+ueberwach*	45	47
+ueberwaeltigt*	12	16
+ueberwand*	36
+ueberweisung*	45	46	47	53
+ueberwinde	37
+ueberwindest	37
+ueberwindet	37
+ueberwunden	36
+ueberzeuge	29	30	37
+ueberzeugen	29	30
+ueberzeugst	29	30	37
+ueberzeugt	29	30	37
+ueberzeugte*	29	30	36
+ueberziehe	37
+ueberziehst	37
+ueberzieht	37
+ueberzog*	36
+ueble*	12	16
+uebung*	48	50
+uhr*	35
+ulcus*	57	58
+um	10	35
+umarm*	25	28	57	59
+umbring*	12	16	
+umbringe*	56
+umgeben	39
+umgebracht	56
+umgebracht*	12	16	
+umgebung*	39
+umgehend*	35
+umgehoert*	29	30	36
+umgehoert*	29	30	36
+umgekommen*	12	16
+umgezogen	36	44
+umhoer*	29	30
+umhoer*	29	30
+umkam*	12	16
+umkomm*	12	16
+umwerfend*	12	13
+umziehe	37	44
+umziehen	44
+umziehst	37	44
+umzieht	37	44
+umzog*	36	44
+unabwendbar*	18	24
+unangemessen*	12	16
+unangenehm	12	16
+unanstaendig*	12	16
+unanstaendig*	12	16
+unattraktiv*	12	16
+unaufhoerlich*	35
+unaufhoerlich*	35
+unausgeglichen*	12	16
+unausweichlich*	18	24
+unbarmherzig*	12	16
+unbedingt*	18	24
+unbehag*	12	16	
+unbequem*	12	16
+unberechenbar*	12	16	
+unbeschadet	10
+unbestimmt*	12	16		18	23
+unbestritten*	18	24
+und	42
+undank*	12	13
+undeutlich*	18	23
+uneingeschraenkt*	18	24
+uneingeschraenkt*	18	24
+uneins	18	23
+unendlich*	11	35
+unerfreulich*	12	16
+unerhoert*	12	16	
+unerhoert*	12	16	
+unermuedlich*	12	13	15
+unermuedlich*	12	13	15
+unerschrocken*	12	13	15
+unerschuetter*	12	13	15
+unerschuetter*	12	13	15
+unfaehig*	12	16
+unfaehig*	12	16
+unfalltod*	56
+unfern	10	39
+unfreundlich*	12	16	
+ungeachtet	10
+ungeduld*	12	16
+ungefaehr*	18	23
+ungefaehr*	18	23
+ungehalten*	12	16	
+ungeliebt*	12	16	17
+ungenuegend*	12	16
+ungenuegend*	12	16
+ungerecht*	12	16	
+ungern*	12	16
+ungeschehen*	18	21
+ungeschuetzt*	12	16
+ungeschuetzt*	12	16
+ungewiss*	12	16		18	23
+ungewiss*	12	16		18	23
+ungezwungen*	12	13	15
+unglaeub*	54	55
+unglaeub*	54	55
+unglueck*	12	16	17
+unglueck*	12	16	17
+unguenstig*	12	16
+unguenstig*	12	16
+unheil*	12	16	54	56
+unheimlich*	12	16
+unhoeflich*	12	16	
+unhoeflich*	12	16	
+uni	45	46
+universit*	45	46
+universitaet*	45	46
+universitaet*	45	46
+universum	39
+unklar*	18	23
+unkoste*	53
+unlust	12	16
+unmittelbar*	35
+unpersoenlich*	12	16
+unpersoenlich*	12	16
+unrecht*	12	16	
+unruhe*	12	16	
+unruhig*	12	16	
+uns	1	3	4	29	31
+unschluessig*	12	16
+unschluessig*	12	16
+unser	1	3	4	29	31
+unsere	1	3	4	29	31
+unserem	1	3	4	29	31
+unseren	1	3	4	29	31
+unsicher*	12	16		18	23
+unsterblich*	35	54	55	56
+unstet*	12	16	
+untauglich*	12	16
+unten	39	41
+unter	10	39	41
+unterbrach*	12	16		29	30	36
+unterbreche	12	16		29	30	37
+unterbrechen	12	16		29	30
+unterbrechung*	12	16		29	30
+unterbrich*	12	16		29	30	37
+unterbrochen	12	16		29	30	36
+unterdessen	35
+unterdrueck*	12	16			18	22
+unterdrueck*	12	16			18	22
+untere*	41
+untereinander	39
+unterhaelt*	29	30	37
+unterhalb	10	39	41
+unterhalt*	48	49
+unterhaelt*	29	30	37
+unterhalte	29	30	37
+unterhalten	29	30
+unterhaltung*	29	30
+unterhielt*	29	30	36
+unterjaehrig*	35
+unterjaehrig*	35
+unterlass*	12	16
+unterlasse*	12	16
+unterlegen*	12	16
+unterliess*	12	16
+unterliess*	12	16
+unternehmen*	45	47
+unterred*	29	30
+unterricht*	45	46
+unterrichte	29	30	37
+unterrichten	29	30
+unterrichtest	29	30	37
+unterrichtet	29	30
+unterrichtet*	36	45	46
+unterrichtsraum	45	46
+unterrichtung*	29	30
+untersag*	18	22
+unterscheid*	18	20
+unterschied*	18	20
+unterschreibe	37
+unterschreibst	37
+unterschreibt	37
+unterschrieb*	36
+unterstreiche	37
+unterstreichst	37
+unterstreicht	37
+unterstrich*	36
+unterstuetz*	12	13
+unterstuetz*	12	13
+untersuche	18	20	37	44	45	46
+untersuchen	18	20	37	44	45	46
+untersuchst	18	20	37	44	45	46
+untersucht	18	20	37	44	45	46
+untersuchte*	18	20	36	44	45
+untersuchung	45	46
+unumgaenglich*	18	24
+unumgaenglich*	18	24
+unvergaenglich*	35	54	55
+unvergaenglich*	35	54	55
+unvermeidbar*	18	24
+unvermeidlich*	18	24
+unvernuenft*	12	16
+unvernunft*	12	16
+unvernuenft*	12	16
+unverschaemt*	12	16	
+unverschaemt*	12	16	
+unversehens	35
+unverzoegert*	35
+unverzoegert*	35
+unverzueglich*	35
+unverzueglich*	35
+unweit	10	39
+unwichtig*	12	16
+unwirksam*	12	16
+unwissen*	12	16
+unzulaenglich*	12	16
+unzulaenglich*	12	16
+unzuverlaessig*	12	16	54
+unzuverlaessig*	12	16	54
+unzweifelhaft*	18	24
+urenkel*	29	33
+urheb*	45	
+urin*	57	58
+urkunde*	45	46
+ursprueng*	12	13	15	45	
+urspruenge	18	19
+ursprung	18	19
+ursprung*	12	13	15	45	
+ursprueng*	12	13	15	45	
+urspruenge	18	19
+usache*	18	19	20
+vaeter*	29	33
+vage	18	23
+vagina*	57	58	59
+vater*	29	33
+vaeter*	29	33
+vati*	29	33
+verabred*	45	46
+veracht*	12	16	
+veraerger*	12	16	
+veraeusser*	37	53
+veranlass*	18	45	
+verantwort*	18	22	45	47
+veraerger*	12	16	
+verarsche	12	16		37	63
+verarschst	12	16		37	63
+verarscht	12	16		63
+verarschung	12	16		63
+veraeusser*	37	53
+verband*	29	36	45	47
+verbesser*	12	13	15	44	45	
+verbiete*	18	22
+verbinde	37
+verbindest	37
+verbindet	37
+verbitter*	12	16		17
+verblueff*	12	13
+verblueff*	12	13
+verbot*	18	22
+verbrach	12	16	
+verbracht*	36
+verbraucht*	36	53
+verbrech*	12	16	
+verbrenn*	54	56
+verbrich*	12	16	
+verbring*	37	53
+verbringe	37
+verbringst	37
+verbringt	37
+verbrochen	12	16	
+verbrueder*	45	46
+verbueder*	45	46
+verbunden	36
+verdaechtig*	12	16	
+verdaechtig*	12	16	
+verdammt*	63
+verdank*	12	13	14	37
+verdauungsst*	57	58
+verderben*	12	16	54	56
+verdraeng*	12	16	18	22
+verdraeng*	12	16	18	22
+verdurst*	56
+verehr*	12	13	14	54	55
+verein*	45	47
+vereinbar*	29	30
+vereinbart*	48	52
+vererb*	53
+verewig*	35	54	55
+verewigt	35	54	55	36
+verewigt*	35
+verfall*	12	16	54	56
+verfehl*	12	16	17	45	
+verfolge	37	44
+verfolgen	44
+verfolgst	37	44
+verfolgt	44
+verfolgte*	36	44
+vergab*	12	13
+vergangen*	35
+vergebe	12	13	18	20
+vergeben	12	13	18	20
+vergebens	12	16
+vergeblich*	12	16	17
+vergebt	12	13	18	20
+vergebung*	12	13	18	20
+vergeh*	12	16	37	54	56
+vergew*	12	16		57	59
+vergewaltig*	12	16	
+vergib*	12	13	18	20
+vergift*	12	16	
+vergleich*	45	47	53
+vergnueg*	12	13
+vergnueg*	12	13
+vergoetter*	12	13	14
+vergoetter*	12	13	14
+verguetung*	45	47	53
+verguetung*	45	47	53
+verhaelst	37
+verhaelt	37
+verhaengnis*	12	16	17
+verhaert*	57	58
+verhaelst	37
+verhaelt	37
+verhalte	37
+verhandel*	29	30	45	47
+verhandele	29	30	37
+verhandeln	29	30
+verhandelst	29	30	37
+verhandelt	29	30
+verhandelte*	29	30	36
+verhandlung*	29	30
+verhaengnis*	12	16	17
+verhaert*	57	58
+verhielt	36
+verhinder*	12	16	18	22
+verhunger*	56
+verirr*	12	16	17
+verjag*	12	16	
+verkaeuf*	37	53
+verkauf*	37	53
+verkaeuf*	37	53
+verkauft*	36	53
+verkuende*	54	55
+verkuende*	54	55
+verlaesst	12	16	17	37	44
+verlaeufst	37	44
+verlaeuft	37	44
+verlange	29	30	37
+verlangen	29	30
+verlangst*	29	30	37
+verlangt	29	30	37
+verlangte*	29	30	36
+verlasse	12	16	17	37	44
+verlassen	12	16	17	44
+verlasst	12	16	17	37	44
+verlasst	12	16	17	37	44
+verlaesst	12	16	17	37	44
+verlaufe	37	44
+verlaufen	44
+verlaeufst	37	44
+verlauft	37	44
+verlaeuft	37	44
+verlegen*	12	16	
+verleihe	37
+verleihst	37
+verleiht	37
+verletz*	12	16
+verleugne	18	22	29	30	37
+verleugnen	18	22	29	30
+verleugnest	18	22	29	30	37
+verleugnet	18	22	29	30	37
+verleugnete*	18	22	29	30	36
+verlieb*	12	13	14
+verliebt*	12	13	14	37	57	59
+verlief*	36	44
+verlieh*	36
+verlier*	12	16	17	37	45	
+verliere	12	16	17	37
+verlieren	12	16	17
+verlierer*	12	16	17	45	
+verlierst	12	16	17	37
+verliert	12	16	17	37
+verliess*	12	16	17	36	44
+verliess*	12	16	17	36	44
+verlor*	12	16	17	36	45	
+verlust*	12	16	17	45	
+vermarktung*	45	46	47
+vermeide*	12	16	18	22
+vermeidung*	12	16	18	22
+vermein*	18	23
+vermied*	12	16	18	22
+vermieter*	45	47
+vermiss*	12	16	17
+vermittel*	29	30	45	47
+vermittele	29	30	37
+vermitteln	29	30
+vermittels	10
+vermittelst	10	29	30	37
+vermittelt	29	30	37
+vermittelte*	29	30	36
+vermoder*	56
+vermoeg*	12	13	53
+vermoege	10
+vermoegen*	53
+vermoeg*	12	13	53
+vermoege	10
+vermoegen*	53
+vermut*	18	20	23
+vernachlaessig*	12	16
+vernachlaessig*	12	16
+vernahm*	29	30	36
+vernehme	29	30	37
+vernehmen	29	30
+vernicht*	12	16		54	56
+vernimm*	29	30	37
+vernommen	29	30	36
+vernuenft*	12	13	18	19	20
+vernunft*	12	13	18	19	20
+vernuenft*	12	13	18	19	20
+verpack*	37	44	45	46
+verpacke	37	44
+verpacken	44
+verpackst	37	44
+verpackt	36	44	45	46
+verpackte*	36	44
+verpackung*	44	45	46
+verpass*	12	16	17	37	45	
+verpasst*	12	16	17	37	45		36
+verpfaend*	45	46
+verpfaend*	45	46
+verpflicht*	18	22	45	46
+verpfusch*	12	16
+verpisse	12	16		37	63
+verpissen	12	16	
+verpisst	12	16		63
+verpisste*	12	16		36	63
+verrot*	56
+verrueckt*	12	16
+verrueckt*	12	16
+versaeum*	12	16	18	22
+versag*	12	16	17	45	
+versager*	12	16	17	45	
+versaeum*	12	16	17	18	22	37	45	
+versaeumt*	12	16	17	37	45		36
+verscheid*	56
+verscheide*	54	56
+verscheuch*	12	16	
+verschieden	54	56	36
+verschlechter*	12	16	54	56
+verschleppe	37	44
+verschleppen	44
+verschleppst	37	44
+verschleppt	44
+verschleppte*	36	44
+verschleppung*	44
+verschliesse	37
+verschliesse	37
+verschliesst	37
+verschliesst	37
+verschlimmer*	12	16
+verschloss*	36
+verschloss*	36
+verschreck*	12	16	
+verschuld*	53
+verschwand*	36	44
+verschwinde	37	44
+verschwinden	44
+verschwindest	37
+verschwindet	37
+verschwunden	36
+versessen*	12	16
+versicher*	18	24
+versnobt*	12	16
+versoehn*	12	13
+versoehn*	12	13
+versorg*	45	
+verspaetet*	35
+verspaetet*	35
+versperr*	18	22
+verspielt*	12	13
+versprach*	12	13	15
+versprech*	12	13	15	45	46
+versprechen*	45	46
+versprich*	12	13	15
+versprochen*	12	13	15
+verstaendig*	18	20
+verstaendnis*	18	20
+verstand*	12	13	18	20	36
+verstanden	18	20	36
+verstaendig*	18	20
+verstaendnis*	18	20
+verstehe	18	20	37
+verstehst	18	20	37
+versteht	18	20	37
+versteiger*	37	53
+verstiess*	12	16	
+verstiess*	12	16	
+verstimmt*	12	16
+verstimmung*	12	16
+verstoert*	12	16	
+verstoess*	12	16
+verstopf*	57	58
+verstorb*	56
+verstorben	54	56	36
+verstoert*	12	16	
+verstoss*	12	16
+verstoss*	12	16
+verstoess*	12	16
+versuch*	18	37	45	46	
+versuch*	44	48	50
+verteidig*	18	22	29	30
+vertraege*	29	30
+vertraegst	12	13
+vertraegt	12	13
+vertrag	29	30
+vertrage*	12	13
+vertraege*	29	30
+vertraegst	12	13
+vertragt	12	13
+vertraegt	12	13
+vertrau*	12	13	14	15	18	24	54	55
+vertreib*	37	53
+vertrieb	37	53
+vertrieb*	45	46	47
+vertrug*	12	13
+verursach*	45	
+verurteil*	12	16
+verwalt*	45	46	47
+verwandschaft*	29	33
+verweiger*	18	22
+verweil*	37	53
+verwend*	45	46	47
+verwes*	56
+verwesung*	12	16	54	56
+verwirklich*	18	20
+verwirr*	12	16		18	23
+verworren*	12	16		18	23
+verwundbar*	12	13
+verwundere	12	13	18	20
+verwunderlich*	12	16
+verwundern	12	13	18	20
+verwunderst	12	13	18	20
+verwundert	12	13	18	20
+verwunderte*	12	13	18	20
+verzeihe	12	13	18	20	29	30	37
+verzeihen	12	13	18	20	29	30
+verzeihst	12	13	18	20	29	30	37
+verzeiht	12	13	18	20	29	30	37
+verzicht*	12	16	17	18	22
+verzieh*	12	13	18	20	29	30	36
+verzoeger*	18	22
+verzoeger*	18	22
+verzueck*	12	13	14
+verzueck*	12	13	14
+verzweifel*	12	16		17
+verzweifl*	12	16		17
+vetter*	29	33
+video*	48	51
+videorekorder	48	51
+vielleicht	18	23
+vier	11
+viertel*	11
+vierteljaehrig*	35
+vierteljaehrig*	35
+viertelstuendig*	35
+viertelstuendl*	35
+viertelstunde	35
+viertelstuendig*	35
+viertelstuendl*	35
+vieru*	11
+vierzehntaegig*	35
+vierzehntaegig*	35
+viva	48	51	52
+voegele	12	16		37
+voegeln	12	16	
+voegelst	12	16		37
+voegelt	12	16		37
+voegelte*	12	16		36
+voelker*	29	34
+voellig*	18	24
+voegele	12	16		37
+voegeln	12	16	
+voegelst	12	16		37
+voegelt	12	16		37
+voegelte*	12	16		37
+volk	29	34
+voelker	29	34
+volks	29	34
+volkswirtschaft*	45	46	47	53
+voll	10
+volleyb*	48	50
+vollidiot*	63
+voellig*	18	24
+vollkommen	18	24	42
+vollkommen*	12	13	45	
+vollstaendig*	12	13	18	24	45	
+vollstaendig*	12	13	18	24	45	
+volltrottel*	63
+von	10	39
+vonseiten	10	39
+vor	10	35	39	40	45	
+vorahnung*	18	23
+voran	10	35	39	40	45	
+vorangegangen	36	44
+vorangehe	37	44
+vorangehen	44
+vorangehst	37	44
+vorangeht	37	44
+voranging*	36	44
+voraus	10	39	40	45	
+vorausgesetzt*	18	19
+voraussetz*	18	19
+voraussichtlich*	18	23
+vorbehaltlich	10
+voreingenommen*	12	16
+vorfuehr*	12	13	37	48	50	52
+vorgegangen	36	44
+vorgehe	37	44
+vorgehen	44
+vorgehst	37	44
+vorgeht	37	44
+vorgekommen	36
+vorgelesen	36
+vorgerueckt	36	44
+vorgerueckt	36	44
+vorgeschlagen	29	30	36
+vorgesetze*	45	47
+vorgestellt	29	30	36
+vorgestern	35	36
+vorgestossen	36	44
+vorgestossen	36	44
+vorgetragen	29	30	36	44
+vorgeworfen	29	30	36
+vorging*	36	44
+vorher	35
+vorkam*	36
+vorkomm*	37
+vorlaeufig*	35
+vorlas*	36
+vorlaeufig*	35
+vorlese	37
+vorlesung*	45	46
+vorliebe*	12	13
+vorliest	37
+vormaersche*	44
+vormarsch*	44	45	
+vormaersche*	44
+vormittag*	35
+vorn	10	39	40	45	
+vorne	10	39	40	45	
+vorruecke	37	44
+vorruecken	44
+vorrueckst	37	44
+vorrueckt	37	44
+vorrueckte*	36	44
+vorruecke	37	44
+vorruecken	44
+vorrueckst	37	44
+vorrueckt	37	44
+vorrueckte*	36	44
+vorsaison*	35
+vorschlaege*	29	30
+vorschlaegst	29	30	37
+vorschlaegt	29	30	37
+vorschlag	29	30
+vorschlage	29	30	37
+vorschlaege	29	30
+vorschlagen	29	30
+vorschlaegst	29	30	37
+vorschlagt	29	30	37
+vorschlaegt	29	30	37
+vorschlug*	29	30	36
+vorschrift*	54	55
+vorsicht	18	22
+vorsichtig*	18	22	23
+vorsing*	48	52
+vorsitz*	45	46	47
+vorsitzende*	45	46
+vorstand*	45	47
+vorstell*	29	30
+vorstoesse*	44
+vorstoss*	44
+vorstoss*	44
+vorstoesse*	44
+vorteil	12	13	15
+vortraege	45	46
+vortraege*	29	30	44
+vortraegst	29	30	37	44
+vortraegt	29	30	37	44
+vortrag	29	30	44
+vortrag*	45	46
+vortrage	29	30	37	44
+vortraege	45	46
+vortraege*	29	30	44
+vortragen	29	30	44
+vortraegst	29	30	37	44
+vortraegt	29	30	37	44
+vortrug*	29	30	36	44
+vorueber*	35
+vorueber*	35
+vorurteil	12	16
+vorwaerts	40
+vorwarf*	29	30	36
+vorwaerts	40
+vorwerfe	29	30	37
+vorwerfen	29	30
+vorwirf*	29	30	37
+vorwuerfe*	29	30
+vorwurf*	29	30
+vorwuerfe*	29	30
+vorzeitig*	35
+wachse	37
+waechst	37
+wade*	57	58
+waechst	37
+waehrend	10	35
+waerm*	12	13
+waescht	37
+wahre	12	13
+wahrem	12	13
+wahren	12	13
+waehrend	10	35
+wahrer	12	13
+wahres	12	13
+wahrgenommen	18	20	36
+wahrlich*	18	24
+wahrnahm*	18	20	36
+wahrnehme	18	20	37
+wahrnimm*	18	20	37
+wahrscheinlich*	18	23
+wandere	37	44
+wandern	44
+wanderst	37	44
+wandert	37	44
+wanderte*	36	44
+wandte*	36
+wange*	57	58
+wann	35
+wanst	57	58
+war	36
+warb	36
+ware*	18	19	45	47	
+waren	36
+warf*	36
+warm*	12	13
+waerm*	12	13
+warst	36
+wart	36
+warte*	18	22
+warum	18	19
+wasch*	57	62
+wasche	37
+waschlo*	62
+waeschst	37
+waescht	37
+wasweissich	65
+wasweissich	65
+webe	37
+webst	37
+webt	37
+webte*	36
+weder	7	43
+weg	39	43
+wegbrachte*	36	44
+wegbringe	37	44
+wegbringen	44
+wegbringst	37	44
+wegbringt	37	44
+wegen	10
+wegfaehrst	37	44
+wegfaehrt	37	44
+wegfahre	37	44
+wegfahren	44
+wegfaehrst	37	44
+wegfahrt	37	44
+wegfaehrt	37	44
+wegfuhr*	36	44
+weggebracht	36	44
+weggefaehrte*	29	32
+weggefaehrtin*	29	32
+weggefahren	36	44
+weggefaehrte*	29	32
+weggefaehrtin*	29	32
+weggelassen	36
+weggelaufen	36	44
+weggenommen	36	44
+weggepackt	36	44
+weggeschafft	36	44
+weggezogen	36	44
+weglaesst	37
+weglaeufst	37	44
+weglaeuft	37	44
+weglasse	37
+weglaesst	37
+weglaesst	37
+weglaufe	37	44
+weglaufen	44
+weglaeufst	37	44
+weglauft	37	44
+weglaeuft	37	44
+weglief*	36	44
+wegliess*	36
+wegliess*	36
+wegnahm*	36	44
+wegnehme	37	44
+wegnehmen	44
+wegnimmst	37	44
+wegnimmt	37	44
+wegpacke	37	44
+wegpacken	44
+wegpackst	37	44
+wegpackt	37	44
+wegpackte*	36	44
+wegschaffe	37	44
+wegschaffen	44
+wegschaffst	37	44
+wegschafft	37	44
+wegschaffte*	36	44
+wegziehe	37	44
+wegziehen	44
+wegziehst	37	44
+wegzieht	37	44
+wegzog*	36	44
+weh	12	16
+weh*	57	58
+wehmuetig*	12	16	17
+wehmuetig*	12	16	17
+wehtun*	12	16	57	58
+weibsstueck*	63
+weibsstueck*	63
+weich*	12	13	57	58
+weiche	37
+weichst	37
+weicht	37
+weiger*	18	22
+weil	18	19
+weine	12	16	17
+weinen	12	16	17
+weinerlich*	12	16	17
+weinst	12	16	17
+weint*	12	16	17
+weise	12	13	37
+weiser	12	13
+weisheit	12	13
+weiss	18	20	37
+weiss	18	20	37
+weissnich*	65
+weissnich*	65
+weisst	18	20	37
+weisst	18	20	37
+weisstdu	65
+weisstdu	65
+weist	37
+weit	39
+weiter	39
+weiterentwickel*	44
+weiterentwicklung*	44
+weitergabe*	45	46	47
+weitergegangen	36	44
+weitergehe	37	44
+weitergehen	44
+weitergehst	37	44
+weitergeht	37	44
+weitergekommen	36	44
+weiterging*	36	44
+weiterkam*	36	44
+weiterkomme	37	44
+weiterkommen	44
+weiterkommst	37	44
+weiterkommt	37	44
+weltall	39
+weltanschauung*	45	46	54
+weltkarte	39
+wende	37
+wendest	37
+wendet	37
+wendete*	36
+wenn	18	21
+werbe	37
+werbung*	45	47	48	51
+werde	38
+werden	38
+werdet	38
+werfe	37
+werk*	37	45	47	
+werkstatt*	48	49
+wert*	53
+wertlos*	12	16	17	53
+wertlos*	53
+wertvoll*	12	13
+weshalb	18	19
+westen	39
+westlich*	10	39
+wett*	23	37	53
+wettbewerb*	45	
+wette	18	23	37
+wetteifer*	45	
+wetten	18	23
+wettere	12	16	
+wettern	12	16	
+wetterst	12	16	
+wettert	12	16	
+wettest	18	23	37
+wettet	18	23	37
+wettete*	18	23	36
+wettgelaufen	36	44
+wettgeschwommen	36	44
+wettlaeufst	37	44
+wettlaeuft	37	44
+wettlaufe	37	44
+wettlaufen	44
+wettlaeufst	37	44
+wettlauft	37	44
+wettlaeuft	37	44
+wettlief*	36	44
+wettschwamm*	36	44
+wettschwimme	37	44
+wettschwimmen	44
+wettschwimmst	37	44
+wettschwimmt	37	44
+WG*	29	32	45	46	48	49
+wich*	36
+wichtig*	12	13
+wichtigtuer*	63
+wider	10
+widere	12	16	
+widergab*	36
+widerlich*	12	16	
+widersprach*	12	16	29	30	36
+widerspreche	12	16	29	30	37
+widersprechen	12	16	29	30
+widersprich*	12	16	29	30	37
+widersprochen	12	16	29	30	36
+widerspruch*	12	16	29	30
+widersprueche*	12	16	29	30
+widersprueche*	12	16	29	30
+widerst	12	16	
+widerstreb*	18	22
+widert	12	16	
+widerte*	12	16	
+widerwaertig*	12	16	
+widerwaertig*	12	16	
+widerwill*	12	16		18	22
+widrig*	12	16
+wie	18	19
+wieauchimmer	65
+wieder	35
+wiedererkannt*	18	20
+wiedererkenn*	18	20
+wiedergebe	37
+wiedergegeben	36
+wiedergib*	37
+wiederhol*	35
+wiederkehrend*	35
+wiege	37
+wiegst	37
+wiegt	37
+wies*	36
+will	18	21	37
+willensstark	12	13	15
+willkommen*	12	13
+willst	18	21	37
+winde	37
+winter*	35
+winzig*	39
+wir	1	3	4	29	31
+wirbelsaeule*	57	58
+wirbelsaeule*	57	58
+wirbst	37
+wirbt	37
+wird	38
+wirfst	37
+wirft	37
+wirk*	37	45	47	
+wirke	18	19	20	37
+wirken	18	19	20
+wirklich*	18	24
+wirkst	18	19	20	37
+wirkt	18	19	20	37
+wirkung*	18	19	20
+wirkunglos*	12	16
+wirst	38
+wirtschaft*	45	46	47	53
+wissen	18	20
+wissenschaft*	45	46	53
+wisst	18	20	37
+wisst	18	20	37
+wo	39
+wob*	36
+woche*	35
+woechentlich*	35
+woechentlich*	35
+wog*	36
+wohin	39
+wohingegen	43
+wohlstand*	12	13	53
+wohltat*	12	13
+wohlwollen*	12	13	14
+wohn*	37	48	49
+wohnort*	48	49
+wohnsitz*	48	49
+wohnung*	48	49
+woimmer	39
+wolle	18	21	37
+wollen	18	21
+wollt	18	21	37
+wollte*	18	21	36
+wollust*	57	59
+wonne*	12	13
+wonnig*	12	13
+worden	36
+workout	48	50	57	60
+workout*	48	50	57	60
+wuchs*	36
+wuensch*	18	21
+wuerde	18	21
+wuerde*	12	13	45	
+wuerden	18	21
+wuerdest	18	21
+wuerdet	18	21
+wuerdevoll*	12	13
+wuerg*	57	58
+wund*	57	58
+wunde*	57	58
+wunderbar*	12	13
+wundere	18	20
+wundern	18	20
+wunderst	18	20
+wundert	18	20
+wunsch*	18	21
+wuensch*	18	21
+wurde	36
+wuerde	18	21
+wuerde*	12	13	45	
+wurden	36
+wuerden	18	21
+wurdest	36
+wuerdest	18	21
+wurdet	36
+wuerdet	18	21
+wuerdevoll*	12	13
+wuerg*	57	58
+wusch*	36
+wuschig*	57	58	59
+wusste*	18	20	36
+wusste*	18	20	36
+wut*	12	16	
+wueten*	12	16	
+zaehne*	57	58
+zaertlich*	12	13	14
+zaghaft*	12	16	
+zahl*	37	45	47	53
+zahn*	57	58
+zaehne*	57	58
+zahnschmerz*	12	16	57	58
+zappelig*	12	16
+zart*	12	13	57	58
+zaertlich*	12	13	14
+zauder*	12	16		18	21	22	23
+zeh*	57	58
+zehn*	11
+zehner	53
+zeit	10	35
+zeitalter*	35
+zeitintervall	35
+zeitweise*	18	23
+zensur*	45	46
+zerfaehr*	12	16	
+zerfaell*	37
+zerfahr*	12	16	
+zerfaehr*	12	16	
+zerfall*	12	16	54	56
+zerfaell*	37
+zerfalle	37
+zerfiel*	36
+zerfuhr*	12	16	
+zerlaeuf*	37
+zerlaeuf*	37
+zerlaufe	37
+zerlief*	36
+zermuerb*	12	16
+zermuerb*	12	16
+zerschmelze	37
+zerschmilz*	37
+zerschmolz*	36
+zerstoer*	12	16		54	56
+zerstoer*	12	16		54	56
+zeugnis*	45	47
+zicke*	63
+ziehe	37	44
+ziehen	44
+ziehst	37	44
+zieht	37	44
+ziel	18	19
+ziel*	18	19	45	
+ziele	18	19
+zielen	18	19
+ziels	18	19
+zielstrebig*	12	13	15	18	45		20	38
+ziemlich*	18	23
+zimmer*	48	49
+zimmergenoss*	29	32
+zitt*	12	16		57	58
+zitter*	12	16	
+zittrig*	12	16		57	58
+zoeger*	12	16		18	21	22	23
+zoff*	29	30
+zog*	36	44
+zoeger*	12	16		18	21	22	23
+zombie*	63
+zorn*	12	16	
+zotig*	12	16	
+zu	10	39
+zuallerletzt	35
+zuerst	11	45	
+zufaelle*	18	23
+zufaellig*	18	23
+zufall*	18	23
+zufaelle*	18	23
+zufaellig*	18	23
+zufolge	10
+zufrieden*	12	13	14
+zugab*	18	20	29	30	36
+zugebe	18	20	29	30	37
+zugeben	18	20	29	30
+zugegeben	18	20	29	30	36
+zugehoert	29	30	36
+zugehoert	29	30	36
+zugelaechelt	12	13
+zugelaechelt	12	13
+zugelassen	18	20	29	30	36
+zugeliefert	36	44
+zugeneigt*	12	13	14
+zugenommen	36
+zugeschlagen	36
+zugesichert*	18	24
+zugestaendnis*	18	20
+zugestanden*	18	20
+zugestaendnis*	18	20
+zugesteh*	18	20
+zugestellt	36	44
+zugestimmt*	12	13
+zugetraut*	12	13	15
+zugibst	18	20	29	30	37
+zugibt	18	20	29	30	37
+zugunsten	10
+zuhaus*	48	49
+zuhoer*	25	27	29	30	48	52
+zuhoer*	25	27	29	30	48	52
+zukuenftig*	35	38
+zukunft*	35	38
+zukuenftig*	35	38
+zulaechel*	12	13
+zulaechle*	12	13
+zulaechel*	12	13
+zulaess*	18	20	29	30
+zulage*	45	47
+zulass*	18	20	29	30	45	46
+zulaess*	18	20	29	30
+zulaess*	18	20	29	30
+zulasse*	18	19	29	30
+zulasten	10
+zuletzt	35
+zuliebe	10
+zuliefere	37	44
+zuliefern	44
+zulieferst	37	44
+zuliefert	37	44
+zulieferte*	36	44
+zuliess*	29	30	36
+zuliess*	29	30	36
+zunaechst	10	35
+zunaechst	10	35
+zunahm*	36
+zunehme	37
+zuneig*	12	13	14
+zunge*	57	58
+zunimm*	37
+zurueckdraeng*	18	22
+zurueckgedraengt*	18	22
+zurueckgehalten*	18	22
+zurueckgerufen	29	30	36
+zurueckgeschlagen	29	30	36
+zurueckgewinn*	12	13	15
+zurueckhael*	18	22
+zurueckhalt*	18	22
+zuruecknahme*	18	21
+zuruecknehm*	18	21
+zuruecknimm*	18	21
+zurueckruf*	29	30
+zurueckdraeng*	18	22
+zurueckgedraengt*	18	22
+zurueckgehalten*	18	22
+zurueckgerufen	29	30	36
+zurueckgeschlagen	29	30	36
+zurueckgewinn*	12	13	15
+zurueckhael*	18	22
+zurueckhalt*	18	22
+zuruecknahme*	18	21
+zuruecknehm*	18	21
+zuruecknimm*	18	21
+zurueckruf*	29	30
+zurzeit	35
+zusammen	42
+zusammengehangen	36
+zusammengestaucht*	12	16	
+zusammengetragen	36	44
+zusammengezogen	36
+zusammengezuckt*	12	16	
+zusammenhaeng*	18	20	37
+zusammenhang	18	20
+zusammenhaeng*	18	20	37
+zusammenhing*	18	20	36
+zusammenstauch*	12	16	
+zusammentraegst	37	44
+zusammentraegt	37	44
+zusammentrage	37	44
+zusammentragen	44
+zusammentraegst	37	44
+zusammentraegt	37	44
+zusammentrug*	36	44
+zusammenziehe	37
+zusammenziehst	37
+zusammenzieht	37
+zusammenzog*	36
+zusammenzuck*	12	16	
+zuschlaeg*	12	16		37
+zuschlaeg*	12	16		37
+zuschlage	12	16		37
+zuschlug*	12	16		36
+zuseiten	10
+zusicher*	18	24
+zustaendig*	18	22	45	47
+zustaendig*	18	22	45	47
+zustelle	37	44
+zustellen	44
+zustellst	37	44
+zustellt	37	44
+zustellte*	36	44
+zustimm*	12	13
+zutrank*	36
+zutrau*	12	13	14
+zuungunsten	10
+zuversicht*	12	13	15
+zuvor	35
+zuwider	10
+zuzueglich	10	42
+zuzueglich	10	42
+zwaenge	12	16	
+zwang	12	16		18	22	36
+zwaenge	12	16		18	22
+zwangen	12	16		18	22	36
+zwangslaeufig*	18	24
+zwangslaeufig*	18	24
+zwangst	12	16		18	22	36
+zwangt	12	16		18	22	36
+zwanzig*	11
+zweck	18	19	45	
+zweck*	18	19	45	
+zwecke	18	19
+zwecklos*	12	16	17
+zwecks	10
+zwei	11
+zweifel	12	16		17	18	23
+zweifellos*	18	20	24
+zweifels	12	16		17	18	23
+zweifelsfrei*	18	20	24
+zweijaehrig*	35
+zweijaehrig*	35
+zweirad*	48	50
+zweit*	11
+zweitaegig*	35
+zweitaegig*	35
+zweiu*	11
+zwickmuehle	12	16	54	55
+zwickmuehle	12	16	54	55
+zwilling	29	33
+zwillinge	29	33
+zwillingsbruder*	29	33
+zwillingsbrueder*	29	33
+zwillingsbrueder*	29	33
+zwillingsschwester*	29	33
+zwinge	12	16		18	22	37
+zwingst	12	16		18	22	37
+zwingt	12	16		18	22	37
+zwischen	10	39
+zwischenzeit*	35
+zwoelf*	11
+zwoelf*	11
+zynisch*	12	16	
+zyste*	57	58
+WAHR	12	13
